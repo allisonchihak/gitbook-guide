@@ -40,9 +40,9 @@ For all services, both stay and non-stay, you can find the following options in 
   * **Order generates e-mail** - Indicates that responsible party will receive an e-mail for new orders
   * **Order generates notification** - Indicates that responsible party will receive a notification for new orders
 * **Stay Services** &gt; **Responsibility**
-  * **Responsible Department** - Choose from departments to indicate who will receive notification or e-mails whenever this particular service is ordered. 
+  * **Responsible Department** - Choose from departments to indicate who will receive notification or e-mails whenever this particular service is ordered.
 
-    You can set up the responsible departments when you go to settings of each service under the tab 
+    You can set up the responsible departments when you go to settings of each service under the tab
 
 > ### Mews Clues
 >
