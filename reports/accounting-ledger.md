@@ -18,7 +18,7 @@ Below, you'll find an overview of each filter and feature that is visible on thi
   * **Guest Ledger** - All guest accounts with open balances
   * **Receivables** - All accounts with an open or overdue invoice payments
 * **Group by** - indicates in which order you'd like the report variables to appear
-  * **Accounting Category** - View in order of [accounting categories](../settings/finance-settings/accounting-categories.md) used at your property
+  * **Accounting Category** - View in order of [accounting categories](https://github.com/MewsSystems/gitbook-guide/tree/4c6279f64353d042d14304d854de244529b4347c/settings/finance-settings/accounting-categories.md) used at your property
   * **Consumption Date** - View in chronological order starting with the oldest charge until the most recent charge
   * **Customer** - View all customers who have open balances, appearing in alphabetical order by last name
   * **Service** - View report grouped by services ordered 
@@ -45,5 +45,5 @@ Below, you'll find an overview of each filter and feature that is visible on thi
 ## Mews Clues
 
 * Each item in the accounting ledger is clickable. Click on any particular item to view the bill on which it was closed. 
-* Please note that you may need to edit your [accounting categories](../settings/finance-settings/accounting-categories.md) or [service settings](../settings/sales-settings/services/) to allow for data to appear in more detail. 
+* Please note that you may need to edit your [accounting categories](https://github.com/MewsSystems/gitbook-guide/tree/4c6279f64353d042d14304d854de244529b4347c/settings/finance-settings/accounting-categories.md) or [service settings](https://github.com/MewsSystems/gitbook-guide/tree/4c6279f64353d042d14304d854de244529b4347c/settings/sales-settings/services/README.md) to allow for data to appear in more detail. 
 

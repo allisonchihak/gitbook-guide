@@ -4,6 +4,5 @@ Bill rebates can be complicated in Mews as it has previously not been an automat
 
 To rebate a bill, simply navigate to the bill that needs to be rebated, look for the `Rebate` button, and click on it. After confirming the rebate, each item listed on that bill will automatically be recreated in the equal but opposite value and added to a new open bill in the customer's profile, which can then be amended or closed as necessary. Once a bill has been rebated, the button will disappear from that bill so that it cannot be rebated multiple times.
 
-Please note that the original bill will be unaltered; rather, this feature will create a duplicate of those bill items with a corresponding negative total to balance that original amount.  
-
+Please note that the original bill will be unaltered; rather, this feature will create a duplicate of those bill items with a corresponding negative total to balance that original amount.
 

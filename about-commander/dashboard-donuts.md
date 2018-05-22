@@ -56,7 +56,7 @@ The orders donut is used to highlight if there are any product orders that need 
 
 Room status is also known as Housekeeping status, which can be described as the current state of any given space that is available for booking at your property. The Room Status donut is the performance snapshot of your housekeeping department, allowing you to instantly see the current number of spaces in each of the following categories.
 
-Click on this donut to be taken directly to our [Room Status Report](../reports/room-status.md), where you can find more detailed information about the status of these spaces. From there, you can assign employees to any room for cleaning, inspection, or maintenance
+Click on this donut to be taken directly to our [Room Status Report](https://github.com/MewsSystems/gitbook-guide/tree/e98c634289d3404291489947c3775f8984985b39/reports/room-status.md), where you can find more detailed information about the status of these spaces. From there, you can assign employees to any room for cleaning, inspection, or maintenance
 
 Below, you will find a detailed description of all the different room statuses that you will find in Mews:
 
@@ -66,7 +66,7 @@ Below, you will find a detailed description of all the different room statuses t
 * **Out of service \(OOS\)-** `OOS` rooms will be highlighted in orange, showing to the operational team that there is critically urgent action required. Staff may place a room out of service if there is a minor defect in the room that can be fixed before 18:00 on the same day. Please note that an `OOS` room will not be taken out of sales inventory and is still available for booking, therefore it is important that fixes are completed in a timely manner.
 * **Out of order \(OOO\)** - `OOO` rooms will be highlighted in yellow. Placing a room `Out of Order` is a serious decision that should only be made by a supervisor. `OOO` rooms do not require action today because they are taken out of the central inventory and cannot be sold for the period of time that you have selected. Staff should always try to prevent using this status unless there is no other option. If you need to place a room `Out of Order` while your property is fully booked, the reservation in that place will be automatically reassigned and, if needed, pushed into an overbooking slot. Please note that if a parent room is placed `OOO`, all child rooms will also be placed `OOO` for the same block of time. 
 
-Please see the [Room Status Report](../reports/room-status.md) for more information about changing room status or placing a room `Out of Order`.
+Please see the [Room Status Report](https://github.com/MewsSystems/gitbook-guide/tree/e98c634289d3404291489947c3775f8984985b39/reports/room-status.md) for more information about changing room status or placing a room `Out of Order`.
 
 ## Arriving Profiles
 

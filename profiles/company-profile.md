@@ -21,7 +21,7 @@ Within this report, you can utilize the following filters:
 
 Navigate to the main companies page using the following path:
 
-*  **Main menu &gt; Profiles &gt; Companies**
+* **Main menu &gt; Profiles &gt; Companies**
 
 Here, you will see a current list of all existing Company Profiles. Properties can create as many profiles as necessary.
 

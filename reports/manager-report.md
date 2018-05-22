@@ -20,9 +20,9 @@ Below, you will find a description of all filters and items that you can find on
   * **Year** - One column for each year and one column for totals
   * **Year Overview** - One column for yesterday, one column for month-to-date, and one column for year-to-date 
 * **Group by** - Choose how you would like your results to be ordered
-  * **Accounting category** - Results with one row for each of your [accounting categories ](../settings/finance-settings/accounting-categories.md)
-  * **Accounting category classification** - Results with rows for each classification chosen within [accounting categories](../settings/finance-settings/accounting-categories.md)
-  * **Service** - Results with a row for each [service](../settings/sales-settings/services/) that your property offers, including stay
+  * **Accounting category** - Results with one row for each of your [accounting categories ](https://github.com/MewsSystems/gitbook-guide/tree/4c6279f64353d042d14304d854de244529b4347c/settings/finance-settings/accounting-categories.md)
+  * **Accounting category classification** - Results with rows for each classification chosen within [accounting categories](https://github.com/MewsSystems/gitbook-guide/tree/4c6279f64353d042d14304d854de244529b4347c/settings/finance-settings/accounting-categories.md)
+  * **Service** - Results with a row for each [service](https://github.com/MewsSystems/gitbook-guide/tree/4c6279f64353d042d14304d854de244529b4347c/settings/sales-settings/services/README.md) that your property offers, including stay
 * **Values -** 
   * **Gross** - Total including item value and tax
   * **Net** - Item value excluding tax

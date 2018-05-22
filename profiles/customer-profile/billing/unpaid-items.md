@@ -20,7 +20,7 @@ One-line stay summaries will each include the following information:
 * **Mews Reservation Number** - Unique reference number assigned to reservation by Mews
 * **Customer** - Name of customer who booked reseration
 * **Dates of stay** - Listed in `arrival date - departure date` format
-* [**Room category**](../../../settings/space-configuration-settings/room-categories.md) - Selected room category as to your property's settings
+* [**Room category**](https://github.com/MewsSystems/gitbook-guide/tree/a96c1ba7e7198d3970e84666b9f12ed3ff2960c6/settings/space-configuration-settings/room-categories.md) - Selected room category as to your property's settings
 * **Room number** - Assigned room number for past and current reservations. Please note that canceled reservations will not have an assigned room number. 
 * **Balance** - If customer still owes a balance for this stay, the total will be listed in your default currency
 
@@ -28,7 +28,7 @@ Expandable stay items may include:
 
 * Cancellation fees \(with reason provided\)
 * Per night pricing
-* [Services](../../../settings/sales-settings/services/)
+* [Services](https://github.com/MewsSystems/gitbook-guide/tree/a96c1ba7e7198d3970e84666b9f12ed3ff2960c6/settings/sales-settings/services/README.md)
 * [Deposits](https://github.com/mews-systems/commander-guide/tree/aba4aad5c9d2bc8ec74b2a6c202f25d981c8b45b/profiles/customer-profile/customer-profile-sections/billing/deposits.md)
 
 > ### Mews Clues

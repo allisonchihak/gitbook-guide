@@ -1,6 +1,6 @@
 # Accounting Report
 
-The Accounting Report is an overview of all revenue posted in Mews Commander, which is divided and displayed by [accounting categories](../settings/finance-settings/accounting-categories.md). This report can be used to analyze your property's revenue and payments.
+The Accounting Report is an overview of all revenue posted in Mews Commander, which is divided and displayed by [accounting categories](https://github.com/MewsSystems/gitbook-guide/tree/4c6279f64353d042d14304d854de244529b4347c/settings/finance-settings/accounting-categories.md). This report can be used to analyze your property's revenue and payments.
 
 Below, you'll find an overview of each filter and feature that is visible on this report:
 
@@ -15,8 +15,8 @@ Below, you'll find an overview of each filter and feature that is visible on thi
 * **Start date & time** - Date and time that report data begins
 * **End date & time** - Date and time that report data ends
 * **Group by** - indicates in which order you'd like the report variables to appear
-  * **Accounting category** - Group by [accounting categories](../settings/finance-settings/accounting-categories.md) used at your property
-  * **Accounting category classification** - Group by [accounting category](../settings/finance-settings/accounting-categories.md) classification. 
+  * **Accounting category** - Group by [accounting categories](https://github.com/MewsSystems/gitbook-guide/tree/4c6279f64353d042d14304d854de244529b4347c/settings/finance-settings/accounting-categories.md) used at your property
+  * **Accounting category classification** - Group by [accounting category](https://github.com/MewsSystems/gitbook-guide/tree/4c6279f64353d042d14304d854de244529b4347c/settings/finance-settings/accounting-categories.md) classification. 
   * **Bill** - Group by bills assigned to customers, companies, and those unassigned
   * **Creator** - Group by the person who posted the items
   * **Date** - Group by date

@@ -1,6 +1,6 @@
 # Closed Bills and Invoices
 
-From the moment that a bill or invoice is closed, it is considered a legal document. Because of legality, none of the items on that bill can be amended. However, within your [`editable history window`](../../../settings/finance-settings/accounting-configuration.md), billing address and notes can still be changed.
+From the moment that a bill or invoice is closed, it is considered a legal document. Because of legality, none of the items on that bill can be amended. However, within your [`editable history window`](https://github.com/MewsSystems/gitbook-guide/tree/a96c1ba7e7198d3970e84666b9f12ed3ff2960c6/settings/finance-settings/accounting-configuration.md), billing address and notes can still be changed.
 
 For detailed information about how to fully close bills, please see [`Review and Close`](review-and-close.md) or [`Review and Invoice`](review-and-invoice.md).
 

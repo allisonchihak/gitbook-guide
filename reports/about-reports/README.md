@@ -12,7 +12,7 @@ If you run reports with huge amounts of data, we recommend to export the report,
 
 ## **Date & Time Selection**
 
-**Almost every report in Mews has a date selection and/or time selection.** 
+**Almost every report in Mews has a date selection and/or time selection.**
 
 * **Dates only:** when there is a date selection only and you select the end date \(for example 30th April\) this will include the full end date as selected 
 * **Dates & Times:** when there is both a date and a time selection on the report, be careful as often users forget to include the last day. For example if you try to run a report for April, you need to select

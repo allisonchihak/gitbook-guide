@@ -21,7 +21,7 @@ Within the `Bill closing` field, you will find three different options to choose
 * **Only with consumed items** - You may only close bills that have consumed items on them. Therefore, if there is a future stay, the system will not allow you to close this bill until the day of checkout. This setting is extremely restrictive to front desk, and we do not recommend using it.
 * **Only with consumed items half day window** - You may not close a bill with consumed items until the day of departure, however you can make changes to the booking up until departure. From the moment that a bill is closed, you cannot make changes to that booking because the items that are already on that closed bill would be affected by the change. This is the most flexible setting and we recommend this option over the others.
 
-For more information check [`Accounting configuration`](../../../settings/finance-settings/accounting-configuration.md).
+For more information check [`Accounting configuration`](https://github.com/MewsSystems/gitbook-guide/tree/a96c1ba7e7198d3970e84666b9f12ed3ff2960c6/settings/finance-settings/accounting-configuration.md).
 
 ## Privileges
 

@@ -21,7 +21,7 @@ In the `Open bills` section, click on the `Move` button, and select the name of 
 
 To move the item to another customer that is not linked with that reservation, you must first move these items from the `Unpaid items` section to the customer's open bill.
 
-In the `Open bills` section, click on the `Move` button, and select `Another customer`. Next, you will see a second window where you can [search](../../../mews-dashboard/dashboard-header/search-function.md) for the correct customer profile. Please note that you cannot create new customers from this screen.
+In the `Open bills` section, click on the `Move` button, and select `Another customer`. Next, you will see a second window where you can [search](https://github.com/MewsSystems/gitbook-guide/tree/a96c1ba7e7198d3970e84666b9f12ed3ff2960c6/mews-dashboard/dashboard-header/search-function.md) for the correct customer profile. Please note that you cannot create new customers from this screen.
 
 After selecting the correct customer, items will automatically be transferred to that person's open bill.
 

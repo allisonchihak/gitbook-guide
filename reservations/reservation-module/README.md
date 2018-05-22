@@ -57,9 +57,9 @@ Each collapsible reservation title includes the following information:
 * **Checkbox** - Select this box to edit a booking; if no booking is selected, the tabs will not appear on the left-hand side
 * **Guest count** - Number of guests will be displayed in `number` x `profile icon` format
 * **Customer profile icon** - Link directly to the guest profile
-* **Billing icon** - Link directly to the [customer profile billing screen](../../profiles/customer-profile/billing/)
+* **Billing icon** - Link directly to the [customer profile billing screen](https://github.com/MewsSystems/gitbook-guide/tree/75439fea52e1c291e5de989037f4d93d9a04c388/profiles/customer-profile/billing/README.md)
 * **Timeline icon** - Link to view this booking on the timeline
-* **Credit card icon** - Link directly to the [customer profile payments screen](../../profiles/customer-profile/payments/)
+* **Credit card icon** - Link directly to the [customer profile payments screen](https://github.com/MewsSystems/gitbook-guide/tree/75439fea52e1c291e5de989037f4d93d9a04c388/profiles/customer-profile/payments/README.md)
 * **Customer name** - Name of guest who made the original booking
 * **Assigned room** - Room number assigned to reservation
 * **Requested category** - Space category of the original booking

@@ -15,7 +15,7 @@ Here, you can see a list of preauthorizations, both past and current. The follow
 * **Notes** - Any additional notes or information included for the transaction
 * **State**
 * * **Chargeable** - A successfully created preauthorization that is ready to be charged; this badge is displayed in blue indicating required action
-  * **Charged** - When a preauthorization is successfully charged, badge will change black and will be labeled 'Charged'. Hover over this badge to see originally preauthorized amount and the charged amount. You will also see this transaction listed in the `Payments` section, with a matching `Identifier` ****number. 
+  * **Charged** - When a preauthorization is successfully charged, badge will change black and will be labeled 'Charged'. Hover over this badge to see originally preauthorized amount and the charged amount. You will also see this transaction listed in the `Payments` section, with a matching `Identifier` _\*\*_number. 
   * **Canceled** - When a preauthorization is canceled, state badge will change to a grey color and will be displayed with 'Canceled'. Hover over the badge to see the originally canceled amount and the date and time of cancellation. 
 * **Value** - The monetary value of the original preauthorization, including currency
 * **Actions**
@@ -41,7 +41,7 @@ For online cards charged using Stripe & Adyen, you can use the `Charge online` f
 * **Amount** - Enter the monetary value of the preauthorization, not including currency symbols
 * **Notes** - Include any notes or additional information as necessary
 
-When all fields are correctly completed, click `Create via internet` and you will see the preauthorization appear in the `Payment` section, which is then available for charging at the desired time. 
+When all fields are correctly completed, click `Create via internet` and you will see the preauthorization appear in the `Payment` section, which is then available for charging at the desired time.
 
 **Add manually charged payment**
 
@@ -62,7 +62,7 @@ For cards being charged manually via an external terminal that is not associated
 * **Sequence Code** - Any additional code used to identify this transaction; please consult with your accounting team for further information
 * **Notes** - Include any notes or additional information as necessary
 
-When all fields are correctly completed, click `Created by terminal` to complete the transaction on your external device. 
+When all fields are correctly completed, click `Created by terminal` to complete the transaction on your external device.
 
 ## Charge
 
@@ -91,7 +91,7 @@ Click on the rate groups that you would like to automate, and within each one, l
 * **Settlement action** - Desired action at the time of settlement trigger. Please note that settlement action only applies to automatic settlements.
   * **Create preauthorization** - Preauthorization will be created for the card on file at the time of settlement trigger including any applicable offset, however card will not be charged until manually processed by an employee
 
-Please note that if you choose to automate your preauthorizations, you will also have to complete the rest of the fields concerning automatic settlement as are fully described in our article about [`Rate groups`](../../../settings/sales-settings/services/stay-services/rate-groups/).
+Please note that if you choose to automate your preauthorizations, you will also have to complete the rest of the fields concerning automatic settlement as are fully described in our article about [`Rate groups`](https://github.com/MewsSystems/gitbook-guide/tree/a96c1ba7e7198d3970e84666b9f12ed3ff2960c6/settings/sales-settings/services/stay-services/rate-groups/README.md).
 
 ## Cancel
 

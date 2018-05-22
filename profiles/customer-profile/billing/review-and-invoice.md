@@ -24,7 +24,7 @@ In these settings, you can select a `Default invoice counter`. This field is a d
 
 Lastly, you will find a field titled `Invoice payment`, where you can select an accounting category dedicated only to receiveable invoice payments.
 
-For more information about `Accounting configuration` options, [`click here`](../../../settings/finance-settings/accounting-configuration.md).
+For more information about `Accounting configuration` options, [`click here`](https://github.com/MewsSystems/gitbook-guide/tree/a96c1ba7e7198d3970e84666b9f12ed3ff2960c6/settings/finance-settings/accounting-configuration.md).
 
 ## Privileges
 

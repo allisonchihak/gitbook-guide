@@ -38,13 +38,13 @@ Please note that this option is not selected by default, and therefore must be m
 
 If you use Mews Merchant or direct Adyen integration that is fully set up in the PMS, you can automate deposits and payments.
 
-Navigate to [Rate groups](../../../settings/sales-settings/services/stay-services/rate-groups/) using the following path:
+Navigate to [Rate groups](https://github.com/MewsSystems/gitbook-guide/tree/a96c1ba7e7198d3970e84666b9f12ed3ff2960c6/settings/sales-settings/services/stay-services/rate-groups/README.md) using the following path:
 
 * **Settings &gt; Services &gt; Stay &gt; Rate groups**
 
-Select the correct [Rate group](../../../settings/sales-settings/services/stay-services/rate-groups/) by clicking on its name, or [create a new one](https://github.com/mews-systems/commander-guide/tree/aba4aad5c9d2bc8ec74b2a6c202f25d981c8b45b/settings/sales-settings/services/stay-settings/rate-groups/create-a-rate-group.md).
+Select the correct [Rate group](https://github.com/MewsSystems/gitbook-guide/tree/a96c1ba7e7198d3970e84666b9f12ed3ff2960c6/settings/sales-settings/services/stay-services/rate-groups/README.md) by clicking on its name, or [create a new one](https://github.com/mews-systems/commander-guide/tree/aba4aad5c9d2bc8ec74b2a6c202f25d981c8b45b/settings/sales-settings/services/stay-settings/rate-groups/create-a-rate-group.md).
 
 Under the `Options` drop-down, select the box next to '**Automatic deposit settlement**' and click '**Save**'.
 
-Select this option if you would like to settle deposits automatically when reservations for that [rate group](../../../settings/sales-settings/services/stay-services/rate-groups/) come in. In this case, the guest’s credit card will be charged and a deposit will be posted on the guest’s [billing](https://github.com/mews-systems/commander-guide/tree/aba4aad5c9d2bc8ec74b2a6c202f25d981c8b45b/profiles/customer-profile/customer-profile-sections/billing.md) screen.
+Select this option if you would like to settle deposits automatically when reservations for that [rate group](https://github.com/MewsSystems/gitbook-guide/tree/a96c1ba7e7198d3970e84666b9f12ed3ff2960c6/settings/sales-settings/services/stay-services/rate-groups/README.md) come in. In this case, the guest’s credit card will be charged and a deposit will be posted on the guest’s [billing](https://github.com/mews-systems/commander-guide/tree/aba4aad5c9d2bc8ec74b2a6c202f25d981c8b45b/profiles/customer-profile/customer-profile-sections/billing.md) screen.
 
