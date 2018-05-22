@@ -1,4 +1,0 @@
-# Connectivity
-
-## Connectivity Integration
-
