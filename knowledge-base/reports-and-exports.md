@@ -6,7 +6,7 @@ Article in progress. More Knowledge Base content coming soon!
 
 We do not have a specific report in Mews that will calculate a trial balance, but you can easily do this using the `Accounting Ledger` and `Accounting Report`. Below, you can find a description of how to calculate the Trial Balance for a certain period.
 
-**1.** Navigate to the Accounting ledger report using the following path:
+1**.** Navigate to the Accounting ledger report using the following path:
 
 * **Main Menu &gt; Finance &gt; Accounting ledger**
 
@@ -25,7 +25,7 @@ Choose the following options for each filter:
 
   On the very last line of the report, in the `Totals` row and the `General ledger` column, you will find the total balance. Copy this number for calculation in step 3.
 
-**2.** Navigate to the Accounting report using the following path:
+2**.** Navigate to the Accounting report using the following path:
 
 **Main Menu &gt; Finance &gt; Accounting report**
 
@@ -50,7 +50,7 @@ Choose the following options for each filter:
 
 Copy the totals under both the `Revenue` and `Payments` sections for the following calculation.
 
-**3.** Lastly, calculate the final trial balance using the following formula:
+3**.** Lastly, calculate the final trial balance using the following formula:
 
 **Accounting ledger total + Revenue total - Payments total = Trial Balance**
 
@@ -105,7 +105,7 @@ After clicking `Save`, your export schedule should be complete and enabled. Begi
 ### Future-Predictive Data
 
 1. Within Mews Commander, navigate to the `Availability Report` by either clicking the link on the dashboard or using the following path:
-   *  **Main** **Menu &gt; Reservations &gt; Availability** 
+   * **Main** **Menu &gt; Reservations &gt; Availability** 
 2. Look for the `OK` button, click on it, and select `Create export schedule`.
 3. Next, you will be automatically redirected to your export schedule settings. Under the `Report configuration` section, choose the following options for each filter:
 
@@ -120,7 +120,7 @@ After clicking `Save`, your export schedule should be complete and enabled. Begi
 
    When all fields are completed as described above, click `Save` under the `Report configuration` section.
 
-4. In the `Export schedule` section, choose the following options for each filter: 
+4. In the `Export schedule` section, choose the following options for each filter:
    * **Enabled** - Select this box to activate automated reporting
    * **Name** - Create a title for the report; please note that this title will be listed after `Availability Report`
    * **Next start** - Select next Monday's date and choose 07:00 as the time
