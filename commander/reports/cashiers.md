@@ -78,7 +78,7 @@ Each receipt will include the following information:
 
 Click on the `Print` icon to print the receipt if necessary. 
 
-## Open a Shift
+## Opening a Shift
 
 The first time you open a cashier that has recently been set up, it will open with a balance of zero. Typically, you begin a shift with a minimum opening balance to ensure that you have some change in your drawer for customers who don't pay their bill with an exact amount. To set the opening balance at the beginning of a shift, click the `+ Transactions received` button and fill in the following details about the transaction:
 
@@ -88,7 +88,7 @@ The first time you open a cashier that has recently been set up, it will open wi
 
 After you have clicked `Save`, the transaction will be added to the list of transactions below the shift overview. Once you have set up your starting balance correctly, you can begin using the cashier. 
 
-## Close a Shift
+## Closing a Shift
 
 To close a shift, click on the title of that cashier. At this time, employees should count the money that is physically present in the cashier. This number should match the balance stated in the shift overview. If the balances match, you can click on the `Close shift` button to open a new page. Here, you will find the following details regarding the shift:
 
@@ -111,7 +111,7 @@ When you have completed all relevant fields, you can click `Close shift` to be t
   * **Balance** - Amount of money left in the cashier for the start of the next shift
 * **Transactions** - A list of each transaction that occurred throughout the shift, including base value corrections. For more information, see transactions.
 
-## Review Past Shifts
+## Reviewing Past Shifts
 
 You can review a past shift by navigating to Cashier page, selecting the cashier you wish to review, and selecting the `Pasts shift` button. Here you will see an overview of every past shift over the last week. To review a shift from further in the past, use the filter options to select the date range you would like to search within and click `OK`.
 

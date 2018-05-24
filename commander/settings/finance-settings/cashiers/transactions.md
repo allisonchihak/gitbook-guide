@@ -1,4 +1,4 @@
-# Transactions
+# ! Transactions
 
 When you click on the title of a Cashier, you will see a list of transactions just under the current shift overview. This list will include cash payments made by customers and petty cash transactions for internal use \(i.e. flowers for reception\).
 

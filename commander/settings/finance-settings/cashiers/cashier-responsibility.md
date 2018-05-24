@@ -1,4 +1,4 @@
-# Cashier Responsibility
+# ! Cashier Responsibility
 
 ### Cashiers:
 
