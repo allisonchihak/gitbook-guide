@@ -2,7 +2,7 @@
 
 This section contains a list of all successful payments made by this customer, including all payment methods. The bottom of the payments section includes a total of all payments received.
 
-At the top of this section, add a new payment by clicking on the `+ Payment` button and select the correct payment method. For more information about new payments, [`click here`](https://mews-systems.gitbook.io/guide/mews-commander/profiles/customer-profile/payments/new-payments).
+At the top of this section, add a new payment by clicking on the `+ Payment` button and select the correct payment method. For more information, see [New Payments](https://mews-systems.gitbook.io/guide/commander/profiles/customer-profile/payments/new-payments).
 
 Each successful payment is displayed with the following information:
 
