@@ -23,7 +23,7 @@ When you've selected the correct company, click on the `Move` button and you wil
 
 If a bill has already been closed, you can still assign that bill to a company within the editable history window, using the same procedure as described above. After that time, it will not be possible to edit any bill details, as it is considered a legal tax document.
 
-If needed, you can assign bills to a company at the `Review and invoice` or `Review and close` screens
+If needed, you can assign bills to a company at the `Review and invoice` or `Review and close` screens.
 
 Please note that company bills are still linked to individual customer profiles. If you have two customers who are staying with the same company, bill items of one customer will not be visible from the billing screen of the other, even if they both have an open company bill. Items will only be visible if they are staying as part of the same reservation group.
 {% endhint %}
