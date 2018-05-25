@@ -6,15 +6,23 @@ This article includes a detailed description of each e-mail type, automatic vs. 
 
 ## Profile creation
 
+More information coming soon! In the mean time, check out our article about [customer profiles](../profiles/customer-profile/).
+
 ## Profile import creation
 
 As reservations in the past, often from other systems, are uploaded into Mews, user profiles are created based on the e-mail addresses and customer details that are provided in the Import file. As these customer profiles are created, users will receive an automatically generated e-mail to inform them that their information was used to create a customer profile that is safely stored in Mews and available in case they would like to request deletion or update any information.
 
 ## Password reset
 
+Article in progress! You can find more information about passwords in our [user profiles](../mews-dashboard/dashboard-header/user-profiles.md) and [employee profile](../profiles/employee-profile.md) articles. 
+
 ## Magic link
 
+Article in progress. More information coming soon!
+
 ## Deletion request
+
+Article in progress. More information coming soon!
 
 ## Quotation
 
@@ -44,11 +52,15 @@ You can create a [`Mail template`](https://github.com/MewsSystems/gitbook-guide/
 
 ## Before start
 
+Article in progress! More information coming soon. 
+
 ## Invitation to online check-in
 
 If you would like the customer to fill in their credit card details, this e-mail will confirm booking details and will include a link where they can check in online. This is automatically sent two days prior to arrival and is sent only if the customer has not already completed the online check-in.
 
 ## Bill or Invoice
+
+Article in progress! Please see our article on [bills and invoices](../profiles/customer-profile/billing/closed-bills-and-invoices.md) for more information in the mean time.
 
 ## After start
 
@@ -56,7 +68,13 @@ Resend a welcome message to your guests after they have arrived and completed ch
 
 ## After end
 
+Article in progress! You can find more information about e-mails in our [mail templates](../settings/sales-settings/services/stay-services/mail-templates/#after-end) article. 
+
 ## Charge confirmation
 
+More information coming soon! While in progress, you can check out our article about [card payments](../profiles/customer-profile/payments/new-payments.md#credit-card). 
+
 ## Charge fail
+
+More coming soon! While we're working on it, you can check out our article about [card payments](../profiles/customer-profile/payments/new-payments.md#credit-card). 
 
