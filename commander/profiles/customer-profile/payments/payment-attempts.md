@@ -4,7 +4,7 @@
 
 In this section of the payments tab, you can see all payment attempts that were not successfully completed.
 
-During the charging process, if we find that there is something wrong with the provided card information \(i.e. expired, blocked by card holder, incorrect CVV code, etc.\), that card will be marked with a `Disabled` state badge, which is visible from the [customer's payment screen](./).
+During the charging process, if we find that there is something wrong with the provided card information \(i.e. expired, blocked by card holder, incorrect CVV code, etc.\), that card will be marked with a `Disabled` state badge, which is visible from the customer's [`Payment`](https://mews-systems.gitbook.io/guide/commander/profiles/customer-profile#payments) screen.
 
 Disabled cards are not chargeable but will remain on the customer's profile as a reference. Customers must contact their bank for more information about the reason for the card's decline.
 
