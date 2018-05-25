@@ -48,5 +48,5 @@ Select a rate group by clicking on its name, or [create a new one](https://mews-
 
 Under the `Options` drop-down, select the box next to `Automatic deposit settlement` and `Save`.
 
-Select this option if you would like to settle deposits automatically when reservations for that rate group come in. In this case, the guest’s credit card will be charged and a deposit will be posted on the guest’s [Billing ](https://mews-systems.gitbook.io/guide/commander/profiles/customer-profile#billing)screen.
+Select this option if you would like to settle deposits automatically when reservations for that rate group come in. In this case, the guest’s credit card will be charged and a deposit will be posted on the guest’s [`Billing` ](https://mews-systems.gitbook.io/guide/commander/profiles/customer-profile#billing)screen.
 
