@@ -91,7 +91,7 @@ Click on the rate groups that you would like to automate, and within each one, l
 * **Settlement action** - Desired action at the time of settlement trigger. Please note that settlement action only applies to automatic settlements.
   * **Create preauthorization** - Preauthorization will be created for the card on file at the time of settlement trigger including any applicable offset, however card will not be charged until manually processed by an employee
 
-Please note that if you choose to automate your preauthorizations, you will also have to complete the rest of the fields concerning automatic settlement as are fully described in our article about [`Rate groups`](https://github.com/MewsSystems/gitbook-guide/tree/28b5cc02840ec1bed99934c7ce562e47157fb0f7/settings/sales-settings/services/stay-services/rate-groups/README.md).
+Please note that if you choose to automate your preauthorizations, you will also have to complete the rest of the fields concerning automatic settlement. For more information, see [Rate Groups](https://mews-systems.gitbook.io/guide/commander/settings/sales-settings/services/stay-services/rate-groups). 
 
 ## Cancel
 
