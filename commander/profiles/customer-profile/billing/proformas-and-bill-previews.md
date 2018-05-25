@@ -38,8 +38,10 @@ When all entered information is correct, click the `OK` button and you'll be tak
 {% hint style="info" %}
 ### Mews Clues
 
-* On the final bill previews and proforma invoices, click the `Send to customer` button to send that document the customer's registered e-mail address. You can also print or export previews to an excel file.
-* Please note that all fields for both proforma invoices and bill previews will still be editable since they are not final tax documents.
-* Please note that all items that should appear on the proforma invoice or bill preview must have been moved to the `Open bills` section before clicking the button, otherwise they will not be included in the preview.
+On the final bill previews and proforma invoices, click the `Send to customer` button to send that document the customer's registered e-mail address. You can also print or export previews to an excel file.
+
+Please note that all fields for both proforma invoices and bill previews will still be editable since they are not final tax documents.
+
+Please note that all items that should appear on the proforma invoice or bill preview must have been moved to the `Open bills` section before clicking the button, otherwise they will not be included in the preview.
 {% endhint %}
 

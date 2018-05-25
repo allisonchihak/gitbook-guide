@@ -15,7 +15,8 @@ For each open bill, proceed as normal to take payments, balance and close, issue
 {% hint style="info" %}
 ### Mews Clues
 
-* Please note that in order to delete a bill, it must be completely empty, with no remaining unpaid items within. 
-* If it is necessary to check out a customer with an open bill, select the `Checkout with unbalanced bill` option next to checkout. Please note that this does not close or balance the bill, rather the open bill will remain connected to the customer's account to be balanced at another time.
+Please note that in order to delete a bill, it must be completely empty, with no remaining unpaid items within. 
+
+If it is necessary to check out a customer with an open bill, select the `Checkout with unbalanced bill` option next to checkout. Please note that this does not close or balance the bill, rather the open bill will remain connected to the customer's account to be balanced at another time.
 {% endhint %}
 

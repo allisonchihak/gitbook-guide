@@ -102,7 +102,8 @@ Lastly, you will see a list of totals from all items and expenses on that partic
 {% hint style="info" %}
 ### Mews Clues
 
-* As long as there are unpaid items on a customer profile, the system does not allow you to complete checkout. If it is necessary to check out a guest with unpaid items, you must select the box labeled `Check out with unbalanced bill`.
-* In your stay settings, under the `Options` section and the `Visit Options` field, you can select the `Close balanced bills at checkout` option so that balanced open bills do not need to be manually closed each time
+As long as there are unpaid items on a customer profile, the system does not allow you to complete checkout. If it is necessary to check out a guest with unpaid items, you must select the box labeled `Check out with unbalanced bill`.
+
+In your stay settings, under the `Options` section and the `Visit Options` field, you can select the `Close balanced bills at checkout` option so that balanced open bills do not need to be manually closed each time
 {% endhint %}
 

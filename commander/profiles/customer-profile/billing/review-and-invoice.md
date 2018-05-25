@@ -71,7 +71,7 @@ All items, including stay items, are listed with the following details:
 * **Totals** - Total sum listed under each respective column
 
 {% hint style="info" %}
-Mews Clues
+### Mews Clues
 
 If some of these fields are not visible, the information may be collapsed. Click on the `+` and `-` buttons to see more or less.
 {% endhint %}
