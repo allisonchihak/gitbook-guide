@@ -18,7 +18,7 @@ Within the `Bill closing` field, you will find three different options to choose
 * **Only with consumed items** - You may only close bills that have consumed items on them. Therefore, if there is a future stay, the system will not allow you to close this bill until the day of checkout. This setting is extremely restrictive to front desk, and we do not recommend using it.
 * **Only with consumed items half day window** - You may not close a bill with consumed items until the day of departure, however you can make changes to the booking up until departure. From the moment that a bill is closed, you cannot make changes to that booking because the items that are already on that closed bill would be affected by the change. This is the most flexible setting and we recommend this option over the others.
 
-For more information check [`Accounting configuration`](https://github.com/MewsSystems/gitbook-guide/tree/28b5cc02840ec1bed99934c7ce562e47157fb0f7/settings/finance-settings/accounting-configuration.md).
+For more information, see [Accounting Configuration](https://mews-systems.gitbook.io/guide/commander/settings/finance-settings/accounting-configuration).
 
 ## Balance
 
@@ -74,9 +74,11 @@ All items, including stay items, are listed with the following details:
 * **Value** - Total cost, including tax and item cost
 * **Totals** - Total sum listed under each respective column
 
-> ### Mews Clues
->
-> If some of these fields are not visible, the information may be collapsed. Click on the `+` and `-` buttons to see more or less.
+{% hint style="info" %}
+### Mews Clues
+
+If some of these fields are not visible, the information may be collapsed. Click on the `+` and `-` buttons to see more or less.
+{% endhint %}
 
 Below the bill item summary, you will see a summary of all received payments, displayed with the following details:
 
@@ -97,9 +99,10 @@ Lastly, you will see a list of totals from all items and expenses on that partic
 * **Value** - Total cost of items per tax rate, including tax and item cost
 * **Totals** - Total sums of Net, VAT, and Value
 
-> ### Mews Clues
->
-> As long as there are unpaid items on a customer profile, the system does not allow you to complete checkout. If it is necessary to check out a guest with unpaid items, you must select the box labeled `Check out with unbalanced bill`
->
-> In your stay settings, under the `Options` section and the `Visit Options` field, you can select `Close balanced bills at checkout` option so that balanced open bills do not need to be manually closed each time
+{% hint style="info" %}
+### Mews Clues
+
+* As long as there are unpaid items on a customer profile, the system does not allow you to complete checkout. If it is necessary to check out a guest with unpaid items, you must select the box labeled `Check out with unbalanced bill`.
+* In your stay settings, under the `Options` section and the `Visit Options` field, you can select the `Close balanced bills at checkout` option so that balanced open bills do not need to be manually closed each time
+{% endhint %}
 
