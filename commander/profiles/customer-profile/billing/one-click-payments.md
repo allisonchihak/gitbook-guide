@@ -6,11 +6,13 @@ First, one-click payments are powered by the merchant integration, so this featu
 
 Secondly, to use this feature, properties must collect credit card information from their customers. Card details are taken directly from what is on file in the `Payments` page of that customer's profile. If a customer has multiple cards on file, you can choose which card you'd like to use from a drop-down menu before closing.
 
-> ### Mews Clues
->
-> Please note that one-click payments are not applicable to properties that do not have both the merchant integration enabled and card information for their customers. Rather, the checkout and payment processes will not change at all and will remain as described [`here`](review-and-close.md).
+{% hint style="info" %}
+### Mews Clues
 
-## Charge and close
+Please note that one-click payments are not applicable to properties that do not have both the merchant integration enabled and card information for their customers. Rather, the checkout and payment processes will not change at all and will remain as described [`here`](review-and-close.md).
+{% endhint %}
+
+## Charge and Close
 
 To use one-click payments, first you must navigate to the customer profile `Billing` screen of the guest. When ready to take payment, move all `Unpaid items` to the `Open bill` of the customer, and you will see the `Charge and close` button appear at the bottom of that section.
 
@@ -24,7 +26,9 @@ After you click `Charge and close`, you will be automatically redirected to the 
 
 When all information looks correct, click the `Close` button, and you will be automatically redirected to the closed bill. Click on the `Send to customer` button to e-mail the record to customer directly. You can also assign the bill to a company, print or export the document for any necessary record keeping.
 
-> ### Mews Clues
->
-> Please note that if customer is using a virtual card, it will not appear in the `One-Click payment` drop-down menu, since it is only able to be used for the exact value of the stay but not any additional products or items.
+{% hint style="info" %}
+### Mews Clues
+
+Please note that if customer is using a virtual card, it will not appear in the `One-Click payment` drop-down menu, since it is only able to be used for the exact value of the stay but not any additional products or items.
+{% endhint %}
 
