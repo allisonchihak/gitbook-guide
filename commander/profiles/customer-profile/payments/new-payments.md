@@ -28,13 +28,15 @@ At this time, you will be taken back the the `Payments` page of the customer's p
 
 If you've chosen a currency that is not your default, it will first be listed as the originally accepted currency and then converted into your default.
 
-> ### Mews Clues
->
-> Please note that payments created directly from the payments screen will appear on the `Billing` section of the customer profile, but will not be connected to any particular bill.
+{% hint style="info" %}
+### Mews Clues
+
+Please note that payments created directly from the payments screen will appear on the `Billing` section of the customer profile, but will not be connected to any particular bill.
+{% endhint %}
 
 ## Credit Card
 
-To create a new payment, click on the `+ Payment` button and select `Credit card payment`
+To create a new payment, click on the `+ Payment` button and select `Credit card payment`.
 
 On this screen, you will first see a list of current preauthorizations that are chargeable, followed by two different payment options.
 
@@ -83,7 +85,7 @@ When all details are correctly entered, click `Created by terminal` to finish pa
 
 ## External
 
-To create a new payment, click on the `+ Payment` button and select `External payment`
+To create a new payment, click on the `+ Payment` button and select `External payment`.
 
 Next, you'll be taken to a screen with the following fields:
 
