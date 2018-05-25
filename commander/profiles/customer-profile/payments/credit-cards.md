@@ -24,7 +24,7 @@ Here, you will see a list of credit cards that the customer has used to make pay
   * **Credit card payment** - Make a payment with an existing credit card or select 'New credit card' to add a payment with a different card
   * **Delete** - Remove credit card details from the customer's profile. Please note that once you've deleted these card details, you must reenter that information in order to use the card again in the future. 
 
-## Adding a Credit Card
+## Add
 
 To add a new credit card, click on the `+ Credit Card` button on the payment screen. From here, you will presented with two options:
 
@@ -55,7 +55,7 @@ Once you have stored a credit card, you will see an "Identifier" which indicates
 
 Each card will appear in a list in this credit cards section and will be available in the drop-down options when this customer makes any future payments.
 
-## Deleting a Credit Card
+## Delete
 
 In the list of cards, look for the `trash can` icon under the 'Actions' column and click on it.
 
