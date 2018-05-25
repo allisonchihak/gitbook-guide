@@ -10,7 +10,7 @@ All cash transactions are recorded in chronological order. Once completed, trans
 
 To manage cashier shifts and transactions, see [Cashiers](https://mews-systems.gitbook.io/guide/commander/reports/cashiers). 
 
-## Creating a Cashier
+## Create
 
 To create or delete a cashier, navigate to the `Cashier Settings` page using the following path:
 
@@ -38,7 +38,7 @@ Property admins can choose which employees have access to specific cashiers. An 
 It is very important that every user who accepts money is assigned to at least one cashier. If a user who is not assigned to a cashier accepts money and posts the transaction on a guest bill, the money will not be recognized by the cashier. This will result in the cashier being unbalanced.
 {% endhint %}
 
-## Deleting a Cashier
+## Delete
 
 In the same settings, click on the title of the cashier you'd like to delete. Look for the `Trash can` icon and click on it. When the confirmation dialog appears, choose `Delete`. When you return to the Cashiers screen, this cashier will no longer be listed. Please note that this action cannot be undone. 
 
