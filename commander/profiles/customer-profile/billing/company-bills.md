@@ -4,9 +4,6 @@ For customers that are traveling for business, bill items can be moved directly 
 
 If the company is already associated with the customer's profile, click on the company's name and that bill will be highlighted, expanding all items within that bill.
 
-* [Create](company-bills.md#create)
-* [Transfer](company-bills.md#transfer)
-
 ## Create
 
 To create a new `Company bill`, navigate to the customer profile billing screen and look for the `Company bills` section just beneath `Open bills`. Look for the `+ Bill` button and click on it.
@@ -21,11 +18,11 @@ If you have `Unpaid items` in the customer's bill and you'd like to transfer the
 
 When you've selected the correct company, click on the `Move` button and you will see that the items were moved to the `Company bills` section under the name of the selected company.
 
-> ### Mews Clues:
->
-> If a bill has already been closed, you can still assign that bill to a company within the editable history window, using the same procedure as described above. After that time, it will not be possible to edit any bill details, as it is considered a legal tax document.
->
-> If needed, you can assign bills to a company at the `Review and invoice` or `Review and close` screens
->
-> Please note that company bills are still linked to individual customer profiles. If you have two customers who are staying with the same company, bill items of one customer will not be visible from the billing screen of the other, even if they both have an open company bill. Items will only be visible if they are staying as part of the same reservation group.
+{% hint style="info" %}
+### Mews Clues
+
+* If a bill has already been closed, you can still assign that bill to a company within the editable history window, using the same procedure as described above. After that time, it will not be possible to edit any bill details, as it is considered a legal tax document.
+* If needed, you can assign bills to a company at the `Review and invoice` or `Review and close` screens
+* Please note that company bills are still linked to individual customer profiles. If you have two customers who are staying with the same company, bill items of one customer will not be visible from the billing screen of the other, even if they both have an open company bill. Items will only be visible if they are staying as part of the same reservation group.
+{% endhint %}
 
