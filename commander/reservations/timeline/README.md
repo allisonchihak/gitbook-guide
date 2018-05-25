@@ -30,9 +30,11 @@ To create a `House Use Booking`, navigate to the `Timeline`, look for the `House
 
 When all details are correctly entered, click `Create` and you will be automatically redirected to the timeline, where you can find the reservation block.
 
-> ### Mews Clues
->
-> Please note that when a house use booking begins, when it ends, and overnight, the room status will automatically change to `Dirty`.
+{% hint style="info" %}
+### Mews Clues
+
+Please note that when a house use booking begins, when it ends, and overnight, the room status will automatically change to `Dirty`.
+{% endhint %}
 
 ## Spaces
 
@@ -50,11 +52,13 @@ A `Face` icon may also appear before the name of the customer, which indicates t
 
 You may also find a `Lock` icon displayed before the customer name, which is described more fully below.
 
-When you click on any booking, you will see that reservation's [`Simple detail`](https://github.com/mews-systems/commander-guide/tree/aba4aad5c9d2bc8ec74b2a6c202f25d981c8b45b/reservations/simple-detail.html) open automatically in a modal window. From this screen you can select the `Manage` or 'Group' buttons to open the `Reservation module`, or use the applicable action button to `Check in` or `Check out` that booking. Within the `Simple detail`, you can click on the icon next to the guest name for a direct link to that customer's profile, where you can manage any of their personal details as needed. For more information, please see our article about [`Simple detail`](https://github.com/mews-systems/commander-guide/tree/aba4aad5c9d2bc8ec74b2a6c202f25d981c8b45b/reservations/simple-detail.html).
+When you click on any booking, you will see that reservation's [`Simple detail`](https://mews-systems.gitbook.io/guide/commander/reservations/simple-detail) open automatically in a modal window. From this screen you can select the `Manage` or 'Group' buttons to open the `Reservation module`, or use the applicable action button to `Check in` or `Check out` that booking. Within the `Simple detail`, you can click on the icon next to the guest name for a direct link to that customer's profile, where you can manage any of their personal details as needed. For more information, please see our [Simple Detail](https://mews-systems.gitbook.io/guide/commander/reservations/simple-detail) article. 
 
-> ### Mews Clues
->
-> The timeline will automatically attempt to resolve any time conflicts created by arrival and departure times. For example, if the departure time of a booking is after 15:00 while there is another booking arriving in that same space at 14:00, the system will automatically try to reallocate the arriving booking to resolve this issue.
+{% hint style="info" %}
+### Mews Clues
+
+The timeline will automatically attempt to resolve any time conflicts created by arrival and departure times. For example, if the departure time of a booking is after 15:00 while there is another booking arriving in that same space at 14:00, the system will automatically try to reallocate the arriving booking to resolve this issue.
+{% endhint %}
 
 ## Move
 
@@ -82,9 +86,11 @@ These slots are displayed in red, indicating that urgent action is required, and
 
 You can resolve overbookings by moving the reservation block from the `overbooking slot` to a vacant space, which will then automatically remove that `overbooking slot` from the timeline.
 
-> ### Mews Clues
->
-> Please note that you cannot manually place bookings into `overbooking slots`, as the system is designed to remove these spaces as soon as possible. The only way to close them is by moving bookings into vacancies in your other space categories, even if it may be a higher or lower space category than was originally requested.
+{% hint style="info" %}
+### Mews Clues
+
+Please note that you cannot manually place bookings into `overbooking slots`, as the system is designed to remove these spaces as soon as possible. The only way to close them is by moving bookings into vacancies in your other space categories, even if it may be a higher or lower space category than was originally requested.
+{% endhint %}
 
 ## Settings
 
@@ -92,7 +98,7 @@ Below, you can find a list of all settings that are relevant to the timeline.
 
 Navigate to your stay settings using the following path:
 
-* **Main Menu &gt; Settings &gt; Services &gt; Stay**
+* **`Main Menu > Settings > Services > Stay`**
 
 Within the `General settings` tab, you can find the following settings to consider:
 
