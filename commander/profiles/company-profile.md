@@ -6,11 +6,6 @@ If creating a company with multiple branches, you will need to create one main c
 
 Upon creation of the company profile it is assigned a unique ID, which is displayed on the list of companies. This number can be very useful for accounting departments, who then use this unique ID to track company related revenue.
 
-* [Filters](company-profile.md#filters)
-* [Create a profile](company-profile.md#create)
-* [Delete a profile](company-profile.md#delete)
-* [CRM](company-profile.md#crm)
-
 ## Filters
 
 Within this report, you can utilize the following filters:
@@ -21,13 +16,13 @@ Within this report, you can utilize the following filters:
 
 Navigate to the main companies page using the following path:
 
-* **Main menu &gt; Profiles &gt; Companies**
+* **`Main menu > Profiles > Companies`**
 
 Here, you will see a current list of all existing Company Profiles. Properties can create as many profiles as necessary.
 
 This main companies page is also a report, which you can export once or use to create an export schedule. You can also create a new company profile using most company field drop-downs throughout the system.
 
-From the main companies page, **look for the** `+` **icon and click on it**. In the next screen, complete the following details to create each profile:
+From the main companies page, look for the `+` icon and click on it. In the next screen, complete the following details to create each profile:
 
 * **Mother company** - Primary company profile used to connect all branches of one company are. You can use this feature to run reservation report statistics for only the mother company, summarizing all underlying profiles.
 * **Name** - Name of company
@@ -56,13 +51,15 @@ When all fields are correctly completed, click the `Create` button and you will 
 * **Created \(UTC\)** - Date that company profile was created
 * **Updated \(UTC\)** - Date that company profile was most recently updated
 
-> ### Mews Clues
->
-> Please note that if your enterprise operates multiple chains, company profiles will be shared in Mews between all of these properties. Therefore, if a profile already exists, you will be able to find that data in the system for each property.
+{% hint style="info" %}
+### Mews Clues
+
+Please note that if your enterprise operates multiple chains, company profiles will be shared in Mews between all of these properties. Therefore, if a profile already exists, you will be able to find that data in the system for each property.
+{% endhint %}
 
 ## Delete
 
-To delete a company profile, navigate to the main company page, **click on the unwanted profile, look for the** `trashcan`**icon and click on it.**
+To delete a company profile, navigate to the main company page, click on the unwanted profile, look for the `trash can` icon and click on it.
 
 Once a profile is deleted, it is no longer possible to assign this profile to reservations. However for past bookings, or future bookings which already had this company profile assigned, the statistics will still show the results including this "deleted" account in reports.
 
@@ -72,7 +69,9 @@ Unfortunately Mews does not currently offer a full Customer Relationship Managem
 
 Use the `Contacts` section to record all necessary contact information and company data and use the `Notes` section in any way you find useful.
 
-> ### Mews Clues
->
-> Some useful information may include contract details, the company's website, e-mail addresses, live chat links, marketing materials, social media accounts, company statistics, etc.
+{% hint style="info" %}
+### Mews Clues
+
+Some useful information may include contract details, the company's website, e-mail addresses, live chat links, marketing materials, social media accounts, company statistics, etc.
+{% endhint %}
 
