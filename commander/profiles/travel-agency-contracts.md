@@ -12,9 +12,11 @@ One important field is the bill assignment field. If you manage this field corre
 * **Travel Agency Always without Commission** - This option will move the charge to the travel agent’s bill and will subtract the commission.
 * **Travel Agency Only if Prepaid** - This option will move the bill to the travel agent only if it was pre-paid. If it was a BAR rate or another non-prepaid rate, it will leave the charge on the guest bill to be paid upon departure
 
-> ### Mews Clues
->
-> Please note that confirmation e-mails for Online Travel Agencies do not include rate total if the Travel Agency contract settlement is paid by the Travel Agency. Companies will be able to see rate totals.
+{% hint style="info" %}
+### Mews Clues
+
+Please note that confirmation e-mails for Online Travel Agencies do not include rate total if the Travel Agency contract settlement is paid by the Travel Agency. Companies will be able to see rate totals.
+{% endhint %}
 
 ## Create
 
