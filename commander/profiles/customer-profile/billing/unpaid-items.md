@@ -39,7 +39,7 @@ As long as there are unpaid items on a customer profile, the system does not all
 In your stay settings, under the `Options` section and the `Visit Options` field, you can select `Close balanced bills at checkout` option so that balanced open bills do not need to be manually closed each time.
 {% endhint %}
 
-## Companion items
+## Companion Items
 
 If this guest is part of a group, you will see all other customers in that group listed below with their unpaid items. If you move items to an open bill, those items will no longer appear in the unpaid group billing list.
 
