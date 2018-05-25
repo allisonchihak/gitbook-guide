@@ -12,7 +12,7 @@ Please note that you cannot modify the address or name on a bill once it has bee
 
 There are a few settings that directly apply to invoicing, which can all be found in your `Accounting configuration`.
 
-Within the `Options` field, we would recommend selecting `Receivable tracking enabled`. This will allow you to track payments for outstanding invoices and their respective due dates. You can find this information in the [`Bills and Invoices`](https://github.com/MewsSystems/gitbook-guide/tree/28b5cc02840ec1bed99934c7ce562e47157fb0f7/reports/bills-and-invoices.md) report.
+Within the `Options` field, we would recommend selecting `Receivable tracking enabled`. This will allow you to track payments for outstanding invoices and their respective due dates. You can find this information in the [`Bills and Invoices`](https://mews-systems.gitbook.io/guide/commander/reports/bills-and-invoices) report.
 
 Secondly, you must also check that invoicing is enabled. Within the `Enabled external payment types` field, be sure that you have selected `Invoice`, along with any other payment types that you'd like to use at your property.
 
@@ -22,7 +22,7 @@ In these settings, you can select a `Default invoice counter`. This field is a d
 
 Lastly, you will find a field titled `Invoice payment`, where you can select an accounting category dedicated only to receiveable invoice payments.
 
-For more information about `Accounting configuration` options, [`click here`](https://github.com/MewsSystems/gitbook-guide/tree/28b5cc02840ec1bed99934c7ce562e47157fb0f7/settings/finance-settings/accounting-configuration.md).
+For more information about `Accounting Configuration` options, [`click here`](https://mews-systems.gitbook.io/guide/commander/settings/finance-settings/accounting-configuration).
 
 ## Issue
 
@@ -70,9 +70,11 @@ All items, including stay items, are listed with the following details:
 * **Value** - Total cost, including tax and item cost
 * **Totals** - Total sum listed under each respective column
 
-> ### Mews Clues
->
-> If some of these fields are not visible, the information may be collapsed. Click on the `+` and `-` buttons to see more or less.
+{% hint style="info" %}
+Mews Clues
+
+If some of these fields are not visible, the information may be collapsed. Click on the `+` and `-` buttons to see more or less.
+{% endhint %}
 
 Below the bill item summary, you will see a summary of all received payments, displayed with the following details:
 
@@ -83,11 +85,13 @@ Below the bill item summary, you will see a summary of all received payments, di
 
 At the very bottom of the `Review and invoice` page, you will see `To be paid`, which states a total balance owed including value and currency.
 
-> ### Mews Clues
->
-> In case of a negative amount, the bottom section will read `To be refunded` instead of `To be paid`
+{% hint style="info" %}
+### Mews Clues
 
-## Receivable payments
+In case of a negative amount, the bottom section will read `To be refunded` instead of `To be paid`.
+{% endhint %}
+
+## Receivable Payments
 
 When you return to the billing page of that customer, you will find a separate bill item in the `Unpaid items` section for each issued invoice. Item will be labeled `Receivable invoice payment` listed with the corresponding invoice number.
 
