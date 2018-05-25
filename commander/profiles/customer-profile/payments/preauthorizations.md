@@ -4,7 +4,7 @@ Preauthorizations are the practice within the banking industry of verifying elec
 
 ## Past and Current
 
-Here, you can see a list of preauthorizations, both past and current. The following information is visible from the payments screen:
+Here you will find a list of preauthorizations, both past and current. The following information is visible from the payments screen:
 
 * **Credit card** - Card type and obfuscated card number revealing only the last 4 digits of the card number
 * **Sequence code** - Any additional code used to identify this transaction; please consult with your accounting team for further information
@@ -84,7 +84,7 @@ To locate the correct an already charged preauthorization, compare the `Identifi
 
 Navigate to your rate group settings to automate preauthorizations, which can then be processed later at the time of your choosing. Below, you will find a list of settings that directly apply to automating your preauthorizations. To select these options, navigate to your rate group settings using the following path:
 
-* **Main Menu &gt; Settings &gt; Services &gt; Stay &gt; Rate groups**
+* **`Main Menu > Settings > Services > Stay > Rate groups`**
 
 Click on the rate groups that you would like to automate, and within each one, look for the following settings:
 
@@ -97,11 +97,13 @@ Please note that if you choose to automate your preauthorizations, you will also
 
 If you would like to release the preauthorization, select the `X` button under the `Actions` column and the bank will be notified to release the transaction. Please note that it may take 3-5 business days for Adyen to release the transaction.
 
-> ### Mews Clues:
->
-> * Mews does not store full credit card data. For data security reasons, we store only the last 4 digits of guests' cards and the card type.
-> * You can also use the `+ Payment` button to charge a preauthorization that has already been created. However, you cannot create a new preauthorization from this button.
-> * If you charge a different amount than what was originally preauthorized, the original amount will appear here \(under the `Preauthorizations` section\) but the updated and correctly charged amount will appear under the 'Payments' section.
-> * If you charge the preauthorization partially, the remaining amount will be released to the guest account automatically
-> * Hover over the action icons and the state badges for a moment to see other currency values or to see labels in case you've forgotten what the icon means.
+{% hint style="info" %}
+### Mews Clues
+
+* Mews does not store full credit card data. For data security reasons, we store only the last 4 digits of guests' cards and the card type.
+* You can also use the `+ Payment` button to charge a preauthorization that has already been created. However, you cannot create a new preauthorization from this button.
+* If you charge a different amount than what was originally preauthorized, the original amount will appear here \(under the `Preauthorizations` section\) but the updated and correctly charged amount will appear under the 'Payments' section.
+* If you charge the preauthorization partially, the remaining amount will be released to the guest account automatically
+* Hover over the action icons and the state badges for a moment to see other currency values or to see labels in case you've forgotten what the icon mean
+{% endhint %}
 
