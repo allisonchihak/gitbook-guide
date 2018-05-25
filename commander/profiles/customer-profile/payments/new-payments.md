@@ -1,6 +1,6 @@
 # New Payments
 
-To create a new payment from the Payments tab of the Customer profile, click on the `+ Payment` button and select the correct type of payment. If you have already created a chargeable preauthorization, you will see the additional option to [`Charge preauthorization`](preauthorizations.md).
+To create a new payment from the Payments tab of the Customer profile, click on the `+ Payment` button and select the correct type of payment. If you have already created a chargeable preauthorization, you will see the additional option to [`Charge preauthorization`](https://mews-systems.gitbook.io/guide/commander/profiles/customer-profile/payments/preauthorizations#charge).
 
 Scroll down to find a detailed description of the payment processes for each method.
 
