@@ -232,7 +232,9 @@ If you'd like to remove a Company or Travel Agency from a reservation, simply le
 
 ### Notes
 
-If you wish to add or update the notes on a bill, select the bookings for which you wish to update the names and the current note will appear for you to amend. Please note that if you select multiple bookings and the existing notes are different, it will not be able to display any notes \(the `Notes` box will be empty\).[  
+Here you can add or update notes on a booking. To add a new note, write your message in the box and click `OK`. Your note will be saved and labeled with the time of its creation, and a new box will appear to add another note, if necessary. Every time you create a note, a new empty box will appear, meaning you can have multiple notes attached to one booking. 
+
+Please note that if you select multiple bookings and the existing notes are different, it will not be able to display any notes \(the `Notes` box will be empty\).[  
 ](https://mews-systems.gitbook.io/guide/mews-commander/reservations/reservation-module/rm-state)
 {% endtab %}
 
