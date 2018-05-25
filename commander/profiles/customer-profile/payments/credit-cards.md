@@ -24,11 +24,11 @@ Here, you will see a list of credit cards that the customer has used to make pay
   * **Credit card payment** - Make a payment with an existing credit card or select 'New credit card' to add a payment with a different card
   * **Delete** - Remove credit card details from the customer's profile. Please note that once you've deleted these card details, you must reenter that information in order to use the card again in the future. 
 
-## Add
+## Adding a Credit Card
 
-To add a new credit card, click on the '**+ Credit Card**' button on the payment screen. From here, you will presented with two options:
+To add a new credit card, click on the `+ Credit Card` button on the payment screen. From here, you will presented with two options:
 
-**Online Chargeable Credit Card**
+### **Online Chargeable Credit Card**
 
 This left section is for online cards using Stripe & Adyen.
 
@@ -39,7 +39,7 @@ This left section is for online cards using Stripe & Adyen.
   * **Physical** - Card was physically present on the property at the time of transaction
   * **Virtual** - Card information was received via telephone or by a third party
 
-**Credit Card**
+### **Credit Card**
 
 This right-hand side is for cards that are being charged manually via an external terminal.
 
@@ -55,11 +55,11 @@ Once you have stored a credit card, you will see an "Identifier" which indicates
 
 Each card will appear in a list in this credit cards section and will be available in the drop-down options when this customer makes any future payments.
 
-## Delete
+## Deleting a Credit Card
 
-In the list of cards, look for the trash can icon under the 'Actions' column and click on it.
+In the list of cards, look for the `trash can` icon under the 'Actions' column and click on it.
 
-When you see the confirmation box, click `Delete`
+When you see the confirmation box, click `Delete`.
 
 When you return to the Payments page, you will no longer see this card in the Credit Cards section and it will no longer appear in drop-down options for card payments.
 
