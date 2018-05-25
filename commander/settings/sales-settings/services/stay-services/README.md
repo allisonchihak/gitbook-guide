@@ -2,7 +2,7 @@
 
 In this section all parts of accommodation services and related products are described in detail. You can navigate to your stay settings using the following path:
 
-* **Main Menu &gt; Settings &gt; Services &gt; Stay**
+* **`Main Menu > Settings > Services > Stay`**
 
 To make any changes to the stay settings found on this page, simply change the details and click `Save`.
 
