@@ -8,7 +8,7 @@ As there is no limit to the amount of profiles that can be created, employees sh
 
 You can navigate to the Employees page using the following path:
 
-* **Main menu &gt; Settings &gt; Employees**
+* **`Main menu > Settings > Employees`**
 
 Here, you will see a current list of all existing employees in your system. Profiles are displayed in a hierarchical structure to give an accurate visual representations of the chain of command at your property. Employee profile images are also displayed next to each name for easy identification.
 
@@ -25,14 +25,9 @@ On the main page, you will see each employee profile listed with the following o
 
 One major benefit of the Cloud, is that you can access the solution at any time from any location. This means that employees can access is also when they are not physically in the hotel, so it is important that hotels have a strict security policy in place ensuring they give employees the correct level of access. Once an employee resigns, ensure you remove them from your hotel on the day the employee leaves your company.
 
-* [Create](employee-profile.md#create)
-* [Privileges](employee-profile.md#privileges)
-* [Chain access](employee-profile.md#chain-access)
-* [Delete](employee-profile.md#delete)
-
 ## Create
 
-From the main employee page, **look for the** `+` **icon in the top right-hand corner and click on it.** In the next screen, complete the following details to create each profile:
+From the main employee page, look for the `+` icon and click on it**.** In the next screen, complete the following details to create each profile:
 
 * **E-mail** - please note that only one employee profile can be linked with each valid e-mail address. 
 * **Title** - Choose the title that best fits this employee. 
@@ -42,17 +37,19 @@ From the main employee page, **look for the** `+` **icon in the top right-hand c
 
 Once created, the employee's name, e-mail address, and title will not be editable. If incorrect, you must fully delete the profile and create a new one with the correct details.
 
-**When all fields are correctly completed, click the** `Create` **button.**
+When all fields are correctly completed, click the `Create` button**.**
 
 Once the profile is created, an e-mail is sent to the employee with a one-time token, allowing them to log in and set their password.
 
 For further information or to edit any profile, navigate to the main employees page and click on any person's name to make changes or see all additional details.
 
-> ### Mews Clues
->
-> It is not possible to create employee profiles in Mews without an e-mail address, as the initial login to the system is sent to that e-mail address.
->
-> When you create a subordinate profile, you can assign that person the same or less rights than you have for yourself in Mews. Please note that it is not possible to create a profile for anyone who is higher in your property's chain of command.
+{% hint style="info" %}
+### Mews Clues
+
+It is not possible to create employee profiles in Mews without an e-mail address, as the initial login to the system is sent to that e-mail address.
+
+When you create a subordinate profile, you can assign that person the same or less rights than you have for yourself in Mews. Please note that it is not possible to create a profile for anyone who is higher in your property's chain of command.
+{% endhint %}
 
 ## Privileges
 
@@ -60,10 +57,10 @@ Upon clicking the `Create` button, you will see these additional fields appear i
 
 The following fields must be completed in to assign proper user rights and privileges for each employee:
 
-* **Department** - Select that employee's [department ](https://github.com/MewsSystems/gitbook-guide/tree/28b5cc02840ec1bed99934c7ce562e47157fb0f7/settings/users-settings/departments.md)to assign tasks or notifications to employees of that department only
+* **Department** - Select that employee's [department ](https://mews-systems.gitbook.io/guide/commander/settings/users-settings/departments)to assign tasks or notifications to employees of that department only
 * **Enabled from** - Choose the date of this profile's activation. \(e.g. if you have new hires starting later, give them access starting on a certain date\)
 * **Enabled to** - Choose the date of this profile's deactivation. \(e.g. if you know an employee is leaving, use this to ensure you don't forget to restrict their system access\)
-* **Admin** - Select this option to give a user admin rights. Admin users will automatically be given all user rights available in the system. In addition to those privileges, admin employees will be able to modify the [Editable History Window \(EHW\)](https://github.com/mews-systems/commander-guide/tree/aba4aad5c9d2bc8ec74b2a6c202f25d981c8b45b/settings/finance-settings/accounting-configuration.html). If you select this option, the `Workplace privileges` selection will disappear, as all rights apply and it is no longer necessary. Please note that this privilege should be given sparingly and to your most trusted employees as it allows them to edit tax documents and important system data. 
+* **Admin** - Select this option to give a user admin rights. Admin users will automatically be given all user rights available in the system. In addition to those privileges, admin employees will be able to modify the [Editable History Window \(EHW\)](https://mews-systems.gitbook.io/guide/commander/settings/finance-settings/accounting-configuration). If you select this option, the `Workplace privileges` selection will disappear, as all rights apply and it is no longer necessary. Please note that this privilege should be given sparingly and to your most trusted employees as it allows them to edit tax documents and important system data. 
 * **Receive customer messages** - Select this option if user should receive messages from customers using the Mews Navigator
 * **Workplace privileges** - Choose any of the following privileges that this user should have.
   * **Configure enterprise** - Access to change the general settings of the hotel \(e.g. e-mails, editable history window, etc.\)
@@ -91,11 +88,13 @@ To give one user access to multiple properties, you must **create a new employee
 
 When this user logs in, they can switch between the newly added properties using the user profile icon in their dashboard header.
 
-> ### Mews Clues
->
-> Please note that when adding additional properties for a user to access, the system will not send a password setup e-mail to the user each time, as the password was already set upon the initial creation.
->
-> If an employee forgets their password, they can use the password reset feature to have a link with instructions sent to their registered e-mail address.
+{% hint style="info" %}
+### Mews Clues
+
+Please note that when adding additional properties for a user to access, the system will not send a password setup e-mail to the user each time, as the password was already set upon the initial creation.
+
+If an employee forgets their password, they can use the password reset feature to have a link with instructions sent to their registered e-mail address.
+{% endhint %}
 
 ## Delete
 
@@ -105,9 +104,11 @@ If an employee leaves the company, its highly recommended to delete their user p
 
 Please note that only superior employees have rights to delete users from the system.
 
-> ### Mews Clues
->
-> If you are deleting an employee that is the manager of a team, you must first migrate all of their subordinate profiles to a different superior employee before it will be possible to delete the user.
+{% hint style="info" %}
+### Mews Clues
+
+If you are deleting an employee that is the manager of a team, you must first migrate all of their subordinate profiles to a different superior employee before it will be possible to delete the user.
+{% endhint %}
 
 ## Two-Factor Authentication
 
