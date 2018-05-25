@@ -8,24 +8,25 @@ The name of each companion is clickable as a direct link to that person's billin
 
 From each companion profile, proceed as normal to take payments, close bills, or issue invoices.
 
-* [Group bills](companions.md#group-bills)
-* [Transfer items](companions.md#transfer-items)
-
-## Group bills
+## Group Bills
 
 If this guest is part of a group, you will see all other customers in that group listed below with their unpaid items. If you move items to an open bill, those items will no longer appear in the unpaid group billing list.
 
-> ### Mews Clues
->
-> Please note that all items seen directly under the `Unpaid items/Deposits` section belong to the customer whose profile is currently on screen. Only items that are beneath the name of a companion do not belong to that current customer.
+{% hint style="info" %}
+### Mews Clues
 
-## Transfer items
+Please note that all items seen directly under the `Unpaid items/Deposits` section belong to the customer whose profile is currently on screen. Only items that are beneath the name of a companion do not belong to that current customer.
+{% endhint %}
+
+## Transfer Items
 
 To move bill items to a companion, you must first move these items from the `Unpaid items` section to the customer's open bill.
 
 In the `Open bills` section, click on the `Move` button, and select the name of the companion from the drop-down list. After selecting the correct companion, items will automatically be transferred to that companion's open bill.
 
-> ### Mews Clues
->
-> Next to each companion name, you will see a button labeled `All →`. Use this button to transfer all bill items of that companion to the open bill simultaneously, or use individual arrows to move items independently.
+{% hint style="info" %}
+### Mews Clues
+
+Next to each companion name, you will see a button labeled All →. Use this button to transfer all bill items of that companion to the open bill simultaneously, or use individual arrows to move items independently.
+{% endhint %}
 
