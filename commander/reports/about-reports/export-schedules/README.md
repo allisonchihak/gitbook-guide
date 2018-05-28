@@ -17,7 +17,7 @@ Below, you'll find detailed information about all filters and settings available
 
 ## Configuration
 
-Aside from `Interval`, all other filters in this Report Configuration section are the exact same as what you will find in each respective report. For more information about those filters, please see the information for the report that you'd like to create a schedule for. To see a full list of Reports in Mews, please [`click here`](../../).
+Aside from `Interval`, all other filters in this `Report Configuration` section are the exact same as what you will find in each respective report. For more information about those filters, please see the information for the report that you'd like to create a schedule for. To see a full list of reports in Mews, please [`click here`](../../).
 
 The interval field determines a `Start time` and `End time` of the data included in your delivered export. Please note that most intervals begin and end at 00:00 for each respective time period. Therefore, you can assume that a full day would begin at 00:00 and end at 00:00 the next day, which includes a full 24 hours. This same logic can be applied to almost all of the following interval options, excluding `Last day`, `Last month`, and `Last week`.
 
@@ -75,7 +75,7 @@ Please note that all `quarter` intervals above \(excluding `Upcoming quarter`\) 
   * **Monthly** - Repeating every moth at the specified time
   * **Quarterly** - Repeating every quarter at the specified time
   * **Yearly** - Repeating once per year at the specified time
-* **Export target** - this is the group of people who will receive the report at the specified interval. Please note that export targets are not required. If you do not choose a target, you will receive a notification in the system when your report is generated and will be able to download it directly. For more information about Export targets, please [`click here`](export-targets.md). 
+* **Export target** - this is the group of people who will receive the report at the specified interval. Please note that export targets are not required. If you do not choose a target, you will receive a notification in the system when your report is generated and will be able to download it directly. For more information about export targets, please [`click here`](export-targets.md). 
 * **Format** - Choose the file format of the delivered attachments
   * **CSV** - Files will have a `.csv` extension
   * **Excel** - Files will have an `.xls` extension
