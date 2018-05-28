@@ -2,7 +2,7 @@
 
 For a complete overview of all of your exports, you can access the Export Archive screen by navigating to it via the following path:
 
-* **Main Menu &gt; Exports &gt; Archive**
+* **`Main Menu > Exports > Archive`**
 
 ## Filters
 

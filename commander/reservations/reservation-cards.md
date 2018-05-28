@@ -1,6 +1,6 @@
 # Reservation Cards
 
-Reservation cards are a snapshot of all booking details for easy reference. We use `Reservation Cards` In several location in the system, such as `Reservation Overview` and `Customer Profile Dashboard`
+Reservation cards are a snapshot of all booking details for easy reference. We use `Reservation Cards` In several location in the system, such as `Reservation Overview` and `Customer Profile Dashboard`.
 
 Each reservation card includes the following details:
 
