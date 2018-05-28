@@ -46,15 +46,15 @@ Click on the main menu button in the header of Mews to open a sidebar menu, whic
 
 * **Archive** - Overview of all exports previously generated for your user account
 * **Schedules** - Overview of all export schedules previously created for your user account
-* **Targets** - Overview of all export targets, including mail and FTP targets
+* **Targets** - Overview of all export targets, including e-mail, Webhook, and FTP targets
 
 ## Tasks
 
-View, edit, and create tasks for daily operations
+View, edit, and create tasks for daily operations.
 
 ## Messages
 
-View, send, and manage all internal staff messages and external messages from your customers
+View, send, and manage all internal staff messages and external messages from your customers.
 
 ## Settings
 
@@ -69,9 +69,9 @@ View, send, and manage all internal staff messages and external messages from yo
 * **Channel manager** - View the status of all channel manager queue items
 * **Exports** - View the processing status of all exports
 
-## Custom links
+## Custom Links
 
-Easily access any custom links set up for your property
+Easily access any custom links set up for your property.
 
 ## Help
 
