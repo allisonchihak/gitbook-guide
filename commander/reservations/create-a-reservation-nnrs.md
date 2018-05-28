@@ -6,14 +6,9 @@ Below, you can find a detailed description of the complete reservation-making pr
 
 **To create a reservation, look for the** `+` **button in the Mews header and click on it.**
 
-* [1 - Availability](create-a-reservation-nnrs.md#1---availability)
-* [2 - Rates](create-a-reservation-nnrs.md#2---rates)
-* [3 - Summary](create-a-reservation-nnrs.md#3---summary)
-* [Group Bookings](create-a-reservation-nnrs.md#group-bookings)
-
 ## 1 - Availability
 
-Upon clicking on the `+` button, you will automatically be redirected to a new window, which we fondly refer to as the `New reservation screen`.
+Upon clicking the `+` button, you will automatically be redirected to a new window, which we fondly refer to as the `New reservation screen`.
 
 The first step is divided into two sub-parts.
 
@@ -23,19 +18,23 @@ Next, you will see a three-month calendar including the current month and the fo
 
 Click to select the arrival and departure dates for this booking in either order, which will highlight in blue after selection. The moment that you select the second date, the window containing the calendars will automatically collapse.
 
-> ### Mews Clues
->
-> Please note that the dates selected in the first step will be visible while completing the second part of the first step. If you need to change arrival or departure before finalizing, click on the dates to reopen the calendar and make the correct selections.
+{% hint style="info" %}
+### Mews Clues
+
+Please note that the dates selected in the first step will be visible while completing the second part of the first step. If you need to change arrival or departure before finalizing, click on the dates to reopen the calendar and make the correct selections.
+{% endhint %}
 
 Your property's availability will load below automatically based on your date and city selection. You will see tabs above for each space category, which you can switch between to display all subsequent space types within each category. `Availability` is displayed next to each one, indicating the number of spaces that are available for booking, along with the `Default price` for each one. When you're ready to choose, click on the `Select` button next to the correct space type.
 
-> ### Mews Clues
->
-> Default price is derived from you lowest available rate \(BAR\).
->
-> Please note that if there is no remaining availability in any particular space type, the `Select` button will automatically change to say `Overbook`, meaning that employees can book more people in a room than what they system has listed as the maximum occupancy. Please note that employees must be given the specific privilege to overbook.
->
-> If you choose to overbook a space type, reservation will appear in an overbooking slot which is visible from the timeline. Users will be presented with a confirmation before the overbooking is accepted, but please note that this is up to the property's discretion regarding whether they are willing and able to accommodate more guests in any one space.
+{% hint style="info" %}
+### Mews Clues
+
+Default price is derived from you lowest available rate \(BAR\).
+
+Please note that if there is no remaining availability in any particular space type, the `Select` button will automatically change to say `Overbook`, meaning that employees can book more people in a room than what they system has listed as the maximum occupancy. Please note that employees must be given the specific privilege to overbook.
+
+If you choose to overbook a space type, reservation will appear in an overbooking slot which is visible from the timeline. Users will be presented with a confirmation before the overbooking is accepted, but please note that this is up to the property's discretion regarding whether they are willing and able to accommodate more guests in any one space.
+{% endhint %}
 
 In the moment that you click `Select`, you will be redirected to the next step in the booking process.
 
@@ -60,9 +59,11 @@ Next, under `Rate`, you will see all available rates for the chosen space type, 
 
 Rates are displayed according to their rate group, which is the group of rates that have the same cancellation policy. The second step will automatically display the lowest available rates, which ensures that the customer is offered the lowest available price at the time of booking.
 
-> ### Mews Clues
->
-> Please note that to override the price, you must fully book a reservation and then change the price manually in the reservation module after that booking is completed.
+{% hint style="info" %}
+### Mews Clues
+
+Please note that to override the price, you must fully book a reservation and then change the price manually in the reservation module after that booking is completed.
+{% endhint %}
 
 Click the `Select` button next to the rate you'd like to book. In the moment that you click `Select`, you will be redirected to the third and final step in the booking process.
 
@@ -111,9 +112,11 @@ Lastly, you will see the `Reservation details` section, which includes the last 
 
 When all information is correctly selected, click the `Create` button and look for a success message. Upon completion, you will be automatically redirected to the reservation module `State` tab, where you can make adjustments if necessary.
 
-> ### Mews Clues
->
-> Please note that you can only make a reservation at one property at a time. If you would like to create a reservation for a different property, your basket will automatically empty at the time that you switch to different service or city. Please note that the system will prompt you with a warning before discarding any unfinished reservations.
+{% hint style="info" %}
+### Mews Clues
+
+Please note that you can only make a reservation at one property at a time. If you would like to create a reservation for a different property, your basket will automatically empty at the time that you switch to different service or city. Please note that the system will prompt you with a warning before discarding any unfinished reservations.
+{% endhint %}
 
 ## Group Bookings
 
