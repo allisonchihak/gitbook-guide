@@ -1,9 +1,12 @@
 # Reservation Report
 
-The reservation report is the report with most data and filtering options to analyse the booking data of the hotel. Due to the amount of data, we can only display a limited amount on screen, however when you export it into Excel, we currently provide almost all reservations fields related to each booking.
+The reservation report is the report with most data and filtering options to analyze the booking data of the hotel. 
 
-* [Filters](reservation-report.md#filters)
-* [Columns](reservation-report.md#columns)
+{% hint style="info" %}
+### Mews Clues
+
+Due to the large amount of data, we can only display a limited amount on the `Reservation Report` screen. However, when you export the report to Excel, you will see almost all of the related, available information listed for each booking.
+{% endhint %}
 
 ## Filters
 
