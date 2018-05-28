@@ -4,11 +4,6 @@ In some countries, it is still important to report all guest information to the 
 
 In order to achieve 100% completion, all legally required fields need to be filled in.
 
-* [Filters](customer-profiles-report.md#filters)
-* [Features](customer-profiles-report.md#features)
-* [Birthday report](customer-profiles-report.md#birthday-report)
-* [Foreign Police](customer-profiles-report.md#foreign-police)
-
 ## Filters
 
 * **Mode** - View only customers that apply to these conditions
@@ -38,7 +33,7 @@ In order to achieve 100% completion, all legally required fields need to be fill
 * Address
 * Profile completion
 
-## Birthday report
+## Birthday Report
 
 As this is the central report for customer data of guests in house, its also the perfect place to check if any of your guests on arrival or in-house have their birthday during their stay. This will allow you to create truly hospitable moments for guests. There is a filter that allows to filter by the Guest Birthday.
 

@@ -6,10 +6,6 @@ This graph displays circles, which represent the number of activities that occur
 
 Tracked activities include check-in, checkout, reservation creations, and room status changes to either clean or inspected. Select a specific activity to see an overview of who completed the highest number of activities. This is one of many great ways to use this report for improved hotel performance.
 
-> * [Filters](activity-report.md#filters)
-> * [Functionality](activity-report.md#functionality)
-> * [Housekeeping application](activity-report.md#housekeeping-application)
-
 ## Filters
 
 * **Filter** - Organize results by one of the following types of activity 
@@ -29,9 +25,11 @@ Tracked activities include check-in, checkout, reservation creations, and room s
   * **Navigator** - Activities from Navigator
 * **Employee** - Use this drop-down list of all your property's employees to select one and see the activities of that individual
 
-> ### Mews Clues
->
-> * Please note that it is not possible to see the type of activity that has taken place at each respective time. Even when filtering by a particular employee, activity type will not be visible.
+{% hint style="info" %}
+### Mews Clues
+
+Please note that it is not possible to see the type of activity that has taken place at each respective time. Even when filtering by a particular employee, activity type will not be visible.
+{% endhint %}
 
 ## Functionality
 

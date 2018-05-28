@@ -72,13 +72,15 @@ If the `Load balances` option is selected, you will see these two additional col
 
 As an optional feature, properties can choose how they'd like their deposits to be displayed on bills. Navigate to your `Accounting configuration` using the following path:
 
-* **Main Menu &gt; Settings &gt; Property &gt; Finance &gt; Accounting configuration**
+* **`Main Menu > Settings > Property > Finance > Accounting configuration`**
 
 Look for `Options` and look for the following item in the drop-down menu:
 
 * **Receivable tracking enabled** - Select this option to track the payments for outstanding invoices and their respective due dates; please note that if this option is not enabled, you cannot view revenue and receivable values in this report
 
-> ### Mews Clues
->
-> Please note that invoicing must first be enabled as an external payment type for the aforementioned setting to apply. Within your accounting configuration, select `Invoice` under the `Enabled external payment types` drop-down.
+{% hint style="info" %}
+### Mews Clues
+
+Please note that invoicing must first be enabled as an external payment type for the aforementioned setting to apply. Within your accounting configuration, select `Invoice` under the `Enabled external payment types` drop-down.
+{% endhint %}
 

@@ -4,7 +4,7 @@ The Customer Statistics Report is an extensive analysis of all guest profile dat
 
 You can access the `Customer Statistics` report directly from the Mews Dashboard in the `Customers` section. You can also access this report using the following path:
 
-* **Main Menu &gt; Profiles &gt; Customer statistics**
+* **`Main Menu > Profiles > Customer statistics`**
 
 ## Filters
 

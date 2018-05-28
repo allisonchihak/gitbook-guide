@@ -33,7 +33,7 @@ The Payment Report gives an overview of all the payments and rebates made in the
 * **Start date & time** - Date and time that report data begins. 
 * **End date & time** - Date and time that report data ends.
 
-## Data Features: {#merchantadyenonly}
+## Data Features {#merchantadyenonly}
 
 Features are split into two sections: Payments and Transactions
 
