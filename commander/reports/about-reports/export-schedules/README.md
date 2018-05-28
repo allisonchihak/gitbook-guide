@@ -1,6 +1,6 @@
 # Export Schedules
 
-Export schedules allow you to regularly and automatically send custom-configured reports to your e-mail or FTP server. For any report in Mews, you can choose your filters and control all settings, including time that reports are generated, set time-frames for the reports, and how often they're generate and sent. Below, you'll find a detailed explanation about how export schedules work and how to configure them properly.
+Export schedules allow you to regularly and automatically send custom-configured reports to your e-mail, Webhook, or FTP server. For any report in Mews, you can choose your filters and control all settings, including time that reports are generated, set time-frames for the reports, and how often they're generate and sent. Below, you'll find a detailed explanation about how export schedules work and how to configure them properly.
 
 ## Create
 
