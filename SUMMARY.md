@@ -148,6 +148,7 @@
               * [Webhotelier](commander/settings/integrations/create-an-integration/connectivity/channel-manager-integration/channel-managers/webhotelier.md)
               * [TravelClick](commander/settings/integrations/create-an-integration/connectivity/channel-manager-integration/channel-managers/travelclick.md)
               * [TravelLine](commander/settings/integrations/create-an-integration/connectivity/channel-manager-integration/channel-managers/travelline.md)
+            * [Channel Manager Queue](commander/settings/integrations/create-an-integration/connectivity/channel-manager-integration/channel-manager-queue.md)
           * [TripAdvisor Integration](commander/settings/integrations/create-an-integration/connectivity/tripadvisor-integration.md)
         * Facility Management
           * [Mews Connector](commander/settings/integrations/create-an-integration/facility-management/mews-connector.md)
