@@ -18,7 +18,7 @@ Below, you'll find an overview of each filter and feature that is visible on thi
   * **Guest Ledger** - All guest accounts with open balances
   * **Receivables** - All accounts with an open or overdue invoice payments
 * **Group by** - indicates in which order you'd like the report variables to appear
-  * **Accounting Category** - View in order of [accounting categories](https://github.com/MewsSystems/gitbook-guide/tree/af68e584f63e109a2686cf1a98b6be03c692d16b/settings/finance-settings/accounting-categories.md) used at your property
+  * **Accounting Category** - View in order of [accounting categories](https://mews-systems.gitbook.io/guide/commander/settings/finance-settings/accounting-categories) used at your property
   * **Consumption Date** - View in chronological order starting with the oldest charge until the most recent charge
   * **Customer** - View all customers who have open balances, appearing in alphabetical order by last name
   * **Service** - View report grouped by services ordered 
@@ -42,8 +42,11 @@ Below, you'll find an overview of each filter and feature that is visible on thi
 * **Guest Ledger** - An overview of all Consumed Revenue for which payment has not yet been received.
 * **General Ledger** - A total sum of the Deposit Ledger and the Guest Ledger. Positive values represent the total amount of revenue that is due to be paid to the property. Negative values represent any amount that should be paid back to the customer.
 
-## Mews Clues
+{% hint style="info" %}
+### Mews Clues
 
-* Each item in the accounting ledger is clickable. Click on any particular item to view the bill on which it was closed. 
-* Please note that you may need to edit your [accounting categories](https://github.com/MewsSystems/gitbook-guide/tree/af68e584f63e109a2686cf1a98b6be03c692d16b/settings/finance-settings/accounting-categories.md) or [service settings](https://github.com/MewsSystems/gitbook-guide/tree/af68e584f63e109a2686cf1a98b6be03c692d16b/settings/sales-settings/services/README.md) to allow for data to appear in more detail. 
+Each item in the accounting ledger is clickable. Click on any particular item to view the bill on which it was closed. 
+
+Please note that you may need to edit your [accounting categories](https://mews-systems.gitbook.io/guide/commander/settings/finance-settings/accounting-categories) or [service settings](https://mews-systems.gitbook.io/guide/commander/settings/sales-settings/services) to allow for data to appear in more detail. 
+{% endhint %}
 

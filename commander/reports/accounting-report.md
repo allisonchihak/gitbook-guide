@@ -1,6 +1,6 @@
 # Accounting Report
 
-The Accounting Report is an overview of all revenue posted in Mews Commander, which is divided and displayed by [accounting categories](https://github.com/MewsSystems/gitbook-guide/tree/af68e584f63e109a2686cf1a98b6be03c692d16b/settings/finance-settings/accounting-categories.md). This report can be used to analyze your property's revenue and payments.
+The Accounting Report is an overview of all revenue posted in Mews Commander, which is divided and displayed by [accounting categories](https://mews-systems.gitbook.io/guide/commander/settings/finance-settings/accounting-categories). This report can be used to analyze your property's revenue and payments.
 
 Below, you'll find an overview of each filter and feature that is visible on this report:
 
@@ -15,8 +15,8 @@ Below, you'll find an overview of each filter and feature that is visible on thi
 * **Start date & time** - Date and time that report data begins
 * **End date & time** - Date and time that report data ends
 * **Group by** - indicates in which order you'd like the report variables to appear
-  * **Accounting category** - Group by [accounting categories](https://github.com/MewsSystems/gitbook-guide/tree/af68e584f63e109a2686cf1a98b6be03c692d16b/settings/finance-settings/accounting-categories.md) used at your property
-  * **Accounting category classification** - Group by [accounting category](https://github.com/MewsSystems/gitbook-guide/tree/af68e584f63e109a2686cf1a98b6be03c692d16b/settings/finance-settings/accounting-categories.md) classification. 
+  * **Accounting category** - Group by accounting categories used at your property
+  * **Accounting category classification** - Group by accounting category classification. 
   * **Bill** - Group by bills assigned to customers, companies, and those unassigned
   * **Creator** - Group by the person who posted the items
   * **Date** - Group by date
@@ -51,9 +51,11 @@ Each section includes the same list of items, including totals for each column, 
 * **VAT** - Value Added Tax, excluding price of taxed item
 * **Value** - Total value of Net plus VAT
 
-> ### Mews Clues
->
-> Most accounting systems are able to import the Accounting Report Excel Extract into their system, which can help track and record revenue, as well as open invoices.
->
-> Export this report to Excel to allow accountants to easily see all the revenue according to the filters selected, make necessary corrections, and then import it directly into the accounting program of your choice.
+{% hint style="info" %}
+### Mews Clues
+
+Most accounting systems are able to import the Accounting Report Excel Extract into their system, which can help track and record revenue, as well as open invoices.
+
+Export this report to Excel to allow accountants to easily see all the revenue according to the filters selected, make necessary corrections, and then import it directly into the accounting program of your choice.
+{% endhint %}
 
