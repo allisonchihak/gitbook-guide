@@ -52,14 +52,16 @@ The interval field determines a `Start time` and `End time` of the data included
   * **Upcoming year** - Today at 00:00 - one year from tomorrow at 00:00
   * **Year to date** - First of January current year at 00:00 - tomorrow at 00:00
 
-> #### Mews Clues
->
-> Please note that all `quarter` intervals above \(excluding `Upcoming quarter`\) represent the four quarters of the year and will fall into one of the following time periods:
->
-> 1. **January - March** - 00:00 1st Jan - 00:00 1st Apr
-> 2. **April - June** - 00:00 1st Apr - 00:00 1st Jul
-> 3. **July - September** - 00:00 1st Jul - 00:00 1st Oct
-> 4. **October - December** - 00:00 1st Oct - 00:00 1st Jan
+{% hint style="info" %}
+### Mews Clues
+
+Please note that all `quarter` intervals above \(excluding `Upcoming quarter`\) represent the four quarters of the year and will fall into one of the following time periods:
+
+* **January - March** - 00:00 1st Jan - 00:00 1st Apr
+* **April - June** - 00:00 1st Apr - 00:00 1st Jul
+* **July - September** - 00:00 1st Jul - 00:00 1st Oct
+* **October - December** - 00:00 1st Oct - 00:00 1st Jan
+{% endhint %}
 
 ### Export Schedule
 
@@ -83,7 +85,9 @@ The interval field determines a `Start time` and `End time` of the data included
 * **Created \(UTC\)** - Date and time that export schedule was created
 * **Updated \(UTC\)** - Date and time that export schedule was most recently updated
 
-> #### Mews Clues
->
-> Please note that in case of a timeout or system outage for any reason, reports will be resent immediately following the recovery of the system. If a job fails three times in a row, the report should be manually sent again.
+{% hint style="info" %}
+### Mews Clues
+
+Please note that in case of a timeout or system outage for any reason, reports will be resent immediately following the recovery of the system. If a job fails three times in a row, the report should be manually sent again.
+{% endhint %}
 
