@@ -71,7 +71,6 @@ The following fields must be completed in to assign proper user rights and privi
   * **Manage Customers** - User can create and manage Customer Profiles
   * **Manage Reservations** - User can amend booking details.
   * **Manage travel agency contracts** - User can create and manage Travel Agency Profiles
-  * **Modify closed bills** - Rights to modify bill address, or assign bills to company or travel agency after they've been closed or issued
   * **Overbook Services** - Rights to create additional bookings even if space type is fully booked.
   * **Perform Housekeeping** - Rights to change room status 
 * **Cashiers** - Assign one or multiple cashiers to the user.
