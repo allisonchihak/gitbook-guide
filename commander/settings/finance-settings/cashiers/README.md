@@ -40,7 +40,7 @@ It is very important that every user who accepts money is assigned to at least o
 
 ## Delete
 
-In the same settings, click on the title of the cashier you'd like to delete. Look for the `Trash can` icon and click on it. When the confirmation dialog appears, choose `Delete`. When you return to the Cashiers screen, this cashier will no longer be listed. Please note that this action cannot be undone. 
+In the same settings, click on the title of the cashier you'd like to delete. Look for the `trash can` icon and click on it. When the confirmation dialog appears, choose `Delete`. When you return to the Cashiers screen, this cashier will no longer be listed. Please note that this action cannot be undone. 
 
 
 
