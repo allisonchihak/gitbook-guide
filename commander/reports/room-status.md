@@ -2,15 +2,7 @@
 
 The Room Status report can be used by housekeepers and managers to easily track the housekeeping status of all the rooms in your property. A quick visual overview of this report is always visible with the `Room Status Donut`, which can be found on the Mews Dashboard. For more detailed information about each different `Room Status` in Mews, please `click here`.
 
-Below, you will find a detailed description of all features and filters available on the Room Status Report. You'll find information about the following items:
-
-* [Housekeeping Assignment](room-status.md#housekeeping-assignment)
-* [Filters](room-status.md#filters)
-* [Features](room-status.md#features)
-* [Out of Order](room-status.md#out-of-order)
-* [Settings](room-status.md#settings)
-* [Automatic changes](room-status.md#automatic-changes)
-* [Housekeeping application](room-status.md#housekeeping-application)
+Below, you will find a detailed description of all features and filters available on the Room Status Report. 
 
 ## Housekeeping Assignment
 

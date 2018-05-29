@@ -82,7 +82,7 @@ We strongly recommend against resetting your counters, as it might cause duplica
 
 ## Delete
 
-To delete any bill counter, simply open the counter, and click on the trashcan icon to delete it.
+To delete any bill counter, simply open the counter, and click on the `trash can` icon to delete it.
 
 ## Service Order
 
