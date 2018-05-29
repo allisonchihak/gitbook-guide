@@ -91,7 +91,7 @@
     * [Room Status](commander/reports/room-status.md)
     * [Spent Nights Report](commander/reports/spent-nights-report.md)
     * [Tasks](commander/reports/tasks.md)
-  * [Settings](commander/settings/README.md)
+  * Settings
     * [Main Property Settings](commander/settings/main-property-settings/README.md)
       * [Import Customers](commander/settings/main-property-settings/import-customers.md)
     * [Finance Settings](commander/settings/finance-settings/README.md)
