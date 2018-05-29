@@ -4,19 +4,15 @@ The Reservation Overview Report is a quick snapshot of all bookings that are rel
 
 Below you'll find a complete overview of all features and filter options available for this report. All information in this article is divided sections based on each of the five available modes. Use these modes to easily view relevant details for that time of day. You can find these listed at the top of the report. Click on each tab to view that information:
 
-* [Arrivals](reservation-overview.md#arrivals)
-* [Departures](reservation-overview.md#departures)
-* [Stay Overs](reservation-overview.md#stay-overs)
-* [In House](reservation-overview.md#in-house)
-* [Statistics](reservation-overview.md#statistics)
+{% hint style="info" %}
+### Mews Clues
 
-> ### Mews Clues
->
-> For the Arrivals, Departures, Stay overs, and In House tabs, reservation cards are used to provide a summary of all booking details for easy reference. Please see our [`Reservation cards`](https://github.com/MewsSystems/gitbook-guide/tree/af68e584f63e109a2686cf1a98b6be03c692d16b/reservations/reservation-cards.md) article for more detailed information about what is represented on each card.
->
-> By default, during morning hours, the report will always open in the "Departures" mode, as during that time most guest will be departing. In the afternoon, the report will open in "Arrivals" mode, since most arrivals typically occur in the afternoon.
->
-> If a reservation is made for more than one person, but there is no companion assigned to the booking, the registration card for that companion will print empty. Please ensure you have a guest assigned to the booking to avoid additional transfer of data from the card back into the system.
+For the Arrivals, Departures, Stay overs, and In House tabs, reservation cards are used to provide a summary of all booking details for easy reference. Please see our [`Reservation cards`](https://github.com/MewsSystems/gitbook-guide/tree/af68e584f63e109a2686cf1a98b6be03c692d16b/reservations/reservation-cards.md) article for more detailed information about what is represented on each card.
+
+By default, during morning hours, the report will always open in the "Departures" mode, as during that time most guest will be departing. In the afternoon, the report will open in "Arrivals" mode, since most arrivals typically occur in the afternoon.
+
+If a reservation is made for more than one person, but there is no companion assigned to the booking, the registration card for that companion will print empty. Please ensure you have a guest assigned to the booking to avoid additional transfer of data from the card back into the system.
+{% endhint %}
 
 ## Arrivals
 
