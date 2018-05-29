@@ -4,7 +4,7 @@ This page includes all primary settings that apply to the entire property, which
 
 Navigate to your main property settings using the following path:
 
-* **Main menu &gt; Settings &gt; Property**
+* **`Main menu > Settings > Property`**
 
 Please note that only employees with admin rights have access to this button in their top menu,
 
@@ -82,7 +82,7 @@ When ready to upload, click the `Choose File` button, and locate your logo image
 
 To change your logo image, follow the same steps as described above. Please note that is is not possible to fully delete an uploaded image. If you would not like to display a logo image, you may upload a blank image as a placeholder.
 
-## Sign-in image
+## Sign-In Image
 
 Upload an image of your property to use as the background image during the online check-in process in Mews Navigator. Please note that the image must be in landscape format for proper display. Also, please ensure that you own all the rights to the chosen image.
 
