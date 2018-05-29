@@ -4,7 +4,7 @@ The Manager Report is the master summary used by management to analyze the perfo
 
 The numbers in this report should always match up to the Accounting Report. If you are unsure about any of the figures that you see here, open the [Accounting Report](accounting-report.md) in detailed mode and find the exact match.
 
-Below, you will find a description of all filters and items that you can find on this report:
+Below, you will find a description of all filters and items that you can find on this report.
 
 ## Filters
 
@@ -20,9 +20,9 @@ Below, you will find a description of all filters and items that you can find on
   * **Year** - One column for each year and one column for totals
   * **Year Overview** - One column for yesterday, one column for month-to-date, and one column for year-to-date 
 * **Group by** - Choose how you would like your results to be ordered
-  * **Accounting category** - Results with one row for each of your [accounting categories ](https://github.com/MewsSystems/gitbook-guide/tree/af68e584f63e109a2686cf1a98b6be03c692d16b/settings/finance-settings/accounting-categories.md)
-  * **Accounting category classification** - Results with rows for each classification chosen within [accounting categories](https://github.com/MewsSystems/gitbook-guide/tree/af68e584f63e109a2686cf1a98b6be03c692d16b/settings/finance-settings/accounting-categories.md)
-  * **Service** - Results with a row for each [service](https://github.com/MewsSystems/gitbook-guide/tree/af68e584f63e109a2686cf1a98b6be03c692d16b/settings/sales-settings/services/README.md) that your property offers, including stay
+  * **Accounting category** - Results with one row for each of your [accounting categories](https://mews-systems.gitbook.io/guide/commander/settings/finance-settings/accounting-categories) 
+  * **Accounting category classification** - Results with rows for each classification chosen within [accounting categories](https://mews-systems.gitbook.io/guide/commander/settings/finance-settings/accounting-categories)
+  * **Service** - Results with a row for each [service](https://mews-systems.gitbook.io/guide/commander/settings/sales-settings/services) that your property offers, including stay
 * **Values -** 
   * **Gross** - Total including item value and tax
   * **Net** - Item value excluding tax
@@ -42,7 +42,7 @@ Once you've chosen the desired 'Group by' option, you will see further breakdown
 * **Revenue per available** - Reservation Revenue divided by the amount of available spaces in that space type
 * **Average night rate** - Reservation Revenue divided by the amount of sold spaces in that space type
 * **Direct night revenue** - Direct Room Revenue \(so in a hostel, the Bed revenue booked only as beds... if there is Dorm revenue, this is not included in this line.\)
-* **Customers** - the number of guests on your property during the specified time
+* **Customers** -  Number of guests on your property during the specified time
 
 Below the group of rows described above, you will also see different types of revenue breakdowns, for each of the primary rows. These results will include:
 
@@ -53,7 +53,9 @@ Below the group of rows described above, you will also see different types of re
 
 **Revenue** - Lastly, this very bottom column will display the overall totals for every row listed in the report.
 
-### Mews Clues:
+{% hint style="info" %}
+### Mews Clues
 
-* Month-to-date is described as the results for the current month including the current day, so if it is the second of the month, you will see results for those first two day only. Similarly, year-to-date is the same idea with results for the current year up until today.
+Month-to-date is described as the results for the current month including the current day, so if it is the second of the month, you will see results for those first two day only. Similarly, year-to-date is the same idea with results for the current year up until today.
+{% endhint %}
 
