@@ -1,6 +1,6 @@
 # Fiscal Record Report
 
-Some countries choose to implement a direct fiscal integration with the local fiscal registry \(ie. Czech Republic, Austria\). This report shows an overview of all bills closed via the fiscal registry, bill number, time of registry and their identifiers.
+Some countries choose to implement a direct fiscal integration with the local fiscal registry, i.e. Czech Republic and Austria. This report shows an overview of all bills closed via the fiscal registry, bill number, time of registry and their identifiers.
 
 ## Data Filters
 

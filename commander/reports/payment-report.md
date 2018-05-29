@@ -11,8 +11,8 @@ The Payment Report gives an overview of all the payments and rebates made in the
   * **Pending** - to see payments where a charge attempt was made, but its still pending approval from the bank
   * **Settled** - the payment was settled by the Merchant to the bank account of the hotel/hostel.
 * **Type**
-  * **Payments** - 
-  * **Refunds** - 
+  * **Payments**  
+  * **Refunds** 
 * **Filter** - you can filter out the types of payments that you would like to display in the report
   * **Cash payments** - All cash payments taken in the selected time period. Please note that payments listed are not necessarily on closed bills, as some payments may have been taken as deposits prior to bill closure.
   * **Terminal CC payments** - Payments made and posted manually via external payment terminal. Once such a manual transaction is made, the employee will need to manually post this transaction in the system as a "Terminal Payment"
@@ -21,15 +21,15 @@ The Payment Report gives an overview of all the payments and rebates made in the
   * **Invoice payments** - Invoices issued and payments received for a previously issued invoice
   * **Cancelled payments** - Payments that were cancelled before they were settled
   * **Cashier transactions** - Internal transactions made in through your property's cashiers
-* **Credit Cards** - 
-* **Currency** - 
-* **Employee** - 
+* **Credit Cards**  
+* **Currency**  
+* **Employee** 
 * **Integration** - here you can select the gateway via which payments were made
-* **Charge Currency** - 
-* **Mode** - 
-  * **Cancelled** - 
-  * **Created** - 
-  * **Settled** - 
+* **Charge Currency** 
+* **Mode** 
+  * **Cancelled** 
+  * **Created** 
+  * **Settled**  
 * **Start date & time** - Date and time that report data begins. 
 * **End date & time** - Date and time that report data ends.
 
@@ -66,8 +66,11 @@ This sections includes details regarding all cash payments made within the speci
 * **Notes** - This will list the type of payment, including currency and any additionally added notes
 * **Value** - Total amount received or paid, including currency symbols
 
-### Mews Clues:
+{% hint style="info" %}
+### Mews Clues
 
-* Mews would recommend that each employee posting payments should print the report at the end of their shift by choosing their name from the **'Employee'** filter. Employees should ensure they have the proper backup, receipts, and bill copies for each single payment taken. These should be double-checked and countersigned by another team member. Once complete, we recommend these be handed over to the accounting department.
-* As part of the report, you see a column, which is highlighting the "rebates", which is important to keep record of, since your accounting team may need to approve all refunds given. At the top of the report, you can select to see only refunds using the **'Type'** filter.
+Mews would recommend that each employee posting payments should print the report at the end of their shift by choosing their name from the `Employee` filter. Employees should ensure they have the proper backup, receipts, and bill copies for each single payment taken. These should be double-checked and countersigned by another team member. Once complete, we recommend these be handed over to the accounting department.
+
+As part of the report, you see a column, which is highlighting the "rebates", which is important to keep record of, since your accounting team may need to approve all refunds given. At the top of the report, you can select to see only refunds using the `Type` filter.
+{% endhint %}
 
