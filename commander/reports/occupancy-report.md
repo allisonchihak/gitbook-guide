@@ -1,7 +1,5 @@
 # Occupancy Report
 
-### Reports: {#current-article-title}
-
 ## Occupancy Report
 
 The Occupancy report is a schematic overview of all room types, the number of rooms in each category and the business-on-the-books for each room-type per day. The overview offers insights into Occupancy, Availability, Average Daily Rate and Rooms Booked and the sales rates.
@@ -14,16 +12,16 @@ Through the usage of colour, you are quickly able to spot busy dates, which have
 
 ### Occupancy Report Filters {#occupancyfilter}
 
-* Space Types: select the space types which you would like to filter out
-* States: select whether you would like to display Optional, Confirmed or both types of reservation data
-* Mode
-  * Availability: in this mode you are shows per space category the number of spaces available
-  * Occupancy: in this mode you see the occupancy percentage per category
-* Rate mode: 
-  * Average night rate: to show the average rate sold for that particular night
-  * Sales rate: to show the rate at which you are selling on that specific day
-* Rate: if you selected "Sales rate" in the previous selection, select which rate you would like to display
-* Company / Travel Agent: see the production a particular client has booked at the hotel
+* **Space Types** - Select the space types which you would like to filter out
+* **States** - Select whether you would like to display Optional, Confirmed or both types of reservation data
+* **Mode**
+  * **Availability** - In this mode you are shows per space category the number of spaces available
+  * **Occupancy** - In this mode you see the occupancy percentage per category
+* **Rate Mode**
+  * **Average Nightly Rate** - To show the average rate sold for that particular night
+  * **Sales Rate** - To show the rate at which you are selling on that specific day
+* **Rate** - If you selected "Sales rate" in the previous selection, select which rate you would like to display
+* **Company/Travel Agent** - See the production a particular client has booked at the hotel
 
 ### Room Type Overbooking
 
@@ -35,7 +33,7 @@ Only staff members with supervisory "Overbook" rights are allowed to make bookin
 
 Note: even though we have great connections with Channel managers, it might occasionally happen that an overbooking slips through. Unfortunately, as there are a few integrations that are updating themselves, there are always a few minutes time difference between availability openings/closings which might cause that. During a busy booking period two bookings can come in at the same time, while you only have one room available. Unfortunately this is the risk of not managing manually. Notwithstanding that, we see that the Channel manager solutions by far outweigh not having one \(time management, occupancy optimisation\).
 
-### Day use {#dayuse}
+### Day Use {#dayuse}
 
 Some hotels provide an option of booking a room or an other space type not only for overnight stays, but also for a stay during the day.
 
