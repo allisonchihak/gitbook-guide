@@ -23,6 +23,6 @@ Choose this option to set up a group of people that you would like to receive th
 
 ## Webhook Export Target
 
-* **Name** - Name of group receiving Webhook export
+* **Name** - Name of group receiving webhook export
 * **URL** - Webhook URL
 
