@@ -46,7 +46,7 @@ Click on the main menu button in the header of Mews to open a sidebar menu, whic
 
 * **Archive** - Overview of all exports previously generated for your user account
 * **Schedules** - Overview of all export schedules previously created for your user account
-* **Targets** - Overview of all export targets, including e-mail, Webhook, and FTP targets
+* **Targets** - Overview of all export targets, including e-mail, webhook, and FTP targets
 
 ## Tasks
 
