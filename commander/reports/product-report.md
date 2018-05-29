@@ -1,7 +1,5 @@
 # Product Report
 
-### Reports: {#current-article-title}
-
 ## Product Report
 
 The Product Report is a chronological overview of the different package products that are included in the rate. This could be breakfast, half-board, city tax, extra beds, etc. The report always shows the total number of customers in-house on a specific day and how many products were sold in each category.
