@@ -22,7 +22,7 @@ House use bookings are used to block spaces for internal use. This feature can b
 
 To create a `House Use Booking`, navigate to the `Timeline`, look for the `House` icon, and click on it. In a new window, you will see the following fields to complete:
 
-* **Name** - Enter a brief description which will be displayed in the reservation block
+* **Block name** - Enter a brief description which will be displayed in the reservation block
 * **Assigned room** - From the drop-down list, select the room that you'd like to book
 * **Start** - Date and time that house use booking should begin
 * **End** - Date and time that house use booking should end
