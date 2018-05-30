@@ -104,7 +104,7 @@ Find the room that you'd like to place `Out of Order` and click on the room numb
 
 On the right-hand side, look for a button labeled `Place room out of order` and click on it. Then, you will be redirected to another screen with the following fields:
 
-* **Name** - Enter a short description of the problem
+* **Block name** - Enter a short description of the problem
 * **Assigned room** - This will be preselected with the room number you've clicked on. You can also select a different room from the drop-down menu. 
 * **Start date & time** - Choose the date and time that the `OOO` block should begin
 * **End date & time** - Choose the date and time that the `OOO` block should end and the room will be back in working order. Room status will automatically change to `Dirty` at this selected end time. 
