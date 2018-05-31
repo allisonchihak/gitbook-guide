@@ -1,0 +1,32 @@
+# Setup
+
+### Operator Configuration
+
+Before you can begin using Operator at your property, the application must first be configured in your settings. To do so, open Commander and navigate to the Operator Configurations screen using the following path:
+
+* **`Main Menu > Settings > Services > Stay > Operator Configurations`**
+
+Click the `+` button to create a new Operator kiosk. Please note that you must create a new kiosk in Operator Configurations for each device you want to install Operator on. Complete the following fields on the next screen:
+
+* **Language** - Select any languages you would like the key cutting instructions to be in. Selecting a language different from your property’s default language will automatically add a new text box next to the “Take key instructions” and “Cut key instructions” fields for you to complete.    
+* **Name** - Enter a name to identify the kiosk \(for example, “Kiosk 1”\).
+* **Connector integration** - Select the connector integration you would like to use. Please note that you must already have a connector integration set up. For more details on how to do this, see Connectivity.
+* **Default language** - Select the default language you would like displayed in the Operator application.
+* **Key cutter** - Select the key cutter you would like to connect to this kiosk. Please note that you must already have a key cutter integration set up. See Key Cutter Integration for more information.
+* **Take key instructions** - Enter the instructions you would like displayed on the left side of the screen. This should describe the first step in creating a key \(for example, “Please take a key from the stack.”\).
+* **Cut key instructions** - Enter the instructions you would like displayed on the right side of the screen. This should describe the second step in creating a key \(for example, “Place the key on the key cutter.”\).
+* **Cut key video URL** - Enter the web address for the instructional key cutting video that you would like displayed onscreen; must be a complete address \(for example, http://mewssystems.com\).
+
+After you have completed all fields, click `Create`. The system will automatically generate a QR code, which you will need when setting up Operator on your device.
+
+### Device Setup
+
+Before you install Operator, please note that your tablet will need to be either new \(and not yet set up\) or factory reset. If you are using a new Android device, it will automatically begin the setup process the first time you turn it on. If it is not new, factory reset it and follow these steps:
+
+1. Tap on the “Welcome” message six times to start the QR code setup process.
+2. Connect to a Wi-Fi network, and the device will automatically begin installing a QR reader.
+3. When the QR reader installation is complete, scan the QR code that was created in Operator Configurations to install Operator on your device.
+
+Once the installation is complete, your device is setup and ready to be used by guests.  
+
+
