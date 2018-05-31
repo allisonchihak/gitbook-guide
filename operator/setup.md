@@ -10,9 +10,9 @@ Click the `+` button to create a new Operator kiosk. Please note that you must c
 
 * **Language** - Select any languages you would like the key cutting instructions to be in. Selecting a language different from your property’s default language will automatically add a new text box next to the “Take key instructions” and “Cut key instructions” fields for you to complete.    
 * **Name** - Enter a name to identify the kiosk \(for example, “Kiosk 1”\).
-* **Connector integration** - Select the connector integration you would like to use. Please note that you must already have a connector integration set up. For more details on how to do this, see Connectivity.
+* **Connector integration** - Select the connector integration you would like to use. Please note that you must already have a connector integration set up. For more details on how to do this, see [Mews Connector](https://mews-systems.gitbook.io/guide/commander/settings/integrations/create-an-integration/facility-management/mews-connector).
 * **Default language** - Select the default language you would like displayed in the Operator application.
-* **Key cutter** - Select the key cutter you would like to connect to this kiosk. Please note that you must already have a key cutter integration set up. See Key Cutter Integration for more information.
+* **Key cutter** - Select the key cutter you would like to connect to this kiosk. Please note that you must already have a key cutter integration set up. See [Key Cutter Integration](https://mews-systems.gitbook.io/guide/commander/settings/integrations/create-an-integration/facility-management/key-cutter-integration) for more information.
 * **Take key instructions** - Enter the instructions you would like displayed on the left side of the screen. This should describe the first step in creating a key \(for example, “Please take a key from the stack.”\).
 * **Cut key instructions** - Enter the instructions you would like displayed on the right side of the screen. This should describe the second step in creating a key \(for example, “Place the key on the key cutter.”\).
 * **Cut key video URL** - Enter the web address for the instructional key cutting video that you would like displayed onscreen; must be a complete address \(for example, http://mewssystems.com\).
