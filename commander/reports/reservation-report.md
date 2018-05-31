@@ -2,12 +2,6 @@
 
 The reservation report is the report with most data and filtering options to analyze the booking data of the hotel. 
 
-{% hint style="info" %}
-### Mews Clues
-
-Due to the large amount of data, we can only display a limited amount on the `Reservation Report` screen. However, when you export the report to Excel, you will see almost all of the related, available information listed for each booking.
-{% endhint %}
-
 ## Filters
 
 * **Mode**
@@ -105,6 +99,12 @@ Below is a description of a few of the Columns and their definitions.
 * **Total** - Total amount due for booking
 * **CC** - Credit card icon will appear for customers that have card details in their profile; click this icon to be taken directly to customer billing screen; hover over this icon to view last 4 digits and card type
 * **Notes** - Any additional notes on reservation
+
+{% hint style="info" %}
+### Mews Clues
+
+Due to the large amount of data, we can only display a limited amount on the `Reservation Report` screen. However, when you export the report to Excel, you will see almost all of the related, available information listed for each booking.
+{% endhint %}
 
 ## Hostels
 
