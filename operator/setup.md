@@ -10,7 +10,7 @@ Click the `+` button to create a new Operator kiosk. Please note that you must c
 
 * **Language** - Select any languages you would like the key cutting instructions to be in. Selecting a language different from your property’s default language will automatically add a new text box next to the “Take key instructions” and “Cut key instructions” fields for you to complete.    
 * **Name** - Enter a name to identify the kiosk \(for example, “Kiosk 1”\).
-* **Connector integration** - Select the connector integration you would like to use. Please note that you must already have a connector integration set up. If you don't, contact our Integrations team at  `integrations@mewssystems.com` to get started. 
+* **Connector integration** - Select the connector integration you would like to use. Please note that you must already have a connector integration set up. If you don't, contact our Integrations team at  [integrations@mewssystems.com](mailto:integrations@mewssystems.com) to get started. 
 * **Default language** - Select the default language you would like displayed in the Operator application.
 * **Key cutter** - Select the key cutter you would like to connect to this kiosk. Please note that you must already have a key cutter integration set up. See [Key Cutter Integration](https://mews-systems.gitbook.io/guide/commander/settings/integrations/create-an-integration/facility-management/key-cutter-integration) for more information.
 * **Take key instructions** - Enter the instructions you would like displayed on the left side of the screen. This should describe the first step in creating a key \(for example, “Please take a key from the stack.”\).
