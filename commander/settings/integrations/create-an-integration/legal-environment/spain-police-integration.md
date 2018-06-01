@@ -6,14 +6,14 @@ This article is intended as a guide for all Spanish properties that wish to auto
 
 To create a Spanish Police Integration, you must first navigate to the Mews Integrations page using the following path:
 
-* **Main Menu &gt; Settings &gt; Integrations**
+* **`Main Menu > Settings > Integrations`**
 
 Look for the `+` icon and click on it. The next page contains a list of all integrations that you can create in Mews. Under the `Legal environment` section, look for the `Spanish Police Integration` and click on it. You will see the following fields to complete:
 
 * **Name** - This field is optional
 * **Hotel code** - Hotel establishment code provided by the Spanish police.
 * **To** - E-mail address where the export should be sent. Include multiple e-mail addresses using either commas or semicolons
-* **Daily report execution time** - Time when should the export be generated and sent. By default it is set up to 9:00AM but you may change it to any time of the day you wish \(the logic is that when you fill in 0 hours and 0 minutes it is generated at midnight. If you fill in 10 hours and 45 minutes it is generated at 10:45AM, etc.\).
+* **Daily report execution time** - Time when should the export be generated and sent. By default it is set up to 9:00 a.m. but you may change it to any time of the day you wish \(the logic is that when you fill in 0 hours and 0 minutes it is generated at midnight. If you fill in 10 hours and 45 minutes it is generated at 10:45 a.m.\).
 * **Notes**
 
 Once all details are properly completed click the button `Create` and select the box to **Enable** the integration.
@@ -43,7 +43,7 @@ The second and following lines will contain legally required information about y
 * **Spanish ID** - This field is only complete for Spanish citizens, and will indicate their identification number; for non-Spanish citizens, this field will be blank
 * **Document number** - This field only applies to foreign guests, and includes the number of the identity document submitted during check-in; for Spanish citizens, this field will be blank
 * **Document type** - One letter abbreviation corresponding to one of the accepted forms of identity document \(e.g. **P** for passport\)
-* **Document expiration date** - Date of document's expiration in `YYYYMMDD` format
+* **Document validity \(from - to\)** - Date range document is valid from \(issue date\) and to \(expiration date\) in `YYYYMMDD` format
 * **Last name** - Customer's surname
 * **Second last name** - Second surname, if applicable
 * **First name** - Customer's given name
@@ -58,15 +58,14 @@ In the export, each piece of information is separated with a `|` symbol, so the 
 
 **Non-Spanish Citizen:** `2||1223656|P|20200402|LASTNAME|SECONDLASTNAME|FIRSTNAME|F|19891105|ESTADOSUNIDOS|20180411|`
 
-> ### Mews Clues
->
-> Only guests with identity document information will be included in the export
->
-> Properties are fully responsible for completing data for legally required fields
->
-> Properties are fully responsible for delivering reports to the police as required
->
-> Please note that the export will be generated based on yesterday's arrival data
+{% hint style="info" %}
+### Mews Clues
+
+* Only guests with identity document information will be included in the export.
+* Properties are fully responsible for completing data for legally required fields.
+* Properties are fully responsible for delivering reports to the police as required.
+* Export will be generated based on yesterday's arrival data.
+{% endhint %}
 
 ## Delete
 
