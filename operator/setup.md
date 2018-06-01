@@ -7,13 +7,6 @@ The minimum system requirements for Mews Operator are:
 * **Payment automation** - To use Operator, all rate groups must have automatic settlement enabled. For more information about how to do this in your settings, see [Rate Groups](https://mews-systems.gitbook.io/guide/commander/settings/sales-settings/services/stay-services/rate-groups). Please note that the settlement action can be set to either "Charge credit card" or "Create preauthorization" for Operator.
 * **Door lock integration** - Each individual Operator kiosk must have a key cutter machine connected to it for completing check-ins, which requires a door lock integration be set up for your property. If your property does not already have this integration set up, see our [related article](https://mews-systems.gitbook.io/guide/commander/settings/integrations/create-an-integration/facility-management/key-cutter-integration) to get started.
 
-### Supported Countries
-
-Operator is currently available for properties in the following countries:
-
-* Australia
-* Netherlands
-
 ## Operator Configuration
 
 Before you can begin using Operator at your property, the application must first be configured in your settings. To do so, open Commander and navigate to the Operator Configurations screen using the following path:
@@ -42,6 +35,14 @@ Before you install Operator, please note that your tablet will need to be either
 2. Connect to a Wi-Fi network, and the device will automatically begin installing a QR reader.
 3. When the QR reader installation is complete, scan the QR code that was created in Operator Configurations to install Operator on your device.
 
-Once the installation is complete, your device is setup and ready to be used by guests.  
+Once the installation is complete, your device is setup and ready to be used by guests.
 
+{% hint style="info" %}
+### Supported Countries
+
+Operator is currently available for properties in the following countries:
+
+* Australia
+* Netherlands
+{% endhint %}
 
