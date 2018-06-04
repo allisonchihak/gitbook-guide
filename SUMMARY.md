@@ -186,7 +186,7 @@
 * [Merchant](merchant.md)
 * [Distributor](distributor.md)
 * [Navigator](navigator.md)
-* [Operator](operator/README.md)
+* Operator
   * [Setup](operator/setup.md)
 * [Connector](connector.md)
 * [Knowledge Base](knowledge-base/README.md)
