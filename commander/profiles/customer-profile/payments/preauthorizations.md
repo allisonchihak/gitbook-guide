@@ -16,19 +16,19 @@ Here you will find a list of preauthorizations, both past and current. The follo
 * **State**
 * * **Chargeable** - A successfully created preauthorization that is ready to be charged; this badge is displayed in blue indicating required action
   * **Charged** - When a preauthorization is successfully charged, badge will change black and will be labeled 'Charged'. Hover over this badge to see originally preauthorized amount and the charged amount. You will also see this transaction listed in the `Payments` section, with a matching `Identifier` _\*\*_number. 
-  * **Canceled** - When a preauthorization is canceled, state badge will change to a grey color and will be displayed with 'Canceled'. Hover over the badge to see the originally canceled amount and the date and time of cancellation. 
-* **Value** - The monetary value of the original preauthorization, including currency
-* **Actions**
-  * **Cancel** - Click this button to cancel a preauthorization. Please note that it may take 3-5 days for the bank to release funds that were being held for this preauthorization. 
-  * **Charge** - Click this button to charge the preauthorized amount. You must confirm the amount that was originally preauthorized, but it is possible to charge only a partial amount from the original value. Once charged, the transaction will appear in the Payments section. You can also click on the + Payment button and select 'Charge preauthorization' if there is one that's already chargeable. 
+  * **Canceled** - When a preauthorization is canceled, the state badge will change to a gray color. Hover over the badge to see the canceled amount, as well as the date and time of cancellation. 
+* **Value** - The monetary value of the original preauthorization, including currency.
+* **Actions -** Click the `More Options` icon to the right of a credit card to open the Actions menu. You can choose from the following actions:
+  * **Cancel** - Select to cancel a preauthorization. Please note that it may take 3-5 days for the bank to release funds that were being held for this preauthorization. 
+  * **Charge** - Select to charge the preauthorized amount. You must confirm the amount that was originally preauthorized, but it is possible to charge only a partial amount from the original value. Once charged, the transaction will appear in the Payments section. You can also click on the `+ Payment` button and select "Charge preauthorization" if there is one that's already chargeable. 
 
 ## Create
 
-To create a new preauthorization, click the `+Preauthorization` button on the payments screen. If you are using a card that is not on file, you will need to complete the following information. You'll have two options:
+To create a new preauthorization, click the `+ Preauthorization` button on the payments screen. If you are using a card that is not on file, you will need to complete the following information. You'll have two options:
 
-**Charge online via Adyen:**
+**Charge online via Adyen**
 
-For online cards charged using Stripe & Adyen, you can use the `Charge online` form:
+For online cards charged using Stripe and Adyen, you can use the `Charge online` form:
 
 * **Provider** - pre-filled with `Mews` or `Adyen`
 * **Credit Card** - Choose from a previously used card already on file or select to add a new card
@@ -43,7 +43,7 @@ For online cards charged using Stripe & Adyen, you can use the `Charge online` f
 
 When all fields are correctly completed, click `Create via internet` and you will see the preauthorization appear in the `Payment` section, which is then available for charging at the desired time.
 
-**Add manually charged payment**
+**Add manually-charged payment**
 
 For cards being charged manually via an external terminal that is not associated with Mews Commander, you can use the `Manually charged` form:
 
@@ -68,15 +68,15 @@ When all fields are correctly completed, click `Created by terminal` to complete
 
 Once the card information has been submitted, you will see it appear under the preauthorizations section.
 
-To charge the preauthorization, click the arrow icon under the `Actions` column. A window will appear with the following information:
+To charge the preauthorization, click the `More Options` icon to the right of it and select `Charge`. A new window will appear with the following information:
 
-* **Provider** - Pre-filled with `Mews`
-* **Preauthorization** - Preauthorization, card type, obfuscated card number \(original amount with currency\)
+* **Provider** - Pre-filled with the name of the provider.
+* **Preauthorization** - Select the option you wish to charge \(labeled with preauthorization, card type, obfuscated card number, and original amount\).
 * **Amount** - Pre-filled with originally preauthorized amount. If you would like to charge a different amount than what was originally preauthorized, you may enter that amount here. Please note that you can charge less than the original amount, but you cannot charge more. 
 
-If all information is correct, click the `Charge` button.
+If everything is correct, click the `Charge` button.
 
-At this time, the badge previously labeled `Chargeable` will change to `Charged`, the icons previously under the `Actions` column will disappear, and you will see this transaction appear under the `Payments` section.
+At this time, the badge previously labeled `Chargeable` will change to `Charged`, the `More Options` icon will disappear, and you will see this transaction appear under the `Payments` section.
 
 To locate the correct an already charged preauthorization, compare the `Identifier` numbers, which will be the same under both the `Preauthorizations` and `Payments` sections.
 
@@ -95,7 +95,7 @@ Please note that if you choose to automate your preauthorizations, you will also
 
 ## Cancel
 
-If you would like to release the preauthorization, select the `X` button under the `Actions` column and the bank will be notified to release the transaction. Please note that it may take 3-5 business days for Adyen to release the transaction.
+If you would like to cancel a preauthorization, click on the `More Options` icon to the right of the preauthorization to open the Actions menu, and select `Cancel`; the bank will be notified to release the transaction. Please note that it may take 3-5 business days for Adyen to release the transaction.
 
 {% hint style="info" %}
 ### Mews Clues

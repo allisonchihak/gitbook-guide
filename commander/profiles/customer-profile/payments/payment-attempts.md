@@ -20,7 +20,6 @@ The following information is visible with each failed payment:
 * **Notes** - Any notes or additional information. This often includes the reason for the failure.
 * **State** - Current state of transaction. This should read `Failed`. Hover over the badge to see the original gateway value.
 * **Value** - Amount that was charged including original currency and default currency values
-* **Actions** - Applicable actions will appear in this column as needed. Hover over any action buttons to see their label.
 
 If any transaction was not successful, you will be able to find it here. To retry for a successful payment, you may need to completely recreate it.
 

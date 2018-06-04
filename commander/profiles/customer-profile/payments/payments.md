@@ -14,5 +14,6 @@ Each successful payment is displayed with the following information:
 * **Notes** - Any additional information or details that should be included 
 * **State** - Current payment state displayed with the proper Mews action color. 
 * **Value** - Cost of item including default currency
-* **Actions** - Click on the arrow to refund a payment
+* **Actions** - Click the `More Options` icon on the right of a payment to open the Actions menu. You can choose the following action if necessary:
+  * **Refund** - Select to refund a payment, and a new window will appear. To successfully make a refund, you must enter a reason for it in the "Reason" box. If you wish to only make a partial refund, select the "Refund partially" checkbox. Click the `Refund` button when you are finished. The refund will be listed below the Payments section, and the `More Options` icon will disappear from the right of the payment you have just refunded.
 

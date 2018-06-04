@@ -6,9 +6,7 @@ A refund is money returned to the customer for a payment transaction \(e.g. retu
 
 ## Refund
 
-To refund a payment, navigate to the customer profile `Payments` page, and look for the `Payments` section. When you locate the payment that should be refunded, look for the arrow icon under the `Actions` column and click on it.
-
-Next, you will see a new window with the following information:
+To refund a payment, navigate to `Payments` page within the customer's profile, and look for the `Payments` section. Locate the payment that should be refunded, and click on the `More Options` icon to the right of it to open the Actions menu. Click on `Refund` to open a new window with the following information:
 
 * **Currency** - Pre-filled with charged currency
 * **Charged** - Pre-filled with charged amount

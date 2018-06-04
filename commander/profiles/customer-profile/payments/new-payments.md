@@ -64,7 +64,7 @@ When all details are correctly entered, click `Charge via internet` to finish pa
 
 Please note that if charging a new card, additional fields may appear for completion. When all details are correctly entered, click `Charge remotely` to finish payment.
 
-**Add manually charged payment:**
+**Add manually-charged payment:**
 
 Use this option if you are using an external payment terminal that is not associated with Mews Commander.
 

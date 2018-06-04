@@ -19,10 +19,10 @@ Here, you will see a list of credit cards that the customer has used to make pay
 * **Created** - Date and time that transaction was created, plus employee who created the transaction
 * **Notes** - Any additional notes that may be included with transaction. These cannot be added manually but will automatically be included in case there is any note from the credit card provider. 
 * **State** - In case of gateway cards, you will be able to see the if the card is currently chargeable.
-* **Actions** - Each icon represents a different action. Hover over the icons to see their label.
-  * **Preauthorization** - create a new preauthorization for an existing card or select 'New credit card' from the drop-down list to add a new card
-  * **Credit card payment** - Make a payment with an existing credit card or select 'New credit card' to add a payment with a different card
-  * **Delete** - Remove credit card details from the customer's profile. Please note that once you've deleted these card details, you must reenter that information in order to use the card again in the future. 
+* **Actions** - Click the `More Options` icon to the right of a credit card to open the Actions menu. You can choose from the following actions: 
+  * **Preauthorization** - Select to create a new preauthorization for an existing card or select "New credit card" from the drop-down list to add a new card.
+  * **Credit card payment** - Select to make a payment with an existing credit card or select "New credit card" to make a payment with a different card.
+  * **Delete** - Select to remove credit card details from the customer's profile. Please note that once you've deleted these card details, you must reenter that information in order to use the card again in the future. 
 
 ## Add
 
@@ -30,7 +30,7 @@ To add a new credit card, click on the `+ Credit Card` button on the payment scr
 
 ### **Online Chargeable Credit Card**
 
-This left section is for online cards using Stripe & Adyen.
+This left section is for online cards using Stripe and Adyen.
 
 * **Provider** - Pre-filled with Adyen
 * **Credit Card Number** - The full 16-digit number is required for this field. Please note that after information has been submitted, only the last 4 digits will be visible.
@@ -41,7 +41,7 @@ This left section is for online cards using Stripe & Adyen.
 
 ### **Credit Card**
 
-This right-hand side is for cards that are being charged manually via an external terminal.
+This right section is for cards that are being charged manually via an external terminal.
 
 * **Type** - Select credit card type from the drop-down list
 * **Last 4 digits** - The last 4 digits of the card number
@@ -57,9 +57,7 @@ Each card will appear in a list in this credit cards section and will be availab
 
 ## Delete
 
-In the list of cards, look for the `trash can` icon under the 'Actions' column and click on it.
+Within the credit card overview, click on the `More Options` icon to the right of the card you wish to delete, and select `Delete [credit card number]`. When the confirmation dialog appears, select `Delete` again to confirm the action. 
 
-When you see the confirmation box, click `Delete`.
-
-When you return to the Payments page, you will no longer see this card in the Credit Cards section and it will no longer appear in drop-down options for card payments.
+When you return to the `Payments` page, you will no longer see this card in the `Credit Cards` section, and it will no longer appear in drop-down options for card payments.
 
