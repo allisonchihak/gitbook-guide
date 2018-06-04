@@ -18,7 +18,7 @@ Here you will find a list of preauthorizations, both past and current. The follo
   * **Charged** - When a preauthorization is successfully charged, badge will change black and will be labeled 'Charged'. Hover over this badge to see originally preauthorized amount and the charged amount. You will also see this transaction listed in the `Payments` section, with a matching `Identifier` _\*\*_number. 
   * **Canceled** - When a preauthorization is canceled, the state badge will change to a gray color. Hover over the badge to see the canceled amount, as well as the date and time of cancellation. 
 * **Value** - The monetary value of the original preauthorization, including currency.
-* **Actions -** Click the `More Options` icon to the right of a credit card to open the Actions menu. You can choose from the following actions:
+* **Actions -** Click the `More Options` icon to the right of a card preauthorization to open the Actions menu. You can choose from the following actions:
   * **Cancel** - Select to cancel a preauthorization. Please note that it may take 3-5 days for the bank to release funds that were being held for this preauthorization. 
   * **Charge** - Select to charge the preauthorized amount. You must confirm the amount that was originally preauthorized, but it is possible to charge only a partial amount from the original value. Once charged, the transaction will appear in the Payments section. You can also click on the `+ Payment` button and select "Charge preauthorization" if there is one that's already chargeable. 
 
