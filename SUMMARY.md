@@ -183,12 +183,8 @@
       * [Device Commands](commander/settings/integrations/device-commands.md)
     * [Custom Links](commander/settings/custom-links.md)
     * [Calendar Events](commander/settings/calendar-events.md)
-* [Merchant](merchant.md)
-* [Distributor](distributor.md)
-* [Navigator](navigator.md)
-* Operator
+* [Operator](operator/README.md)
   * [Setup](operator/setup.md)
-* [Connector](connector.md)
 * [Knowledge Base](knowledge-base/README.md)
   * [Mews Products](knowledge-base/mews-products.md)
   * [Profiles](knowledge-base/profiles.md)
