@@ -49,9 +49,9 @@ Look for the `Key cutter` link and click on it. You will be automatically be red
 
 Look for the `+` button and click on it. You will see the following fields to complete:
 
-* **Name** - Name each key cutter based on where the device is located or what will be easily understandable for your staff
-* **Identifier** -  This is information that you will find in the Visionline application when you click on Diagnostics and you copy the identifier that is under Address column. Example
-* **Data JSON** - Leave this blank
+* **Name** - Enter a name for each key cutter based on where the device is located or what will be easily understandable for your staff.
+* **Identifier** -  You will find this information in the VisiOnline application when you click `Diagnostics` and copy the identifier listed under the Name column. Click [here ](https://raw.githubusercontent.com/MewsSystems/gitbook-commander-guide/master/.gitbook/assets/visionline1.png)to see an example. 
+* **Data JSON** - Leave this blank.
 
 When all details are correctly entered, click the `Create` button. Navigate back to your main `Key cutters` page, where you will see a list of active key cutters in your property's system. Add all key cutters that you would like to implement, using the same steps as described above for each one.
 
