@@ -50,7 +50,7 @@ Look for the `Key cutter` link and click on it. You will be automatically be red
 Look for the `+` button and click on it. You will see the following fields to complete:
 
 * **Name** - Name each key cutter based on where the device is located or what will be easily understandable for your staff
-* **Identifier** -  This is information that you will find in the Visionline application when you click on Diagnostics and you copy the identifier that is under Address column.
+* **Identifier** -  This is information that you will find in the Visionline application when you click on Diagnostics and you copy the identifier that is under Address column. Example
 * **Data JSON** - Leave this blank
 
 When all details are correctly entered, click the `Create` button. Navigate back to your main `Key cutters` page, where you will see a list of active key cutters in your property's system. Add all key cutters that you would like to implement, using the same steps as described above for each one.
