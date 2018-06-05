@@ -33,7 +33,7 @@ To create a new rate group, look for the `+ icon`, click on it, and complete the
   * **Nights** - Include cost for all nights; this field is limited by the `Maximum nights for settlement` field
   * **Products** - Include cost of all stay products \(i.e. Breakfast, Parking, etc.\)
 * **Options**
-  * **Automatic deposit settlement** - Select this option to automatically post deposits to customer bills. Please note that this feature creates deposits based on your legal environment, so it can be activated regardless of whether you are required to pay VAT at the time of payment or the time of consumption..
+  * **Automatic deposit settlement** - Select this option to automatically post deposits to customer bills. Please note that this feature creates deposits based on your legal environment, so it can be activated regardless of whether you are required to pay VAT at the time of payment or the time of consumption. For more information, see [Deposits](https://mews-systems.gitbook.io/guide/commander/profiles/customer-profile/billing/deposits).
 * **Short name** - An abbreviated label for this rate group, which is used for reference where space may be limited.
 * **Description** - A short description of this rate group to display to customers while booking. This space could include cancellation policies or any other further information. 
 * **Ordering** - To organize your rate groups in a specific way, use this field to specify the correct order display, with lower numbers appearing first and higher numbers appearing last. 

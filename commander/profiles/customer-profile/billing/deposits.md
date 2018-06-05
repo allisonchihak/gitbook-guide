@@ -1,6 +1,6 @@
 # Deposits
 
-In each country, there is a different set of rules when it comes to paying VAT. Whether your legal environment requires that you pay VAT at the time a payment is received or at the time of consumption, deposits allow you to post a payment according to your country's tax requirements.
+In each country, there is a different set of rules when it comes to paying VAT. Whether your legal environment requires that you pay VAT at the time a payment is received or at the time of consumption, deposits allow you to post a payment according to your country's tax requirements. This feature can help you track payments against the future reservation. 
 
 ## Create
 
