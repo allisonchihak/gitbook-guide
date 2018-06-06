@@ -20,7 +20,7 @@ If you have already installed Mews Connector, please proceed with the instructio
 
 To create a new `Key cutter integration`, navigate to the main integrations page using the following path:
 
-* **Main Menu &gt; Settings &gt; Integrations**
+* **`Main Menu > Settings > Integrations`**
 
 Look for the `+` icon and click on it. Next, look for the `Facility management` section and click on `Key cutter integration`. In a modal window, you will see the following fields to complete:
 
