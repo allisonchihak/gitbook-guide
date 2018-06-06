@@ -1,7 +1,7 @@
 # Table of contents
 
 * [Introduction](README.md)
-* Commander
+* [Commander](commander/README.md)
   * [About Commander](commander/about-commander/README.md)
     * [Dashboard Donuts](commander/about-commander/dashboard-donuts.md)
     * [Customer Communication](commander/about-commander/customer-communication.md)
@@ -60,7 +60,7 @@
     * [Reservation Module](commander/reservations/reservation-module.md)
     * [Reservation Cards](commander/reservations/reservation-cards.md)
     * [Simple Detail](commander/reservations/simple-detail.md)
-  * Reports
+  * [Reports](commander/reports/README.md)
     * [About Reports](commander/reports/about-reports/README.md)
       * [Print & Export](commander/reports/about-reports/print-and-export/README.md)
         * [Custom Exports](commander/reports/about-reports/print-and-export/custom-exports.md)
@@ -91,7 +91,7 @@
     * [Room Status](commander/reports/room-status.md)
     * [Spent Nights Report](commander/reports/spent-nights-report.md)
     * [Tasks](commander/reports/tasks.md)
-  * Settings
+  * [Settings](commander/settings/README.md)
     * [Main Property Settings](commander/settings/main-property-settings/README.md)
       * [Import Customers](commander/settings/main-property-settings/import-customers.md)
     * [Finance Settings](commander/settings/finance-settings/README.md)
@@ -128,19 +128,19 @@
       * [Guides](commander/settings/navigator-settings/guides.md)
     * [Integrations](commander/settings/integrations/README.md)
       * [Create an Integration](commander/settings/integrations/create-an-integration/README.md)
-        * Accounting
+        * [Accounting](commander/settings/integrations/create-an-integration/accounting/README.md)
           * [BOB Integration](commander/settings/integrations/create-an-integration/accounting/bob-integration.md)
           * [Exchange Rate Provider Integration](commander/settings/integrations/create-an-integration/accounting/exchange-rate-provider-integration.md)
           * [Helios Integration](commander/settings/integrations/create-an-integration/accounting/helios-integration.md)
           * [Sage Integration](commander/settings/integrations/create-an-integration/accounting/sage-integration.md)
-        * Business Intelligence
+        * [Business Intelligence](commander/settings/integrations/create-an-integration/business-intelligence/README.md)
           * [Duetto Reservation Export Integration](commander/settings/integrations/create-an-integration/business-intelligence/duetto-reservation-export-integration.md)
           * [Meininger Occupancy Export Integration](commander/settings/integrations/create-an-integration/business-intelligence/meininger-occupancy-export-integration.md)
           * [Meininger Reservation Export Integration](commander/settings/integrations/create-an-integration/business-intelligence/meininger-reservation-export-integration.md)
           * [Snapshot](commander/settings/integrations/create-an-integration/business-intelligence/snapshot.md)
-        * Connectivity
+        * [Connectivity](commander/settings/integrations/create-an-integration/connectivity/README.md)
           * [Channel Manager Integration](commander/settings/integrations/create-an-integration/connectivity/channel-manager-integration/README.md)
-            * Channel Managers
+            * [Channel Managers](commander/settings/integrations/create-an-integration/connectivity/channel-manager-integration/channel-managers/README.md)
               * [Availpro](commander/settings/integrations/create-an-integration/connectivity/channel-manager-integration/channel-managers/availpro.md)
               * [Cubilis](commander/settings/integrations/create-an-integration/connectivity/channel-manager-integration/channel-managers/cubilis.md)
               * [HotelREZ](commander/settings/integrations/create-an-integration/connectivity/channel-manager-integration/channel-managers/hotelrez.md)
@@ -148,9 +148,9 @@
               * [Webhotelier](commander/settings/integrations/create-an-integration/connectivity/channel-manager-integration/channel-managers/webhotelier.md)
               * [TravelClick](commander/settings/integrations/create-an-integration/connectivity/channel-manager-integration/channel-managers/travelclick.md)
               * [TravelLine](commander/settings/integrations/create-an-integration/connectivity/channel-manager-integration/channel-managers/travelline.md)
-            * Channel Manager Queue
+            * [Channel Manager Queue](commander/settings/integrations/create-an-integration/connectivity/channel-manager-integration/channel-manager-queue.md)
           * [TripAdvisor Integration](commander/settings/integrations/create-an-integration/connectivity/tripadvisor-integration.md)
-        * Facility Management
+        * [Facility Management](commander/settings/integrations/create-an-integration/facility-management/README.md)
           * [Mews Connector](commander/settings/integrations/create-an-integration/facility-management/mews-connector.md)
           * [Passport Scanner Integration\*](commander/settings/integrations/create-an-integration/facility-management/passport-scanner-integration.md)
           * [Key Cutter Integration](commander/settings/integrations/create-an-integration/facility-management/key-cutter-integration/README.md)
