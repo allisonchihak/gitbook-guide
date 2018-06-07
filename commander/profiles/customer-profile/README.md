@@ -56,7 +56,7 @@ Within this tab, you can find reservations, an overview of all closed bills link
 
 ### Header
 
-In the top part of this tab, you will see a `+` icon, which can be used to create a new reservation or to place an order for either services and stay services. Place orders here if you do not want it to be processed automatically. Upon completing the order, you will see the new order appear on your dashboard in the Orders donut. When you open the primary orders page, you can either process the order manually or process it.
+In the top part of this tab, you will see a `+` button, which can be used to create a new reservation or to place an order for either services and stay services. Place orders here if you do not want it to be processed automatically. Upon completing the order, you will see the new order appear on your dashboard in the Orders donut. When you open the primary orders page, you can either process the order manually or process it.
 
 ### Current and Future
 
