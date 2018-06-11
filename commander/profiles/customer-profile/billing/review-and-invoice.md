@@ -1,12 +1,6 @@
 # Review and Invoice
 
-An invoice as a list of bill items that will not be paid at the time of checkout, but will have a future date of payment. From the moment that an invoice is issued, it is considered a legal document and cannot be amended.
-
-{% hint style="info" %}
-### Mews Clues {#mews-clues}
-
-Please note that you cannot modify the address or name on a bill once it has been closed. Furthermore, altering any information within the customer or company profile will not affect closed bills in any way. If you need to fix the name or address on a closed bill, you can rebate the bill using the Rebate button and issue a new bill once the customer or company details have been amended.
-{% endhint %}
+An invoice as a list of bill items that will not be paid at the time of checkout, but will have a future date of payment. From the moment that an invoice is issued, it is considered a legal document and cannot be amended. However, please note that closed bills can be modified if the option to do so has been [enabled in your accounting configuration settings](https://mews-systems.gitbook.io/guide/commander/settings/finance-settings/accounting-configuration). 
 
 ## Settings
 

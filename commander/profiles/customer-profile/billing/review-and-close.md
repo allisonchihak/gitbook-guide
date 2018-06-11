@@ -1,12 +1,6 @@
 # Review and Close
 
-A bill is a combined list of bill items and payments with a balance of zero, which has been `closed` and assigned a number for reference. From the moment that a bill is closed, it is considered a legal document and cannot be amended.
-
-{% hint style="info" %}
-### Mews Clues
-
-Please note that you cannot modify the address or name on a bill once it has been closed. Furthermore, altering any information within the customer or company profile will not affect closed bills in any way. If you need to fix the name or address on a closed bill, you can rebate the bill using the Rebate button and issue a new bill once the customer or company details have been amended.
-{% endhint %}
+A bill is a combined list of bill items and payments with a balance of zero, which has been closed and assigned a number for reference. Please note that closed bills can be modified if the option to do so has been [enabled in your accounting configuration settings](https://mews-systems.gitbook.io/guide/commander/settings/finance-settings/accounting-configuration). 
 
 ## Settings
 
