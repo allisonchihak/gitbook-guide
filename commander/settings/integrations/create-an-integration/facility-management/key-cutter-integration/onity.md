@@ -28,7 +28,7 @@ Look for the `+` icon and click on it. Next, look for the `Facility management` 
 * **API URL** - This field consists of three parts. You can use the image just below for reference:
   * Add `http://`
   * Following this, enter the local IP address of the computer where the Onity Interface System \(Client & Server\) application is running. For more information about finding your local IP address, [click here](https://support.microsoft.com/en-us/help/15291/windows-find-pc-ip-address). 
-  * Lastly, enter the interface Port, which you can find in the **Configuration &gt; Station configuration &gt; Ethernet &gt; Service number** in the Onity application. Be sure to include a `:` between your IP address and interface port.
+  * Lastly, enter the interface port. In the Onity application, choose **Configuration** &gt; **Station configuration** &gt; **Ethernet** &gt; **Service number**. Be sure to include a `:` between your IP address and interface port. See [here](https://raw.githubusercontent.com/MewsSystems/gitbook-guide/master/assets/Onity1.png) for an example.
   * In your settings, please make sure that `TCP/IP` is enabled.
   * Please note that you should not add any spaces between these three pieces of data. When completed, your API URL will look something like this: `http://127.0.0.1:10003`
 * **Username** - Leave this field blank; used only for VisiOnline integration
@@ -47,11 +47,11 @@ After selecting the `Enabled` option, don't forget to click `Save`.
 
 Look for the `Key cutter` link and click on it. You will be automatically be redirected to a second page, where you will finish setup of your key cutters.
 
-Look for the `+` button and click on it. You will see the following fields to complete:
+Click the `+` button. You will see the following fields to complete:
 
-* **Name** - Name each key cutter based on where the device is located or what will be easily understandable for your staff
-* **Identifier** - Navigate to your `Onity Interface System (Server)` application. Click on the `Client` tab and copy the number found under the `No.` column, next to the name of your device
-* **Data JSON** - Complete this field with `{ "Type": "OnityKeyCutter" }`
+* **Name** - Name each key cutter based on where the device is located or what will be easily understandable for your staff.
+* **Identifier** - Navigate to your `Onity Interface System (Server)` application. Click the `Client` tab and copy the number found under the `Address` column, next to the name of your device. See [here](https://raw.githubusercontent.com/MewsSystems/gitbook-guide/master/assets/Onity2.png) for an example.
+* **Data JSON** - Complete this field with `{ "Type": "OnityKeyCutter" }`.
 
 When all details are correctly entered, click the `Create` button and look for the green success message.
 
