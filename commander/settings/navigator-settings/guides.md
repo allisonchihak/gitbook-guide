@@ -2,16 +2,18 @@
 
 ## About Guides
 
-Once you have created a number of places in the city, you will be able to create some guides based on these places. This will allow you to show your unique guides to your guests via the Mews Navigator. So when guests login to your hotel on the Navigator they will automatically be presented with your specific guides.
+Once you have created a number of places in the city, you will be able to create some guides based on these places. This will allow you to show your unique guides to your guests via the Mews Navigator. So when guests sign in to your hotel on the Navigator app, they will automatically be presented with your specific guides.
 
 ## Create a Guide {#create-a-guide}
 
-To create a Guide, simply select the + icon at the top of the screen in the "Guides" section.
+Guides can be found in your Navigator settings. Choose **Main menu** &gt; **Property** &gt; **Guides**. 
 
-* Name
-* Short name
-* Description
-* Ordering
+To create a new guide, simply click the `+` button, and enter the following information: 
+
+* **Name**
+* **Short name**
+* **Description**
+* **Ordering**
 
 Once you have created the guide, ensure that you upload a good photo, that you feel represents the guide well. This is important as its the first photo that guests will see on the Navigator Guide section to entice them to browse the guide.
 
