@@ -6,7 +6,7 @@ Once you have created a number of places in the city, you will be able to create
 
 ## Create a Guide {#create-a-guide}
 
-Guides can be found in your Navigator settings. Choose **Main menu** &gt; **Property** &gt; **Guides**. 
+Guides can be found in your Navigator settings. Choose **Main menu** &gt; **Settings** &gt; **Property** &gt; **Guides**. 
 
 To create a new guide, simply click the `+` button, and enter the following information: 
 
