@@ -52,7 +52,7 @@ Look for the `Key cutter` link and click on it. You will be automatically be red
 Look for the `+` button and click on it. You will see the following fields to complete:
 
 * **Name** - Name each key cutter based on where the device is located or what will be easily understandable for your staff
-* **Identifier** - In the Salto application, click on the System tab, and copy the number found in the **Name** column. Click [here](https://raw.githubusercontent.com/MewsSystems/gitbook-guide/master/assets/Salto2.png) to see an example. 
+* **Identifier** - In the Salto application, click on **System**, and copy the number found in the Name column. Click [here](https://raw.githubusercontent.com/MewsSystems/gitbook-guide/master/assets/Salto2.png) to see an example. 
 * **Data JSON** - Complete this field with `{ "Type": "IndustryStandardProtocol" }`
 
 When all details are correctly entered, click the `Create` button. Navigate back to your main `Key cutters` page, where you will see a list of active key cutters in your property's system. Add all key cutters that you would like to implement, using the same steps as described above for each one.
