@@ -28,7 +28,7 @@ Before you setup this integration, please note a limitation of Salto's service i
 
 To create a new `Key cutter integration`, navigate to the main integrations page using the following path:
 
-* **Main Menu &gt; Settings &gt; Integrations**
+* **`Main Menu > Settings > Integrations`**
 
 Look for the `+` icon and click on it. Next, look for the `Facility management` section and click on `Key cutter integration`. In a modal window, you will see the following fields to complete:
 
@@ -36,7 +36,7 @@ Look for the `+` icon and click on it. Next, look for the `Facility management` 
 * **API URL** - This field consists of three parts:
   * Add `http://`
   * Following this, enter the local IP address of the Server where the Salto System application is running. For more information about finding your local IP address, [click here](https://support.microsoft.com/en-us/help/15291/windows-find-pc-ip-address). 
-  * Lastly, enter the interface Port, which you can find in the `PMS Settings` inside Salto. Be sure to include a `:` between your IP address and interface port.
+  * Lastly, enter the interface Port, which you can find in the `PMS Settings` inside Salto. Be sure to include a `:` between your IP address and interface port. See [here](https://raw.githubusercontent.com/MewsSystems/gitbook-guide/master/assets/Salto1.png) for an example. 
   * In your settings, please make sure that `TCP/IP` is enabled.
   * Please note that you should not add any spaces between these three pieces of data. When completed, your API URL will look something like this: `http://127.0.0.1:10003`
 * **Username** - Leave this field blank; used only for VisiOnline integration
