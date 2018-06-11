@@ -84,5 +84,7 @@ To change your logo image, follow the same steps as described above. Please note
 
 ## Sign-In Image
 
-Upload an image of your property to use as the background image during the online check-in process in Mews Navigator. Please note that the image must be in landscape format for proper display. Also, please ensure that you own all the rights to the chosen image.
+Upload an image of your property to use as the background image during the online check-in process in Mews Navigator. For best results, the image should be at least 1920 x 1080 pixels and must be landscape format for proper display. Please ensure that you own all rights to the selected image.
+
+
 
