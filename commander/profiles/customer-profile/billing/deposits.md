@@ -1,6 +1,6 @@
 # Deposits
 
-In each country, there is a different set of rules when it comes to paying VAT. In Mews, deposits are prepayments that are posted to a bill, which allow you to conform to the tax laws of your legal environment – whether you're required to pay VAT at the time a payment is received or the time of consumption. In your rate group settings, you have the option to turn on automatic deposits, which can help you track payments against the future reservation. 
+In each country, there is a different set of rules when it comes to paying VAT. In Mews, deposits are prepayments that are posted to a bill, which allow you to conform to the tax laws of your legal environment – whether you're required to pay VAT at the time a payment is received or the time of consumption. In your rate group settings, you have the option to [turn on automatic deposits](https://mews-systems.gitbook.io/guide/commander/profiles/customer-profile/billing/deposits#automation), which can help you track payments against the future reservation. 
 
 ## Create
 
