@@ -12,16 +12,18 @@ All places in the system are shared between all of the properties using Mews. Al
 
 ## **Create a Place** {#create-a-place}
 
-To create a place, simply select the + icon at the top of the page to create a new place.
+To create a place, simply select the `+` button. Enter the following details:
 
-* Local name: what is the local name of the place
-* Name: what is the international name of the place
-* Classification: classify whether the place is Accommodation, Activities, Art, etc. A single tag can be assigned to a place, which will assign a unique icon on the map.
-* Price Level: decide between affordable and very expensive
-* City
-* Phone
-* Website URL
-* E-mail
-* Address
-* Longitude/Latitude: this is important to be able to place the location on the map
+* **Local name** - Enter the local name of the place.
+* **Name** - Enter the international name of the place.
+* **Short name** - Enter a shortened name if necessary.
+* **Description** - Enter a description of the place.
+* **Classification** - Select a classification tag; only one tag can be assigned to a place, and this tag will assign a unique icon to the place on the map.
+* **Price level** - Select a tag that adequately describes how expensive it is to go to the place \("$" is the least expensive\).
+* **City** - Select the city where the place is located.
+* **Phone** - Enter the phone number for the place. 
+* **Website URL** - If the place has a website, enter the internet address here. 
+* **E-mail** - Enter the place's contact e-mail address.
+* **Address**
+* **Latitude/Longitude** - Enter the latitude and longitude of the place's location. This information is important for correctly placing the place on the map.
 
