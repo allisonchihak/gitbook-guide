@@ -12,12 +12,13 @@ Although payment is received at different times, the structure of bills and invo
 
 Closed bills and invoices contain the following features and information:
 
-* **Bill or Invoice number** - This unique number is the header of the new screen, which can be used as a search tool for future reference. 
-* **Export icon** - Click to automatically download this bill as an excel document
-* **Print icon** - Select `To PDF` from the drop-down menu to export this bill to a PDF document or select a printer to send a print command
-  * **Language** - Choose the language that you would like this bill to be displayed in
-* **Send to customer** - Automatically send the bill to the customer's registered e-mail address
-* **Assign** - Click this button and select `Company`, then search for the correct profile to assign the bill to a company
+* **Bill or invoice number** - This unique number, also called a "counter," can be found in the header and used as a search tool for future reference.
+* **Send to customer** - Click this button to automatically send the bill to the customer's registered e-mail address
+* **Export** - Click to automatically download this bill as an Excel document
+* **Print** - Select **To PDF** from the drop-down menu to export this bill to a PDF document or select a printer to send a print command
+  * **Language** - Select the language that you would like this bill to be displayed in
+* **Rebate** - Select this button to correct the bill. See [Rebate Bills](https://mews-systems.gitbook.io/guide/commander/profiles/customer-profile/billing/rebate-bills) for more information. 
+* **Move to company** - Select, and then search for the company that you wish to assign the bill to
 
 {% hint style="info" %}
 ### Mews Clues
@@ -27,12 +28,6 @@ The first time that a closed bill is sent or printed, it is considered the origi
 
 * **Customer** - Name of reservation owner, which is a direct link to their customer profile
 * **Google address bar** - Search for address and select to add a billing address or enter address details manually; this field will remain editable within editable history window
-  * **Address line 1** - 
-  * **Address line 2** - 
-  * **City** - 
-  * **Postal code** -
-  * **Country** - 
-  * **State/Province** - 
 * **Notes** - Add or edit a any additional notes, if necessary; this field will remain editable within editable history window
 * **Issue date** - Date and time that bill was closed
 * **Taxation date** - Date that the tax information and revenue will be associated with
