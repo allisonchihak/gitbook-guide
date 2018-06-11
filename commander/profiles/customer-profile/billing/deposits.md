@@ -1,6 +1,6 @@
 # Deposits
 
-In each country, there is a different set of rules when it comes to paying VAT. Whether your legal environment requires that you pay VAT at the time a payment is received or at the time of consumption, deposits allow you to post a payment according to your country's tax requirements. This feature can help you track payments against the future reservation. 
+In each country, there is a different set of rules when it comes to paying VAT. In Mews, deposits are prepayments that are posted to a bill, which allow you to conform to the tax laws of your legal environment – whether you're required to pay VAT at the time a payment is received or the time of consumption. In your rate group settings, you have the option to turn on automatic deposits, which can help you track payments against the future reservation. 
 
 ## Create
 
@@ -14,7 +14,7 @@ To create a new deposit, find the correct booking and navigate to the [`Items` ]
 
 Once you click `Create`, the [Billing](https://mews-systems.gitbook.io/guide/commander/profiles/customer-profile#billing) tab will open, and in the [`Open Bills`](https://mews-systems.gitbook.io/guide/commander/profiles/customer-profile/billing/open-bills) section you will see the deposit item that you have just created. Click on the "Stay" line to expand items and view the deposit in detail.
 
-The deposit will appear as two items–one positive value and one negative value–to create a balance of zero. When you close the bill, the positive value will be reported as revenue and the negative value will remain under the `Unpaid items` section of the Billing screen, to be balanced against the payment, which will appear as a separate item on the bill.
+The deposit will appear as two items – one positive value and one negative value – to create a balance of zero. When you close the bill, the positive value will be reported as revenue and the negative value will remain under the `Unpaid items` section of the Billing screen, to be balanced against the payment, which will appear as a separate item on the bill.
 
 {% hint style="info" %}
 ### Mews Clues
@@ -34,7 +34,7 @@ Please note that this option is not selected by default, and therefore must be m
 
 ## Automation
 
-If you use Mews Merchant or a direct Adyen integration that is fully set up in the PMS, you can automate deposits and payments.
+If you use Mews Merchant or a direct Adyen integration that is fully set up in the PMS, you can automate deposits and payments. It is important to turn on this feature to ensure that prepayments are correctly tracked. 
 
 Navigate to the [Rate Groups](https://mews-systems.gitbook.io/guide/commander/settings/sales-settings/services/stay-services/rate-groups) screen using the following path:
 
