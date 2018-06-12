@@ -86,7 +86,7 @@
     * [Occupancy Report](commander/reports/occupancy-report.md)
     * [Posting Journal](commander/reports/posting-journal.md)
     * [Product Report](commander/reports/product-report.md)
-    * [Reservation Overview Report](commander/reports/reservation-overview.md)
+    * [Reservation Overview Report](commander/reports/reservation-overview-report.md)
     * [Reservation Report](commander/reports/reservation-report.md)
     * [Room Status](commander/reports/room-status.md)
     * [Spent Nights Report](commander/reports/spent-nights-report.md)
