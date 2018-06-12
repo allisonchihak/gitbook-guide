@@ -1,4 +1,4 @@
-# Reservation Overview
+# Reservation Overview Report
 
 The Reservation Overview Report is a quick snapshot of all bookings that are relevant that day. This report always shows the most up-to-date status of the remaining arrivals and departures to ensure that the front office is able to check which guests and reservations require action before the end of the day.
 
