@@ -4,11 +4,11 @@ Connecting key encoders to Mews is a great way to cut down on check-in time and 
 
 Should you be interested in integrating Hotek key encoders with your Mews PMS, please contact integrations@mewssystems.com.
 
-* [Mews Connector](hotek.md#mews-connector)
-* [Integration](hotek.md#integration)
-* [Key Cutters](hotek.md#key-cutters)
-* [Key Cutter Mapping](hotek.md#key-cutter-mapping)
-* [Troubleshooting](hotek.md#troubleshooting)
+{% hint style="info" %}
+### Mews Clues
+
+Please note that your property will require a Hotek license that supports PMS connections. In the Hotek application, choose **System** &gt; **License**. If you have a license with PMS support, you should see "Fidelio Interface" or "PMS Interface" under the **Type** column. See [here](https://github.com/MewsSystems/gitbook-guide/blob/master/assets/image001.png?raw=true) for an example. If you don't have a PMS license, contact [support@hotek.nl](mailto:support@hotek.nl) to request a software upgrade.
+{% endhint %}
 
 ## Mews Connector
 
@@ -20,7 +20,7 @@ If you have already installed Mews Connector, please proceed with the instructio
 
 To create a new `Key cutter integration`, navigate to the main integrations page using the following path:
 
-* **Main Menu &gt; Settings &gt; Integrations**
+* **`Main Menu > Settings > Integrations`**
 
 Look for the `+` icon and click on it. Next, look for the `Facility management` section and click on `Key cutter integration`. In a modal window, you will see the following fields to complete:
 
@@ -28,7 +28,7 @@ Look for the `+` icon and click on it. Next, look for the `Facility management` 
 * **API URL** - This field consists of three parts. You can use the image just below for reference:
   * Add `http://`
   * Following this, enter the local IP address of the computer where the Hotek Interface System \(Client & Server\) application is running. For more information about finding your local IP address, [click here](https://support.microsoft.com/en-us/help/15291/windows-find-pc-ip-address). 
-  * Lastly, enter the interface Port, which you can find in the `Hotek Interface System (Server)`. Be sure to include a `:` between your IP address and interface port.
+  * Lastly, enter the interface port, which you can find in the `Hotek Interface System (Server)`. Be sure to include a `:` between your IP address and interface port. See [here](https://github.com/MewsSystems/gitbook-guide/blob/master/assets/HotekPhoto1.png?raw=true) for an example.
   * In your settings, please make sure that `Show message at client` is enabled and in the `Interface type` field, select`TCP/IP`.
   * Please note that you should not add any spaces between these three pieces of data. When completed, your API URL will look something like this: `http://127.0.0.1:10003`
 * **Username** - Leave this field blank; used only for VisiOnline integration
