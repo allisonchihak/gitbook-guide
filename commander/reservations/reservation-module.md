@@ -34,7 +34,7 @@ The Reservation Module is split up into the following 8 sub-sections:
 {% tab title="State" %}
 ## State
 
-Within the `State` tab, there are many parts of a reservation that you can manage. Below, you will find a detailed description of all functions that are available using the `State` tab of the Reservation Module.
+Within the `State` tab, there are many parts of a reservation that you can manage. Below, you will find a detailed description of all functions that are available using the `State`tab of the Reservation Module.
 
 ### Customers
 
