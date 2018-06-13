@@ -1,15 +1,8 @@
 # Occupancy Section
 
-The Occupancy section gives insights into the occupancy of the hotel, and includes a 7 day outlook on some crucial information, including occupancy, arrivals, and departures.
+The Occupancy section features a seven-day outlook on occupancy, arrivals, and departures.
 
-Here, you have direct links to the following:
-
-* [Occupancy Report](https://github.com/MewsSystems/gitbook-guide/tree/cd142b0433c9bd9654d3a4d413c69a153f6dd3d9/reports/occupancy-report.md)
-* [Availability Report](https://github.com/MewsSystems/gitbook-guide/tree/cd142b0433c9bd9654d3a4d413c69a153f6dd3d9/reports/occupancy-report.md)
-* [Rate Management](https://github.com/mews-systems/commander-guide/tree/aba4aad5c9d2bc8ec74b2a6c202f25d981c8b45b/settings/sales-settings/services/stay-settings/manage-a-rate.md)
-* [Product Report](https://github.com/MewsSystems/gitbook-guide/tree/cd142b0433c9bd9654d3a4d413c69a153f6dd3d9/reports/product-report.md)
-
-## Occupancy widget
+## Occupancy Widget
 
 Below these reports, you'll also see our occupancy widget. This is a graphical representation of the following items:
 
