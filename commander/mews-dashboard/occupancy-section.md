@@ -1,6 +1,6 @@
 # Occupancy Section
 
-The occupancy section gives insights into the occupancy of the hotel, and includes a 7 day outlook on some crucial information, including occupancy, arrivals, and departures.
+The Occupancy section gives insights into the occupancy of the hotel, and includes a 7 day outlook on some crucial information, including occupancy, arrivals, and departures.
 
 Here, you have direct links to the following:
 
@@ -11,7 +11,7 @@ Here, you have direct links to the following:
 
 ## Occupancy widget
 
-Below these reports, you'll also see our Occupancy Widget. This is a graphical representation of the following items:
+Below these reports, you'll also see our occupancy widget. This is a graphical representation of the following items:
 
 * **Space types** - Each space type is represented in a bar graph, with color key listed just above the widget for easy identification
   * **Occupancy percentage** - View your daily occupancy percentage by hovering over the bars for each space category
@@ -21,5 +21,5 @@ Below these reports, you'll also see our Occupancy Widget. This is a graphical r
 * **Stay overs** - Number of customers not arriving nor departing, but staying for at least two nights within selected interval
 * **Customers** - Total number of customers at your property is included just under the widget for each respective day
 
-For a larger scale and more detailed Occupancy Widget, you can visit the [Rate Management Screen](https://github.com/mews-systems/commander-guide/tree/aba4aad5c9d2bc8ec74b2a6c202f25d981c8b45b/settings/sales-settings/services/stay-settings/manage-a-rate.md).
+For a larger scaled and more detailed occupancy widget, go to the [**Rate Management** screen](https://mews-systems.gitbook.io/guide/commander/settings/sales-settings/services/stay-services/rates#manage). 
 
