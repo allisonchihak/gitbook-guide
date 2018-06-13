@@ -51,7 +51,7 @@ When these fields are correctly completed, click the `Create` button and you wil
 
 ## Manage
 
-In the Occupancy section of the Dashboard, click **Rates management** to go to the main rates screen, and then click on the `Name` of the rate that you'd like to manage. When you click on the rate, you will be automatically redirected to the first `Detail` tab of the rate. Each rate will have three tabs that you can switch between:
+In the Occupancy section of the Dashboard, click **Rates management** to go to the main rates screen, and then click on the name of the rate that you'd like to manage. You will be automatically redirected to the first `Detail` tab of the rate. Each rate will have three tabs that you can switch between:
 
 {% tabs %}
 {% tab title="Detail" %}
