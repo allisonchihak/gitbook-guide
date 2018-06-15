@@ -4,7 +4,7 @@
 
 Connecting key encoders to Mews is a great way to cut down on check-in time and simplify processes, allowing properties to send commands directly from Mews Commander to your key encoding devices without having to operate a separate Messerschmitt application.
 
-Should you be interested in integrating Messerschmitt key encoders with your Mews PMS, please contact [integrations@mewssystems.com](mailto:integrations@mewssystems.com).
+ If you are interested in integrating Messerschmitt key encoders with your Mews PMS, please contact [integrations@mewssystems.com](mailto:integrations@mewssystems.com).
 
 ## Mews Connector
 
@@ -41,7 +41,7 @@ After selecting the `Enabled` option, don’t forget to click `Save`.
 
 ## Key Cutters
 
-Look for the **Key cutters** link and click on it. You will automatically be redirected to a second page, where you will finish the setup process.
+Look for the **Key cutters** link and click it. You will automatically be redirected to a second page, where you will finish the setup process.
 
 Click the `+` button, and complete the following fields:
 

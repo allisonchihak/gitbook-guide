@@ -8,7 +8,7 @@ If your property has chosen to integrate mobile keys, Mews would recommend that 
 
 Please note that in order for mobile keys to work, it is very important that customer phone numbers are formatted correctly in customer profiles, as data is taken directly from there. Numbers must have `+ country code` or `00` in front of the phone number or the employee will receive an error message as they try to complete send the command.
 
-Should you be interested in integrating Salto mobile key encoders with your Mews PMS, please contact [integrations@mewssystems.com](mailto:integrations@mewssystems.com).
+If you are interested in integrating Salto JustIN key encoders with your Mews PMS, please contact [integrations@mewssystems.com](mailto:integrations@mewssystems.com).
 
 ## Mews Connector
 
@@ -47,7 +47,7 @@ After selecting the `Enabled` option, don't forget to click `Save`.
 
 ## Key Cutters
 
-Look for the **Key cutters** link and click on it. You will automatically be redirected to a second page, where you will finish the setup process.
+Look for the **Key cutters** link and click it. You will automatically be redirected to a second page, where you will finish the setup process.
 
 Click the `+` button, and complete the following fields:
 
