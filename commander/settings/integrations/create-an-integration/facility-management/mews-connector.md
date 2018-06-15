@@ -40,7 +40,7 @@ For more information on our integrations utilizing Connector, please click on th
 
 * [Key Cutter Integration](key-cutter-integration/)
   * [Onity](key-cutter-integration/onity.md)
-  * [VisiOnline](visionline.md)
+  * [VisiOnline](key-cutter-integration/visionline.md)
   * [Hotek](key-cutter-integration/hotek.md)
   * Salto
 * [Passport Scanner Integration](passport-scanner-integration.md)

@@ -159,7 +159,7 @@
             * [Onity](commander/settings/integrations/create-an-integration/facility-management/key-cutter-integration/onity.md)
             * [Salto](commander/settings/integrations/create-an-integration/facility-management/key-cutter-integration/salto.md)
             * [Salto JustIN](commander/settings/integrations/create-an-integration/facility-management/key-cutter-integration/salto-justin.md)
-          * [VisiOnline](commander/settings/integrations/create-an-integration/facility-management/visionline.md)
+            * [VisiOnline](commander/settings/integrations/create-an-integration/facility-management/key-cutter-integration/visionline.md)
           * [PassportScan Integration\*](commander/settings/integrations/create-an-integration/facility-management/passportscan-integration.md)
           * [Printer Integration](commander/settings/integrations/create-an-integration/facility-management/printer-integration.md)
         * [Fiscalization](commander/settings/integrations/create-an-integration/fiscalization/README.md)
