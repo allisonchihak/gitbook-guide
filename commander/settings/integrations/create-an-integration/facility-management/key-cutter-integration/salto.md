@@ -2,7 +2,7 @@
 
 Connecting key encoders to Mews is a great way to cut down on check-in time and simplify processes, allowing properties to send commands directly from Mews Commander to your key encoding devices without having to operate a separate Salto application.
 
-Should you be interested in integrating Salto key encoders with your Mews PMS, please contact integrations@mewssystems.com.
+Should you be interested in integrating Salto key encoders with your Mews PMS, please contact [integrations@mewssystems.com](mailto:integrations@mewssystems.com).
 
 ## Mews Connector
 
@@ -12,13 +12,13 @@ If you have already installed Mews Connector, please proceed with the instructio
 
 ## Integration
 
-Before you setup this integration, please note a limitation of Salto's service is that only Ethernet Encoders can be communicated to by an external service such as Mews. Please contact Salto Support, who can provide you with assistance to upgrade your encoders.
+Before you setup this integration, please note a limitation of Salto's service is that only Ethernet Encoders can be communicated to by an external service such as Mews. To upgrade your encoders, contact Salto's support team.
 
-To create a new `Key cutter integration`, navigate to the main integrations page using the following path:
+To create a new key cutter integration, navigate to the Integrations screen using the following path:
 
 * **`Main Menu > Settings > Integrations`**
 
-Look for the `+` icon and click on it. Next, look for the `Facility management` section and click on `Key cutter integration`. In a modal window, you will see the following fields to complete:
+Look for the `+` icon and click it. Next, in the **Facility management** section, click **key cutter integration**, and complete the following fields:
 
 * **Name** - Salto
 * **API URL** - This field consists of three parts:
@@ -41,45 +41,47 @@ After selecting the `Enabled` option, don't forget to click `Save`.
 
 ## Key Cutters
 
-Look for the `Key cutter` link and click on it. You will be automatically be redirected to a second page, where you will finish setup of your key cutters.
+Look for the **Key cutters** link and click on it. You will automatically be redirected to a second page, where you will finish the setup process.
 
-Look for the `+` button and click on it. You will see the following fields to complete:
+Click the `+` button, and complete the following fields:
 
 * **Name** - Name each key cutter based on where the device is located or what will be easily understandable for your staff
 * **Identifier** - In the Salto application, click on **System**, and copy the number found in the Name column. Click [here](https://raw.githubusercontent.com/MewsSystems/gitbook-guide/master/assets/Salto2.png) to see an example. 
 * **Data JSON** - Complete this field with `{ "Type": "IndustryStandardProtocol" }`
 
-When all details are correctly entered, click the `Create` button. Navigate back to your main `Key cutters` page, where you will see a list of active key cutters in your property's system. Add all key cutters that you would like to implement, using the same steps as described above for each one.
+When all details are correctly entered, click `Create` and look for the green success message.
+
+Navigate back to the main Key Cutters screen, where you will see a list of active key cutters in your property’s system. Add all key cutters that you would like to implement, using the same steps as described above for each one.
 
 ## Key Cutter Mapping
 
-If your room numbers in Mews do not match the room numbers listed in Salto, you will need to set up a `Key Cutter Mapping` for each space to communicate the name difference between the two systems. If these two sets of data are already matching, you may not need to set up mappings.
+If your room numbers in Mews do not match the room numbers listed in Salto, you will need to set up a key cutter mapping for each space to communicate the name difference between the two systems. If these two sets of data are already matching, you may not need to set up mappings.
 
-To add a key cutter mapping, navigate back to your main Key cutter integration page and look for the `Key cutter mapping` link. Click on it and you will be automatically be redirected to a second page. Look for the `+` button and click on it. You will see the following fields to complete:
+To add a key cutter mapping, navigate back to the main Key Cutter Integration screen and look for the **Key cutter mapping** link. Click it to be redirected to a second page, and then click the `+` button. You will see the following fields to complete:
 
-* **Room** - Here, you'll find a drop-down menu of all room numbers created in Mews
-* **Lock identifier** - Enter the corresponding room number as is identified in Salto
+* **Room** - Select from a drop-down menu of all room numbers created in Mews
+* **Lock identifier** - Enter the corresponding room number as it is identified in Salto 
 
-When both fields are correctly entered, click the `Create` button. When you navigate back to your main `Key cutter mapping` page, where you will see a list of all mappings created for your property. Add all mappings that you would like to implement, using the same steps as described above for each one
+When both fields are correctly entered, click `Create`. When you navigate back to the main Key Cutter Mapping screen, where you will see a list of all mappings created for your property. Add all mappings that you would like to implement, using the same steps as described above for each one.
 
-Once you have completed all of the steps above, please inform `integrations@mewssystems.com` and we will activate the key cutters for your integration.
+Once you have completed all of the steps above, please contact [integrations@mewssystems.com](mailto:integrations@mewssystems.com) and we will activate the key cutters for your integration.
 
 ## Cut Keys
 
-If all steps were above were correctly completed, you should see two new buttons in the Reservation module State tab after check-in is complete:
+If all steps above were correctly completed, you should see two new buttons in the Reservation module, under the **State** tab, after check-in is complete:
 
-* **Cut all keys** - Cut keys for all companions included in the selected bookings
-* **Cut key** - Cut a key for the number of companions in the selected room
+* **Cut all keys** - Cut keys for all companions included in the selected bookings.
+* **Cut key** - Cut a select number of keys.
 
-If the reservation has not yet been checked-in, these buttons will be grey. Once check-in is complete, the button will change to blue, indicating that it is active and you can select the encoder that you'd like to send the key cutting commands to.
+If the reservation has not yet been checked in, these buttons will be gray. Once check-in is complete, the button will change to blue, indicating that it is active and you can select the encoder that you’d like to send the key cutting commands to.
 
-After clicking the `Cut keys` button, the selected key cutter should "ping" and the display will indicate which room the key\(s\) is have been cut for.
+After clicking the `Cut keys` button, the selected key cutter should “ping” and the display will indicate which room the key\(s\) is have been cut for.
 
 Keys are valid from the moment of cutting until the checkout time of the reservation. If the guest prolongs their reservation, you will need to update their departure time first, and then cut a new key for those guests.
 
 ## Troubleshooting
 
-If you receive an error that Mews cannot communicate to the Salto Interface application, please restart the application and log your issue with Salto.
+If you receive an error that Mews cannot communicate to the Salto application, please restart the application and log your issue with Salto.
 
-Should you encounter any issues with the integration, please contact `integrations@mewssystems.com` for further assistance.
+Should you encounter any issues with the integration, please contact [integrations@mewssystems.com](mailto:integrations@mewssystems.com) for further assistance.
 
