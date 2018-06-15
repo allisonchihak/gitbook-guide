@@ -4,12 +4,6 @@ Connecting key encoders to Mews is a great way to cut down on check-in time and 
 
 Should you be interested in integrating Visionline key encoders with your Mews PMS, please contact integrations@mewssystems.com.
 
-* [Mews Connector](visionline.md#mews-connector)
-* [Integration Setup](visionline.md#integration-setup)
-* [Key Cutters](visionline.md#key-cutters)
-* [Key Cutter Mapping](visionline.md#key-cutter-mapping)
-* [Troubleshooting](visionline.md#troubleshooting)
-
 ## Mews Connector
 
 If you have not yet done so, please see our article about [Mews Connector](https://mews-systems.gitbooks.io/commander-guide/content/settings/integrations/create-an-integration/facility-management/mews-connector.html) and follow those instructions before returning to this article.

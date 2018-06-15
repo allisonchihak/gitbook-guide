@@ -10,12 +10,6 @@ Please note that in order for mobile keys to work, it is very important that cus
 
 Should you be interested in integrating Salto mobile key encoders with your Mews PMS, please contact integrations@mewssystems.com.
 
-* [Mews Connector](salto-justin.md#mews-connector)
-* [Integration](salto-justin.md#integration)
-* [Key Cutters](salto-justin.md#key-cutters)
-* [Key Cutter Mapping](salto-justin.md#key-cutter-mapping)
-* [Troubleshooting](salto-justin.md#troubleshooting)
-
 ## Mews Connector
 
 If you have not yet done so, please see our article about [Mews Connector](https://mews-systems.gitbooks.io/commander-guide/content/settings/integrations/create-an-integration/facility-management/mews-connector.html) and follow those instructions before returning to this article.

@@ -4,12 +4,6 @@ Connecting key encoders to Mews is a great way to cut down on check-in time and 
 
 Should you be interested in integrating Salto key encoders with your Mews PMS, please contact integrations@mewssystems.com.
 
-* [Mews Connector](salto.md#mews-connector)
-* [Integration](salto.md#integration)
-* [Key Cutters](salto.md#key-cutters)
-* [Key Cutter Mapping](salto.md#key-cutter-mapping)
-* [Troubleshooting](salto.md#troubleshooting)
-
 ## Mews Connector
 
 If you have not yet done so, please see our article about [Mews Connector](https://mews-systems.gitbooks.io/commander-guide/content/settings/integrations/create-an-integration/facility-management/mews-connector.html) and follow those instructions before returning to this article.
