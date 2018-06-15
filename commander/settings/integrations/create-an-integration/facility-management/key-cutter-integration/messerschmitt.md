@@ -39,7 +39,7 @@ When all information is correctly entered, click `Create` and you will see the f
 
 After selecting the `Enabled` option, don’t forget to click `Save`.
 
-### Key Cutters
+## Key Cutters
 
 Look for the **Key cutters** link and click on it. You will automatically be redirected to a second page, where you will finish the setup process.
 
@@ -53,7 +53,7 @@ When all details are correctly entered, click `Create` and look for the green su
 
 Navigate back to the main Key Cutters screen, where you will see a list of active key cutters in your property’s system. Add all key cutters that you would like to implement, using the same steps as described above for each one.
 
-### Key Cutter Mapping
+## Key Cutter Mapping
 
 If your room numbers in Mews do not match the room numbers listed in Messerschmitt, you will need to set up a key cutter mapping for each space to communicate the name difference between the two systems. If these two sets of data are already matching, you may not need to set up mappings.
 
