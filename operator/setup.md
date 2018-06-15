@@ -29,7 +29,7 @@ After you have completed all fields, click `Create`. The system will automatical
 
 ## Device Setup
 
-Before you install Operator, please note that your tablet will need to be either new \(and not yet set up\) or factory reset. If you are using a new Android device, it will automatically begin the setup process the first time you turn it on. If it is not new, find instructions on how to factory reset your particular device \(instructions will differ from device to device\), perform the factory reset, and follow these steps: 
+Before you install Operator, please note that your tablet will need to be either new \(and not yet set up\) or factory reset. If you are using a new Android device, it will automatically begin the setup process the first time you turn it on. If it is not new, find instructions on how to factory reset your particular device \(instructions will differ from device to device\), perform the reset, and follow these steps: 
 
 1. Tap the “Welcome” message repeatedly until the QR code setup process begins.
 2. Connect to a Wi-Fi network, and the device will automatically begin installing a QR reader.
