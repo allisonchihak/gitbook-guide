@@ -2,9 +2,9 @@
 
 The Mews Distributor can be set up and managed directly via the Mews Commander. These settings determine set up of our booking widget, which can be embedded directly into a property's website or linked anywhere. Properties can set up multiple configurations for use in different places or to send to different clientele.
 
-Access your `Distributor configurations` using the following path:
+Access your Distributor configurations using the following path:
 
-* **Main Menu &gt; Settings &gt; Services &gt; Stay services &gt; Distributor configurations**
+* **`Main Menu > Settings > Services > Stay services > Distributor configurations`**
 
 On this main page, you'll find a list of all configurations currently set up and in use. Below, you'll find a detailed description of each setting available and how they can be used in your Distributor setup.
 
@@ -45,7 +45,7 @@ To create a new Distributor configuration, navigate to the main page, look for t
   * **Light** - Background colors will be light to contrast a darker primary color
 * **Primary color** - Select the main color you'd like to see displayed in Distributor; color must be in a 6-digit hex code, formatted like the following example: `#006a00`
 
-When all information is correctly entered or after you make any changes, click the `Save` button
+When all information is correctly entered or after you make any changes, click the `Save` button.
 
 Edit your configuration at any time by navigating to the primary distributor configurations page and then click on the title of the configuration that you'd like to edit.
 
