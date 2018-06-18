@@ -49,7 +49,7 @@ To make any changes to the stay settings found on this page, simply change the d
   * **Apply cancellation fee by default** - Automatically charge cancellation fee for canceled bookings
   * **Change inspected to clean overnight** - Automatically change vacant inspected rooms to clean overnight. Housekeeping must then double check that rooms are inspected before any customer can check-in
   * **Check-in makes room dirty** - Change room status to `Dirty` at the moment of check-in. Mews would recommend against this setting because it can cause confusion for housekeepers, as they will be informed to go clean that room when the status changes. Since the system will automatically turn all occupied rooms to dirty overnight, there is no need for this setting to be switched on.
-  * **Checkout makes room dirty** - Room status will automatically change to \`Dirty1 at the moment of checkout
+  * **Checkout makes room dirty** - Room status will automatically change to `Dirty` at the moment of checkout
   * **Close balanced bills at checkout** - At the moment of their checkout, automatically close any bills that are balanced to 0 but still open
   * **Enable automatic after end e-mail** - At the moment of checkout, send an e-mail to customers
   * **Enable automatic after start e-mail** - At the moment of check-in, send an e-mail to customers
