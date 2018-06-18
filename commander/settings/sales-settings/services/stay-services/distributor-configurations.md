@@ -15,7 +15,11 @@ To create a new Distributor configuration, navigate to the main page, look for t
 * **Name** - Title of this configuration, visible only to your property's employees
 * **Identifier** - Used to transfer some information from an API
 * **City identifier** - Unique number that associates your property with the specific city in which it is located
-* **Default** - Allows you to choose a default . If no configuration is provided, this one will be used. 
+* **Default** - Allows you to choose a default. If no configuration is provided, this one will be used. 
+* **Credit card input** - Select from the options below regarding credit card options:
+  * **Not requested** - Credit card not requested; there will be no field displayed for guests to input their credit card information.
+  * **Requested** - Credit card is requested but not required; the system will accept the reservation even if the input field is invalid.
+  * **Required** - Credit card is requested and required; the system will not accept the reservation if the input field is invalid.
 * **Language** - Select the language that should be displayed to customer; please note that user can change language if needed
 * **Currency** - Select the currency of accommodation cost; if no currency is selected, your default currency will be used; this field will only show currencies available at your property
 * **Start offset** - Number of days from current day that is added to the pre-filled start date; if no value is entered, the default is set to today's date
