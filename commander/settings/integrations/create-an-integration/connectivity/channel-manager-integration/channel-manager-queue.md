@@ -8,7 +8,7 @@ To view the status of all channel manager queue items, navigate to:
 
 * **`Main menu > Queues > Channel manager`**
 
-### Filter Options
+### Filters
 
 On this screen, you can filter results by:
 
@@ -26,7 +26,7 @@ On this screen, you can filter results by:
 
 Select the desired filter options, and click `OK` to view your changes. 
 
-### Queue Item Details
+### Data
 
 On the Channel Manager Queue screen, queue items are listed with the following details:
 
