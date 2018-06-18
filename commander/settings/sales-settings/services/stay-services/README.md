@@ -53,7 +53,7 @@ To make any changes to the stay settings found on this page, simply change the d
   * **Close balanced bills at checkout** - At the moment of their checkout, automatically close any bills that are balanced to 0 but still open
   * **Enable automatic after end e-mail** - At the moment of checkout, send an e-mail to customers
   * **Enable automatic after start e-mail** - At the moment of check-in, send an e-mail to customers
-  * **Enable automatic check-in** - This option is only relevant for hotels with automated kiosk solutions. Booking will automatically be checked-in at the start time of the reservation.
+  * **Enable automatic check-in** - Booking will automatically be checked-in at the start time of the reservation.
   * **Enable automatic checkout** - Booking will automatically be checked out at the end time of the reservation 
   * **Enable automatic no-show cancellation** - Automatically cancel no-show bookings from the previous day and post cancellation fees at 6AM daily
   * **Enable automatic option cancellation** - Automatically release optional bookings if they have not been confirmed by the `release date`
