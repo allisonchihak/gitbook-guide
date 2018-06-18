@@ -187,12 +187,6 @@
 * [Operator](operator/README.md)
   * [Setup](operator/setup.md)
 * [Knowledge Base](knowledge-base/README.md)
-  * [Mews Products](knowledge-base/mews-products.md)
-  * [Profiles](knowledge-base/profiles.md)
-  * [Reservations](knowledge-base/reservations.md)
-  * [Operations](knowledge-base/operations.md)
-  * [Finance](knowledge-base/finance.md)
   * [Reports & Exports](knowledge-base/reports-and-exports.md)
-  * [Settings](knowledge-base/settings.md)
   * [Miscellaneous](knowledge-base/miscellaneous.md)
 

@@ -1,7 +1,5 @@
 # Reports & Exports
 
-Article in progress. More Knowledge Base content coming soon!
-
 ## Stripe Trial Balance
 
 We do not have a specific report in Mews that will calculate a trial balance, but you can easily do this using the `Accounting Ledger` and `Accounting Report`. Below, you can find a description of how to calculate the Trial Balance for a certain period.
