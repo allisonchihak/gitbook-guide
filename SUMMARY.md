@@ -185,6 +185,7 @@
       * [Device Commands](commander/settings/integrations/device-commands.md)
     * [Custom Links](commander/settings/custom-links.md)
     * [Calendar Events](commander/settings/calendar-events.md)
+* [Navigator](navigator.md)
 * [Operator](operator/README.md)
   * [Setup](operator/setup.md)
 * [Knowledge Base](knowledge-base/README.md)
