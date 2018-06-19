@@ -180,6 +180,7 @@
           * [Adyen Integration](commander/settings/integrations/create-an-integration/payment-gateway/adyen-integration.md)
           * [Payment Terminal Integration](commander/settings/integrations/create-an-integration/payment-gateway/payment-terminal-integration.md)
           * [Merchant Integration](commander/settings/integrations/create-an-integration/payment-gateway/merchant-integration.md)
+          * [PCI Compliance](commander/settings/integrations/create-an-integration/payment-gateway/pci-compliance.md)
       * [Point of Sales Integrations](commander/settings/integrations/point-of-sales-integrations.md)
       * [Device Commands](commander/settings/integrations/device-commands.md)
     * [Custom Links](commander/settings/custom-links.md)
