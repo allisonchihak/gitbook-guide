@@ -1,7 +1,5 @@
 # Messerschmitt
 
-## Messerschmitt
-
 Connecting key encoders to Mews is a great way to cut down on check-in time and simplify processes, allowing properties to send commands directly from Mews Commander to your key encoding devices without having to operate a separate Messerschmitt application.
 
  If you are interested in integrating Messerschmitt key encoders with your Mews PMS, please contact [integrations@mewssystems.com](mailto:integrations@mewssystems.com).
