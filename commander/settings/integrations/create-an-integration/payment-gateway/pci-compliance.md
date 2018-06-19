@@ -1,6 +1,6 @@
 # PCI Compliance
 
-The Payment Card Industry \(PCI\) Data Security Standards \(DSS\) is a global information security standard designed to prevent fraud through increased control of credit card data. Organizations of all sizes must follow PCI DSS standards if they accept payment cards from the five major credit card brands—Visa, MasterCard, American Express, Discover, and the Japan Credit Bureau \(JCB\). Compliance with PCI DSS is required for any organization that stores, processes, or transmits payment and cardholder data.
+The Payment Card Industry \(PCI\) Data Security Standards \(DSS\) is a global information security standard designed to prevent fraud through increased control of credit card data. Organizations must follow PCI DSS standards if they accept payment cards from the five major credit card brands—Visa, MasterCard, American Express, Discover, and the Japan Credit Bureau \(JCB\). Compliance with PCI DSS is required for any organization that stores, processes, or transmits payment and cardholder data.
 
 ## Card Storage
 
