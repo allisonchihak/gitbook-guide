@@ -4,7 +4,7 @@ Before settings up your [rooms](rooms.md), it's important to create the differen
 
 Navigate to the main room categories page using the following path:
 
-* **Main menu &gt; Settings &gt; Property &gt; Space configuration &gt; Room categories**
+* **`Main menu > Settings > Property > Space configuration > Room categories`**
 
 On this main page, you will see a list of all the categories available at your property, including the following information for each:
 
@@ -15,7 +15,7 @@ On this main page, you will see a list of all the categories available at your p
 
 ## Create
 
-**To create a new room category, look for the** `+` **button and click on it.** Complete the following fields to create a new category:
+To create a new room category, look for the `+` button and click it. Complete the following fields to create a new category:
 
 * **Space type** - Select the most applicable description of the space 
   * **Apartment** - A set of rooms for individual occupancy, usually including household utilities
@@ -58,17 +58,25 @@ On this main page, you will see a list of all the categories available at your p
 * **Order e-mail template** - While general confirmation e-mails do come from the system, sometimes it is necessary to deliver additional information to the guests of certain room types. For example, if an apartment is located next to the hotel, you may add the information about a different entrance. You can also use HTML here. Hence, this is a great place to for apartments to insert a Google maps link with the exact location of a specific apartment. Please see our article about [`placeholders`](https://github.com/mews-systems/commander-guide/tree/aba4aad5c9d2bc8ec74b2a6c202f25d981c8b45b/settings/sales-settings/services/stay-settings/mail-templates/place-holders.md) for more information. 
 * **Image** -  Upload an image to display in Mews Distributor. If you choose not to upload an image, the display will fallback to your default property image, found in your main property settings. 
 
-> ### Mews Clues
->
-> For guests booking via Mews Distributor, occupied space category images are displayed in greyscale and separated to the bottom to distinguish them from selectable categories.
+{% hint style="info" %}
+### Mews Clues
+
+In Distributor, occupied space categories are displayed to guests in grayscale and placed at the bottom of the screen to distinguish them from categories that can be selected.
+
+Please note that if you would like for your space categories in Distributor to be displayed in the same order they are displayed in Commander, it will not do so by default. Instead, when you create a category mapping for a space category in the Distributor settings, you must manually enter an ordering value that matches the ordering value given to the space category here.
+{% endhint %}
 
 ## Delete
 
 To delete a room category, navigate to the main room categories page.
 
-**Click on the name of the unwanted category. Look for the trashcan icon and click on it, confirm deletion, and you will be redirected to the main page.** You'll see that this room category will no longer be visible. Please note that deletion of a room category cannot be undone.
+Click on the name of the unwanted category. Look for the trashcan icon and click on it, confirm deletion, and you will be redirected to the main page**.** You'll see that this room category will no longer be visible. Please note that deletion of a room category cannot be undone.
 
-> ### Mews Clues
->
-> Please note that if you delete a room category that is connected to an integration, it will remove that connection from the integration automatically. However if you delete an integration, the room category will not be deleted. You can still see information about past room categories in your reservation overview reports, even if they no longer exist.
+{% hint style="info" %}
+### Mews Clues
+
+Please note that if you delete a room category that is connected to an integration, it will remove that connection from the integration automatically. However if you delete an integration, the room category will not be deleted. You can still see information about past room categories in your reservation overview reports, even if they no longer exist.
+{% endhint %}
+
+
 

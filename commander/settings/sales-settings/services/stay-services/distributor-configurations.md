@@ -49,7 +49,7 @@ When all information is correctly entered or after you make any changes, click t
 
 Edit your configuration at any time by navigating to the primary distributor configurations page and then click on the title of the configuration that you'd like to edit.
 
-## Category mappings
+## Category Mappings
 
 Category mappings are used to prevent some space categories from being displayed in Distributor. If left unspecified, all categories will be mapped and available in the Distributor.
 
@@ -57,10 +57,16 @@ To specify the available space categories, you must add only the categories that
 
 To add a category mapping, click on the `+` button and you will see the following fields to complete:
 
-* **Category** - Select the correct category from the drop-down list of all categories created and available at your property
-* **Ordering** - Choose in which order you'd like the rooms to be displayed, with lower numbers being first in the list
+* **Category** - Select the correct category from the drop-down list of all categories created and available at your property.
+* **Ordering** - Choose in which order you'd like the rooms to be displayed, with lower numbers appearing first in the list. Please note that the default ordering for your space categories in Distributor will not match the ordering of those in Commander unless specified.
 
 When all details are correctly entered, click the `Create` button and when you return to the main `Category mappings` page, you will see a list of each category that has been added.
+
+{% hint style="info" %}
+### Mews Clues
+
+Please note that if you would like for your space categories in Distributor to be displayed in the same order they are displayed in Commander, it will not do so by default. Instead, when you create a category mapping for a space category, you must manually enter an ordering value that matches the ordering value given to the space category in Commander.
+{% endhint %}
 
 ## Preview
 
@@ -68,17 +74,19 @@ Click here to see a preview of Distributor according to these specific configura
 
 ## Code
 
-The generated script allows you to add the Distributor to your webpage.
+The generated script allows you to add the Distributor to your web page.
 
-> #### Mews Clues
->
-> For guests booking via Mews Distributor, occupied space category images are displayed in greyscale and separated to the bottom to distinguish them from selectable categories.
+{% hint style="info" %}
+### Mews Clues
+
+In Distributor, occupied space categories are displayed to guests in grayscale and placed at the bottom of the screen to distinguish them from categories that can be selected.
+{% endhint %}
 
 ## Settings
 
 Data is drawn and added from several other places in the system, which means that it's important to keep everything updated according to how you'd like it to be displayed to your guests. Below, you will find information about all settings that are relevant to Mews Distributor:
 
-### Space categories
+### Space Categories
 
 All space categories should be fully configured, with the following details correctly completed:
 
@@ -117,7 +125,7 @@ If you would like to offer any products while booking, such as breakfast, wine, 
   * **Per person per night** - Breakfast
   * **Per room night** - Parking
 
-For more information, please see our article about [`Stay products`](stay-products.md)
+For more information, see our article about [stay products](stay-products.md).
 
 ## Priority
 
@@ -131,6 +139,6 @@ According to Mews, the order of priority is as follows:
 
 ## Resources
 
-* For more information, please see our [video](https://vimeo.com/234180455) about Distributor configurations.
+* For more information, see our [video](https://vimeo.com/234180455) about Distributor configurations.
 * [Here](https://mews-systems.gitbooks.io/distributor-guide/content/distributor-widget.html), you can find additional information for webmasters, which they may find useful when integrating the Distributor into your website.
 
