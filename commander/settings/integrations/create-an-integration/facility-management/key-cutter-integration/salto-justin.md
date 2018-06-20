@@ -51,9 +51,15 @@ Look for the **Key cutters** link and click it. You will automatically be redire
 
 Click the `+` button, and complete the following fields:
 
-* **Name** - Name each key cutter based on where the device is located or what will be easily understandable for your staff
-* **Identifier** - Navigate to your `Salto Interface System (Server)` application. Click on the `Client` tab and copy the number found under the `No.` column, next to the name of your device
-* **Data JSON** - Complete this field with `{ "Type":"IndustryStandardProtocol", "MobileKeys":"true" }`
+* **Name** - Name each key cutter based on where the device is located or what will be easily understandable for your staff.
+* **Identifier** - Navigate to your `Salto Interface System (Server)` application. Click on the `Client` tab and copy the number found under the `No.` column, next to the name of your device.
+* **Data JSON** - Complete this field with `{ "Type":"IndustryStandardProtocol", "MobileKeys":"true" }`.
+
+{% hint style="info" %}
+### Mews Clues
+
+If you would like to create a physical key and grant mobile entry simultaneously, complete the **Data JSON** field with the following information:`{ "Type":"IndustryStandardProtocol", "MobileKeys":"true," "EncoderKeys":"true"}`. To disable this functionality, enter: `"EncoderKeys":"false"`.
+{% endhint %}
 
 When all details are correctly entered, click `Create` and look for the green success message.
 
