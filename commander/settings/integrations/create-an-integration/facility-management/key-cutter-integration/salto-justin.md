@@ -58,7 +58,9 @@ Click the `+` button, and complete the following fields:
 {% hint style="info" %}
 ### Mews Clues
 
-If you would like physical keys and mobile keys to be simultaneously created for guests, complete the **Data JSON** field with the following information:`{ "Type":"IndustryStandardProtocol", "MobileKeys":"true," "EncoderKeys":"true"}`. To disable this functionality, enter: `"EncoderKeys":"false"`.
+If you would like the Salto JustIN application to create a physical key for guests while also granting them mobile entry,  add the following information to the **Data JSON** field:`{ "Type":"IndustryStandardProtocol", "MobileKeys":"true," "EncoderKeys":"true"}`. 
+
+To disable this functionality, enter: `"EncoderKeys":"false"`.
 {% endhint %}
 
 When all details are correctly entered, click `Create` and look for the green success message.
