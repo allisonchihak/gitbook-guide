@@ -63,7 +63,7 @@ To create a new room category, look for the `+` button and click it. Complete th
 
 In Distributor, occupied space categories are displayed to guests in grayscale and placed at the bottom of the screen to distinguish them from categories that can be selected.
 
-Please note that if you would like for your space categories in Distributor to be displayed in the same order they are displayed in Commander, it will not do so by default. Instead, when you create a category mapping for a space category in the Distributor settings, you must manually enter an ordering value that matches the ordering value given to the space category here.
+Please note that if you would like for your space categories in Distributor to be displayed in the same order they are displayed in Commander, it will not do so by default. Instead, when you create a [category mapping](https://mews-systems.gitbook.io/guide/commander/settings/sales-settings/services/stay-services/distributor-configurations#category-mappings) for a space category in the Distributor settings, you must manually enter an ordering value that matches the ordering value given to the space category here.
 {% endhint %}
 
 ## Delete
