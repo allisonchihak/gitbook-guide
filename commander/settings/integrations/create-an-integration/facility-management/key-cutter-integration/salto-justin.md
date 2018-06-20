@@ -58,7 +58,7 @@ Click the `+` button, and complete the following fields:
 {% hint style="info" %}
 ### Mews Clues
 
-If you would like to create a physical key and grant mobile entry simultaneously, complete the **Data JSON** field with the following information:`{ "Type":"IndustryStandardProtocol", "MobileKeys":"true," "EncoderKeys":"true"}`. To disable this functionality, enter: `"EncoderKeys":"false"`.
+If you would like physical keys and mobile keys to be simultaneously created for guests, complete the **Data JSON** field with the following information:`{ "Type":"IndustryStandardProtocol", "MobileKeys":"true," "EncoderKeys":"true"}`. To disable this functionality, enter: `"EncoderKeys":"false"`.
 {% endhint %}
 
 When all details are correctly entered, click `Create` and look for the green success message.
