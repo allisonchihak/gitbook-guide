@@ -22,8 +22,8 @@ When you click on the title of a Cashier, you will see an overview of the curren
 
 * **Currency** - All currencies enabled for this cashier in your Finance Settings
 * **Starting balance** - Amount of money in the cashier at the time the shift was opened
-* **Income** - Amount of money that was received during the shift
-* **Outcome** - Starting balance, plus income, and minus remaining balance. This is the amount of money that should be taken from the cashier and given to the accountants at the end of the shift.
+* **Incoming** - Amount of money that was received during the shift
+* **Outgoing** - Starting balance, plus income, and minus remaining balance. This is the amount of money that should be taken from the cashier and given to the accountants at the end of the shift.
 * **Balance** - Amount of money left in the cashier for the start of the next shift
 
 ## Transactions
