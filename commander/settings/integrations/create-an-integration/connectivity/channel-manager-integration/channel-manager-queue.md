@@ -1,16 +1,12 @@
 # Channel Manager Queue
 
-## Channel Manager Queue
-
-The Channel Manager Queue shows the status of all system updates sent to your channel manager via Mews Commander.
-
-To view the status of all channel manager queue items, navigate to:
+The Channel Manager Queue shows the status of all system updates sent to your channel manager via Mews Commander. To view, navigate to:
 
 * **`Main menu > Queues > Channel manager`**
 
-### Filters
+## Filters
 
-On this screen, you can filter results by:
+You can filter all channel manager items by:
 
 * **Client** - Select the channel manager that you want to view queue items for.
 * **Origin** 
@@ -26,9 +22,9 @@ On this screen, you can filter results by:
 
 Select the desired filter options, and click `OK` to view your changes. 
 
-### Data
+## Data
 
-On the Channel Manager Queue screen, queue items are listed with the following details:
+In the Channel Manager Queue, items are listed with the following details:
 
 * **Type**  
 * **Integration** - The connected channel manager integration
