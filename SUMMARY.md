@@ -93,6 +93,7 @@
     * [Tasks](commander/reports/tasks.md)
   * [Settings](commander/settings/README.md)
     * [Main Property Settings](commander/settings/main-property-settings/README.md)
+      * [Installation Queue](commander/settings/main-property-settings/installation-queue.md)
       * [Import Customers](commander/settings/main-property-settings/import-customers.md)
     * [Finance Settings](commander/settings/finance-settings/README.md)
       * [Accounting configuration](commander/settings/finance-settings/accounting-configuration.md)
