@@ -25,6 +25,7 @@ The reservation report is the report with most data and filtering options to ana
 * **Start date & time** - Results will start from this date and time
 * **End date & time** - Results will end at this date and time 
 * **Options**
+  * **Display all notes** - Include customer profile notes, reservation notes, and channel manager notes in the Notes column; please note that if you do not select this option, only the customer profile and reservation notes will be displayed
   * **Include additional expenses** - Any additional charges not related to stay or products \(e.g. cancellation fees\)
   * **Include nights** - Include night revenue in report results
   * **Include products** - Include stay product revenue in report results, displayed in an additional column
