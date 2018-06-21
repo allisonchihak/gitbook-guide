@@ -17,8 +17,11 @@ You can filter all channel manager items by:
   * **Inventory push** - Updated rates and availability.
   * **Reservation** - Reservation created in Commander. 
 * **State** - Select the state or states of queue items you would like to view.
-* **Start** - To view items from a specific date range, select the start date for the range.
-* **End** - To view items from a specific date range, select the end date for the range.
+* **Filter** - To view items that were created or processed within a specific set of dates, select one of the two options below, and then select the start and end dates.
+  * **Created**
+  * **Processed**
+* **Start** - Select a start date to view items created or processed within a specific set of dates.
+* **End** - Select an end date to view items created or processed within a specific set of dates.
 
 Select the desired filter options, and click `OK` to view your changes. 
 
