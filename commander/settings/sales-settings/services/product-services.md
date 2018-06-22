@@ -4,7 +4,7 @@ Navigate to the Services page using the following path:
 
 * **`Main Menu > Settings > Services`**
 
-On this screen, you will see two sections, labeled `Service` and `Stay`.
+On this page, you will see two sections, labeled `Service` and `Stay`.
 
 Product services are used to offer any items that the property may sell, which are not related to the guest's stay. Services can be tiered, creating a complex system of items for sale. Any service may contain multiple product categories, which then contain multiple products. For example, the hierarchy may include
 
@@ -16,15 +16,15 @@ Below, you will find detailed information about creating services, product categ
 
 ## Service
 
-To create a new service, navigate to the main services page, look for the `+` icon, click on it, and complete the following fields:
+To create a new service, navigate to the main Services page, look for the `+` icon, click on it, and complete the following fields:
 
 * **Enterprise** - Pre-filled with your property's name. This field is not editable.
-* **Name** - Selected name of service category. Please note that you can create products within this service, so it should be named for a more general category. This name will be displayed on bills and to customers via Mews Navigator.
+* **Name** - Selected name of service. Please note that you can create products within this service, so it should be named for a more general category. This name will be displayed on bills and to customers via Mews Navigator.
 * **Short name** - An abbreviation of the previously chosen name, used in some places with space constrictions. 
-* **Description** - A custom description for each category or item, which will be displayed in Mews Navigator. You can also include any other important information for guests, such as hours of service or purchase details. 
-* **Ordering** - Choose the order in which you'd like this service category to appear. Items with lower numbers will display first in the list. In case you need to place a new item at the top of the list, you may use negative values to avoid editing all other service categories. In addition to the main Services screen, the ordering you choose will also be visible in the [Customer Dashboard](https://mews-systems.gitbook.io/guide/commander/profiles/customer-profile#header).
-* **Currency** - Choose the currency that you'd like to use for this category from the drop-down menu of all currencies enabled at your property. Please note that if you set the main product in one currency, all items within that product category must all be priced in the same currency.
-* **Price** - If this category includes additional items, this will be a service fee in addition to the cost of each item. If you do not wish to charge an additional service fee, you can leave this field blank. 
+* **Description** - A custom description for each item, which will be displayed in Mews Navigator. You can also include any other important information for guests, such as hours of service or purchase details. 
+* **Ordering** - Choose the order in which you'd like this service to appear. Items with lower numbers will display first in the list. In case you need to place a new item at the top of the list, you may use negative values to avoid editing all other service categories. In addition to the main Services page, the ordering you choose will also be visible in the [Customer Dashboard](https://mews-systems.gitbook.io/guide/commander/profiles/customer-profile#header).
+* **Currency** - Choose the currency that you'd like to use for this service from the drop-down menu of all currencies enabled at your property. Please note that if you set the main product in one currency, all items within that product category must all be priced in the same currency.
+* **Price** - If this service includes additional items, this will be a service fee in addition to the cost of each item. If you do not wish to charge an additional service fee, you can leave this field blank. 
 * **Tax rate** - A list of each VAT rate used by your accounting team. Please be very careful that you choose the correct VAT rate for each item, as it is very important for your fiscal reporting. If you are unsure, Mews would recommend that you contact your accounting team for guidance.
 * **Options** - Select the applicable options for each item.
   * **Bill as package** - Items with this option selected will be merged together into one line on the customer's bill. Please note that you must select this option for each item that you'd like packaged together. Items will always be expanded in internal reports.
@@ -35,7 +35,7 @@ To create a new service, navigate to the main services page, look for the `+` ic
   * **Is retrospectively orderable** - Service can be ordered after consumption date and will be available for manual postings. For example, minibar items in the guest's room that were consumed earlier in their stay.
   * **New order is being processed** - When this service is ordered, it will automatically be processed. If not selected, an employee must manually accept and process an order. This is primarily important for orders from Mews Navigator, which require an employee to manually process. For example if a guest orders Room Service via Navigator, reception should "accept the order", which informs the guest that the order is being processed.
   * **Offer to customer** - Display this service to customers for ordering in Navigator.
-  * **Offer to employee** - Display this service in the Customer Dashboard to allow employees to add it to a guest's bill.
+  * **Offer to employee** - Display this service in the [Customer Dashboard](https://mews-systems.gitbook.io/guide/commander/profiles/customer-profile#header) to allow employees to add it to a guest's bill.
   * **Order generates e-mail** - When a new order is made, the system will automatically generate a confirmation e-mail, which is sent to the customer's registered e-mail address.
   * **Order generates notification** - When an order is made, the system will generate a notification in Mews to the responsible employee.
   * **Order requires completed notes** - Notes must be included as a required field before an order can be completed. For example, if a guest orders a taxi, it's important for them to include the time and location of pickup or drop-off.
@@ -58,7 +58,7 @@ After clicking `Create`, you'll be automatically redirected to that settings pag
 
 ## Product Category
 
-From the main services page, click on the service for which you'd like to create a new product category.
+From the main Services page, click on the service for which you'd like to create a new product category.
 
 Once within that service's settings, click the `+` button, select `Product category`, and complete the following fields:
 
@@ -75,22 +75,22 @@ After creation, a field will appear where you may upload an image for this produ
 
 ## Product
 
-From the main services page, click on the service for which you'd like to create a new product category.
+From the main Services page, click on the service for which you'd like to create a new product.
 
 Once within that service's settings, click the `+` button, select `Product`, and complete the following fields:
 
 * **Service** - Pre-filled with the name of the service. This field is not editable.
 * **Name** - Selected name of product. This name will be displayed on bills and internally.
 * **Short name** - An abbreviation of the previously chosen name, used in some places with space constrictions. 
-* **Description** - A custom description for each category or item, which will be displayed in Mews Navigator. You can also include any other important information for guests, such as hours of service or purchase details. 
+* **Description** - A custom description for each item, which will be displayed in Mews Navigator. You can also include any other important information for guests, such as hours of service or purchase details. 
 * **External name** - Name displayed to guests and customers within Mews Distributor and Navigator
 * **Category** - Select the product category of this item.
 * **Accounting category** - Select the correct [accounting category](../../finance-settings/accounting-categories.md) according to your property's settings.
 * **Rebate accounting category** - If you have one specific accounting category for rebates, select the correct [accounting category](../../finance-settings/accounting-categories.md) according to your property's settings.
 * **Options** - Select the applicable options for each item.
   * **Bill as package** - Items with this option selected will be merged together into one line on the customer's bill. Please note that you must select this option for each item that you'd like packaged together. Items will always be expanded in internal reports.
-  * **Offer to customer** - Display this product to customers for ordering in Distributor and Operator.
-  * **Offer to employee** - Display this product in the  [Reservation module](https://mews-systems.gitbook.io/guide/commander/reservations/reservation-module#add-product) and [New Reservation screen](https://mews-systems.gitbook.io/guide/commander/reservations/create-a-reservation-nnrs#2-rates) to allow employees to add it to a guest's bill. 
+  * **Offer to customer** - Display this service to customers for ordering in Navigator.
+  * **Offer to employee** - Display this product in the [Customer Dashboard](https://mews-systems.gitbook.io/guide/commander/profiles/customer-profile#header) to allow employees to add it to a guest's bill.
   * **Selected by default** - Product will be automatically pre-selected, but user can still deselect it.
   * **Uncountable** - Product does not require count when ordering
 * **Promotions** - Currently, most of these fields do not have any application in Mews. With the upcoming extension of Mews Navigator, we will add functionality and update users accordingly.
@@ -99,7 +99,7 @@ Once within that service's settings, click the `+` button, select `Product`, and
   * **Before checkout** 
   * **Before check-in** 
   * **During stay** 
-* **Ordering** - Choose the order in which you'd like this product to appear. Items with lower numbers will display first in the list. In case you need to place a new item at the top of the list, you may use negative values to avoid editing all other products. In addition to the main Products screen, the ordering you choose will also be visible in the [Reservation module](https://mews-systems.gitbook.io/guide/commander/reservations/reservation-module#add-product) and [New Reservation screen](https://mews-systems.gitbook.io/guide/commander/reservations/create-a-reservation-nnrs#2-rates).
+* **Ordering** - Choose the order in which you'd like this product to appear. Items with lower numbers will display first in the list. In case you need to place a new item at the top of the list, you may use negative values to avoid editing all other service categories. In addition to the Service Products page, the ordering you choose will also be visible in the [Customer Dashboard](https://mews-systems.gitbook.io/guide/commander/profiles/customer-profile#header).
 * **Currency** - Choose the currency that you'd like to use for this product from the drop-down menu of all currencies enabled at your property. 
 * **Price** - Cost of that particular item, excluding tax. 
 * **Tax rate** - A list of each VAT rate used by your accounting team. Please be very careful that you choose the correct VAT rate for each item, as it is very important for your fiscal reporting. If you are unsure, Mews would recommend that you contact your accounting team for guidance.
