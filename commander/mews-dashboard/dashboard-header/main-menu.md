@@ -75,8 +75,8 @@ Easily access any custom links set up for your property.
 
 ## Help
 
+* **Contact support** - Chat with a live support agent
 * **Guide** - Open and read through our user guide for more information
-* **Contact support** - Complete a web form to contact our support team
 * **Service status** - Check our current status page for any technical issues or outages
 * **Release notes** - Read about the latest features added to the system
 * **Mews travel club** - Book accommodation for discounted travel at other Mews properties
