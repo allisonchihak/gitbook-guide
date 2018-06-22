@@ -47,8 +47,8 @@ Click the `+` button, and select `Product`. You must complete the following fiel
   * **Bill as package** - Package this item into the service category "revenue."
   * **Consumed before night** - Product can be posted with a consumption date prior to accommodation dates.
   * **Exclude price from offer** - Product cost will be added to the service order after booking is made.
-  * **Offer to customer** - Product will be available for customers to order.
-  * **Offer to employee** - Product will be available for employees to order.
+  * **Offer to customer** - Display this product to customers for ordering in Distributor and Operator.
+  * **Offer to employee** - Display this product in the  [Reservation module](https://mews-systems.gitbook.io/guide/commander/reservations/reservation-module#add-product) and [New Reservation screen](https://mews-systems.gitbook.io/guide/commander/reservations/create-a-reservation-nnrs#2-rates) to allow employees to add it to a guest's bill. 
   * **Selected by default** - Product will be automatically preselected but can still be deselected by customer before payment. 
   * **Uncountable** - Product does not require "count" when ordering in Navigator \(for example, WiFi access\).
 * **Promotions** - This indicates the timing in which payments will be triggered and items will appear on the guest's billing page. 
@@ -57,7 +57,7 @@ Click the `+` button, and select `Product`. You must complete the following fiel
   * **Before checkout**  
   * **Before check-in**  
   * **During stay** 
-* **Ordering** - If you'd like your categories to appear in any particular order, enter a number for each one. Lower numbers will be listed first.
+* **Ordering** - Choose the order in which you'd like this product to appear. Items with lower numbers will display first in the list. In case you need to place a new item at the top of the list, you may use negative values to avoid editing all other products. In addition to the main Products screen, the ordering you choose will also be visible in the [Reservation module](https://mews-systems.gitbook.io/guide/commander/reservations/reservation-module#add-product) and [New Reservation screen](https://mews-systems.gitbook.io/guide/commander/reservations/create-a-reservation-nnrs#2-rates).
 * **Currency** - Select default currency for this item. This can be different from your property's selected default currency. 
 * **Price** - Numeric value, excluding currency symbols.
 * **Tax rate** - A drop-down menu of your property's applicable VAT rates.
