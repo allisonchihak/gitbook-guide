@@ -19,7 +19,7 @@ Please note that bookings should never be registered under the e-mail address of
 There are three different types of confirmation numbers. You can enter any of these in the search field to locate a reservation in the system.
 
 1. **Mews** - Mews will automatically allocate a unique confirmation number for each booking.
-2. **Channel** - If your property is connected to an online travel agency, Mews will record the OTA confirmation number for each booking.
+2. **Channel** - If your property is connected to an online travel agency, Mews will record the OTA confirmation number for each booking and display it in the [reservation simple detail](https://mews-systems.gitbook.io/guide/commander/reservations/simple-detail).
 3. **Channel Manager** - If your property is connected through a channel manager, Mews will record the channel manager confirmation number for each booking.
 
 ## Room Number
