@@ -18,10 +18,10 @@ Furthermore, for the system to work in the most optimal way, e-mail addresses ar
 
 Its possible to create new customer profiles from the following locations in the system:
 
-1. New Reservation Screen &gt; type last name into `Customer` field and select `New Customer` 
-2. Main Menu &gt; Profiles &gt; `Customer`
-3. Reservation module &gt; Groups tab &gt; `Add a new customer`
-4. Search bar &gt; type last name into search bar and select `New Customer` 
+* New Reservation screen &gt; type last name into `Customer` field and select `New Customer` 
+* Main menu &gt; Profiles &gt; `Customer`
+* Reservation module &gt; Groups tab &gt; `Add a new customer`
+* Search bar &gt; type last name into search bar and select `New Customer` 
 
 For the initial creation of the customer profile we ask for the following details:
 
