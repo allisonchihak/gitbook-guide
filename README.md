@@ -4,11 +4,3 @@ Welcome to the Mews user guidebook, a comprehensive overview of features and fun
 
 If you're still having trouble finding an answer to your question, contact [support@mewssystems.com](mailto:support@mewssystems.com).
 
-
-
-
-
-
-
-
-
