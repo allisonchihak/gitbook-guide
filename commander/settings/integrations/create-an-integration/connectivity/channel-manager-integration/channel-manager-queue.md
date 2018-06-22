@@ -1,12 +1,16 @@
 # Channel Manager Queue
 
-The Channel Manager Queue shows the status of all system updates sent to your channel manager via Mews Commander. To view, navigate to:
+## Channel Manager Queue
+
+The Channel Manager Queue shows the status of all system updates sent to your channel manager via Mews Commander.
+
+To view the status of all channel manager queue items, navigate to:
 
 * **`Main menu > Queues > Channel manager`**
 
-## Filters
+### Filters
 
-You can filter all channel manager items by:
+On this screen, you can filter results by:
 
 * **Client** - Select the channel manager that you want to view queue items for.
 * **Origin** 
@@ -17,17 +21,17 @@ You can filter all channel manager items by:
   * **Inventory push** - Updated rates and availability.
   * **Reservation** - Reservation created in Commander. 
 * **State** - Select the state or states of queue items you would like to view.
-* **Filter** - To view items that were created or processed within a specific set of dates, select one of the two options below, and then select the start and end dates.
-  * **Created**
-  * **Processed**
-* **Start** - Select a start date to view items created or processed within a specific set of dates.
-* **End** - Select an end date to view items created or processed within a specific set of dates.
+* **Filter** 
+  * **Created** - Select to sort the items by most recently created. 
+  * **Processed** - Select to sort the items by most recently processed.
+* **Start** - To view items from a specific date range, select the start date for the range.
+* **End** - To view items from a specific date range, select the end date for the range.
 
 Select the desired filter options, and click `OK` to view your changes. 
 
-## Data
+### Data
 
-In the Channel Manager Queue, items are listed with the following details:
+On the Channel Manager Queue screen, queue items are listed with the following details:
 
 * **Type**  
 * **Integration** - The connected channel manager integration
