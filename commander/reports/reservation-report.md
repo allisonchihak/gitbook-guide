@@ -6,7 +6,7 @@ The Reservation Report offers the most data and filtering options of any report 
 
 * **Mode** - Select the mode you would like to view the report in. Please note that these two modes display different data columns.
   * **Detailed** - View individual bookings including all details for a more in-depth analysis.
-  * **Totals** - Summarize data to analyze report data more quickly and generally.
+  * **Totals** - Summarize information to analyze report data more quickly and generally.
 * **Filter** - Narrow and organize your results by any of the following options.
   * **Arrival** - All past, current, and future confirmed reservations, sorted by date of arrival.
   * **Canceled** - All canceled bookings fully within selected time frame, sorted by date of arrival.
@@ -161,7 +161,7 @@ To easily see if any of the automatic charges linked with recently-made reservat
 
 Click `OK` &gt; `View report` .
 
-#### **Load Balances**
+#### **Customer Balances**
 
 If you want to ensure that all guests who are currently in house or arriving on a specific date have a zero balance, run the report with the following filters applied:
 
