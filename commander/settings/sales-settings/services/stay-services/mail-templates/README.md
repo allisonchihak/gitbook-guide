@@ -43,7 +43,7 @@ If you do choose to select this option, the `Send e-mail` box will automatically
 
 This e-mail is sent to customers when they have successfully booked a reservation via Mews Distributor. If a booking is created manually in Mews Commander, the creator can choose whether they would like to send a confirmation on the last step under the `Confirmation` field by selecting `Send`, `Do not send`, or `Send to custom e-mail`.
 
-Confirmation e-mail always include a button for online check-in, which you can modify and customize using [`Placeholders`](https://github.com/mews-systems/commander-guide/tree/aba4aad5c9d2bc8ec74b2a6c202f25d981c8b45b/settings/sales-settings/services/stay-settings/mail-templates/placeholders.html). Confirmation e-mails can also be a great place to include items for upselling as well recommendations or any other important information that your guests should know during their stay.
+Confirmation e-mail always include a button for online check-in, which you can modify and customize using [placeholders](https://mews-systems.gitbook.io/guide/commander/settings/sales-settings/services/stay-services/mail-templates/placeholders). Confirmation e-mails can also be a great place to include items for upselling as well recommendations or any other important information that your guests should know during their stay.
 
 Group confirmation e-mails will include the total number of reservations, total number of guests, and total cost.
 
