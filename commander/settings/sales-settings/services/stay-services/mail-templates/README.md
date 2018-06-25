@@ -2,16 +2,9 @@
 
 Using each of these mail templates, Mews offers many options to keep in touch with your customers. All templates are easily customizable and can be set up to send automatically at a time of your choosing.
 
-Using HTML to set up the following e-mail types. HTML is used to allow for more specific and tailored formatting options. For more information about placeholders, [`click here`](https://github.com/mews-systems/commander-guide/tree/aba4aad5c9d2bc8ec74b2a6c202f25d981c8b45b/settings/sales-settings/services/stay-settings/mail-templates/placeholders.html).
+Using HTML to set up the following e-mail types. HTML is used to allow for more specific and tailored formatting options. For more information, see [Placeholders](https://mews-systems.gitbook.io/guide/commander/settings/sales-settings/services/stay-services/mail-templates/placeholders).
 
 Please note that each type of mail template can only be created once. Therefore, if each of the six e-mail templates have already been created, you will no longer see the `+` icon available in the `Mail templates` page for adding additional templates. Below, you will find a description of each type of e-mail template available, along with any additional settings that may be applicable to each one.
-
-* [After end](./#after-end)
-* [After start](./#after-start)
-* [Cancellation](./#cancellation)
-* [Confirmation](./#confirmation)
-* [Quotation](./#quotation)
-* [Release reminder](./#release-reminder)
 
 ## After end
 
@@ -27,7 +20,7 @@ After start e-mails are sent to customers at the moment that they have completed
 
 To send after start e-mails automatically, use the following path:
 
-`Main Menu > Settings > Services > Stay > Options tab > Visit options > Enable automatic after start e-mail`
+* **`Main Menu > Settings > Services > Stay > Options tab > Visit options > Enable automatic after start e-mail`**
 
 ## Cancellation
 
@@ -35,7 +28,7 @@ Cancellation e-mails are sent to customers any time that their reservations are 
 
 To enable cancellation e-mails by default, use the following path:
 
-`Main Menu > Settings > Services > Stay > Options tab > Visit options > Send cancellation e-mail by default`
+* **`Main Menu > Settings > Services > Stay > Options tab > Visit options > Send cancellation e-mail by default`**
 
 If you do choose to select this option, the `Send e-mail` box will automatically be pre-selected in case of cancellations.
 
@@ -47,13 +40,15 @@ Confirmation e-mail always include a button for online check-in, which you can m
 
 Group confirmation e-mails will include the total number of reservations, total number of guests, and total cost.
 
-> #### Mews Clues
->
-> Please note that if you send your confirmation to custom e-mail, the link to check-in online will not allow the possibly different person to get into profile of the reservation owner. The e-mail will contain a link to sign-in screen of navigator. As a solution, please be sure that guests use their primary e-mail address on their customer profile and not sending it to custom e-mail addresses.
+{% hint style="info" %}
+### Mews Clues
+
+Please note that if you send your confirmation to custom e-mail, the link to check-in online will not allow the possibly different person to get into profile of the reservation owner. The e-mail will contain a link to sign-in screen of navigator. As a solution, please be sure that guests use their primary e-mail address on their customer profile and not sending it to custom e-mail addresses.
+{% endhint %}
 
 To enable confirmation e-mails by default, use the following path:
 
-`Main Menu > Settings > Services > Stay > Options tab > Visit options > Send confirmation e-mail by default`
+* **`Main Menu > Settings > Services > Stay > Options tab > Visit options > Send confirmation e-mail by default`**
 
 If you do choose to select this option, the `Send` option in the new reservation screen will automatically be pre-selected in the last step.
 
@@ -67,19 +62,21 @@ Use this template to create a reminder e-mail that is sent to customers with unc
 
 To enable confirmation e-mails by default, use the following path:
 
-`Main Menu > Settings > Services > Stay > Options tab > Visit options > Send confirmation e-mail by default`
+* **`Main Menu > Settings > Services > Stay > Options tab > Visit options > Send confirmation e-mail by default`**
 
 Navigate to your stay settings and select `Enable automatic release reminder e-mail`, which will send a reminder to the customer 24 hours before the release date. If you have also enabled `Enable automatic option cancellation`, the system will automatically release unconfirmed bookings 24 hours past that chosen release date to free up inventory at your property.
 
-> ### Mews Clues
->
-> Please note that confirmation e-mails for Online Travel Agencies do not include rate total if the Travel Agency contract settlement is paid by the Travel Agency. Companies will be able to see rate totals.
->
-> If you have not completed any of the aforementioned mail templates, the system will still send a default e-mail with the most important information.
->
-> When creating a mail template, the system will pre-fill the text field for each one with a English-US translation template for you to better understand the required formatting. This template is what is sent automatically in case customized templates have not yet been created.
->
-> Placeholders can be used to generate text or specific booking information from the system. Placeholders appear as "empty" parts of the text, which, in the e-mail itself is replaced by specific information from the system. It is very important that you do not remove placeholders. Placeholders can automatically add the names of guests or other information about the booking. For additional information, please see our article about [`placeholders`](https://github.com/mews-systems/commander-guide/tree/aba4aad5c9d2bc8ec74b2a6c202f25d981c8b45b/settings/sales-settings/services/stay-settings/mail-templates/placeholders.html).
+{% hint style="info" %}
+Mews Clues
 
-For further information, watch our [video](https://vimeo.com/205407138) about e-mail templates
+Please note that confirmation e-mails for Online Travel Agencies do not include rate total if the Travel Agency contract settlement is paid by the Travel Agency. Companies will be able to see rate totals.
+
+If you have not completed any of the aforementioned mail templates, the system will still send a default e-mail with the most important information.
+
+When creating a mail template, the system will pre-fill the text field for each one with a English-US translation template for you to better understand the required formatting. This template is what is sent automatically in case customized templates have not yet been created.
+
+Placeholders can be used to generate text or specific booking information from the system. Placeholders appear as "empty" parts of the text, which, in the e-mail itself is replaced by specific information from the system. It is very important that you do not remove placeholders. Placeholders can automatically add the names of guests or other information about the booking. For additional information, please see our [article about placeholders](https://mews-systems.gitbook.io/guide/commander/settings/sales-settings/services/stay-services/mail-templates/placeholders).
+{% endhint %}
+
+For further information, watch our [video](https://vimeo.com/205407138) about e-mail templates.
 
