@@ -21,8 +21,7 @@ Click the `+` button to create a new Operator kiosk. Please note that you must c
 * **Default language** - Select the default language you would like displayed in the Operator application.
 * **Key cutter** - Select the key cutter you would like to connect to this kiosk. Please note that you must already have a door lock integration set up. See [our article](https://mews-systems.gitbook.io/guide/commander/settings/integrations/create-an-integration/facility-management/key-cutter-integration) for more information.
 * **Take key instructions** - Enter the instructions you would like displayed on the left side of the screen. This should describe the first step in creating a key \(for example, “Please take a key from the stack.”\).
-* **Cut key instructions** - Enter the instructions you would like displayed on the right side of the screen. This should describe the second step in creating a key \(for example, “Pl
-* ace the key on the key cutter.”\).
+* **Cut key instructions** - Enter the instructions you would like displayed on the right side of the screen. This should describe the second step in creating a key \(for example, “Place the key on the key cutter.”\).
 * **Cut key video URL** - Enter the web address for the instructional key cutting video that you would like displayed onscreen. Please note that it must be a complete address \(for example, http://mewssystems.com\) and must link directly to an mp4 file \(do not link to a video on a video-sharing website, such as YouTube or Vimeo\).
 
 After you have completed all fields, click `Create`. The system will automatically generate a QR code, which you will need when setting up Operator on your device.
