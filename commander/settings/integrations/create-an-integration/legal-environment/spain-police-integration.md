@@ -10,9 +10,9 @@ To create a Spanish Police Integration, you must first navigate to the Mews Inte
 
 Look for the `+` icon and click on it. The next page contains a list of all integrations that you can create in Mews. Under the `Legal environment` section, look for the `Spanish Police Integration` and click on it. You will see the following fields to complete:
 
-* **Name** - This field is optional
+* **Name** - This field is optional.
 * **Hotel code** - Hotel establishment code provided by the Spanish police.
-* **To** - E-mail address where the export should be sent. Include multiple e-mail addresses using either commas or semicolons
+* **To** - E-mail address where the export should be sent. Include multiple e-mail addresses using either commas or semicolons.
 * **Daily report execution time** - Time when should the export be generated and sent. By default it is set up to 9:00 a.m. but you may change it to any time of the day you wish \(the logic is that when you fill in 0 hours and 0 minutes it is generated at midnight. If you fill in 10 hours and 45 minutes it is generated at 10:45 a.m.\).
 * **Notes**
 
@@ -20,7 +20,7 @@ Once all details are properly completed click the button `Create` and select the
 
 ## Format
 
-The format of the export is **.csv**.
+The report will be exported in .txt format. 
 
 ## Export
 
