@@ -2,46 +2,39 @@
 
 Employee profiles are used to give employees access to Mews. Using these profiles, you can track activity, assign responsibility, and allow or restrict the rights of each employee that works at your property.
 
-The most senior member of your staff should be admin of your property, and must create the other profiles. All subsequently created profiles will be their subordinates in the system by default.
+Any time a new employee profile is created, the system will automatically assign it below the user who created it in the staff hierarchy, so your property’s admin—the most senior member of your staff—should be responsible for creating new profiles. There is no limit to the amount of profiles that can be created in Commander, so employees should never share a profile. 
 
-As there is no limit to the amount of profiles that can be created, employees should never share a profile.
-
-You can navigate to the Employees page using the following path:
+Go to your employee settings using the following path:
 
 * **`Main menu > Settings > Employees`**
 
-Here, you will see a current list of all existing employees in your system. Profiles are displayed in a hierarchical structure to give an accurate visual representations of the chain of command at your property. Employee profile images are also displayed next to each name for easy identification.
+On this page you will find a list of all currently-existing employees in the system. Profiles are displayed in a hierarchical structure to give an accurate visual representations of the chain of command at your property. Employee profile images are also displayed next to each name for easy identification.
 
-On the main page, you will see each employee profile listed with the following overview details:
+Each employee is listed with the following overview details:
 
-* **Name** - Employee name as is entered in profile
-* **E-mail** - E-mail address used to create account
-* **Department** - Department in which this employee works
-* **Admin** - This column will state `Yes` or `No`, indicating whether this person has been given admin rights. If `Yes`, they are awarded all privileges. If `No`, you can hover over this column to see a list of this person's privileges. Please note that the hover will only produce results for employees who are non-admin and but have been given other workplace privileges. For more information about admin privilege, please see below. 
-* **Cashiers** - List of all cashiers that this employee is permitted to use
-* **Authenticator** - Indicates whether user has enabled an authenticator for 2FA
-* **Enabled** - Dates that employee profile will be active; if no dates are specified, field will say `For eternity`
-* **Options** - Any additional privileges available for this employee's account
+* **Name** - The name of employee as entered in their profile.
+* **E-mail** - The employee's e-mail address, which was used to create the account.
+* **Department** - The department that the employee is assigned to.
+* **Admin** - States whether the employee has been given admin rights. If yes, they are awarded all privileges. If no, you can hover the mouse over `No` to see a list of the employee's privileges. Please note that this list will only appear if a non-admin employee has been assigned some work privileges. For more information about admin privileges, see below. 
+* **Cashiers** - A list of all cashiers the employee is permitted to use.
+* **Authenticator** - Indicates whether the user has enabled two-factor authentication. 
+* **Enabled** - If the employee's profile is enabled for only a specific amount of time, the dates in which it is enabled will display here. If no dates are specified, the field will say `For eternity`. 
+* **Options** - Any additional privileges granted to the employee.
 
-One major benefit of the Cloud, is that you can access the solution at any time from any location. This means that employees can access is also when they are not physically in the hotel, so it is important that hotels have a strict security policy in place ensuring they give employees the correct level of access. Once an employee resigns, ensure you remove them from your hotel on the day the employee leaves your company.
+One major benefit of ****a cloud-based system like Mews Commander is that it can be accessed at any time and from any location. This allows employees to sign in to the system even when they are not physically at the property, so it is important for each property to have a strict security policy in place. Please ensure that an employee's profile is deleted when that employee leaves his or her position.
 
 ## Create
 
-From the main employee page, look for the `+` icon and click on it**.** In the next screen, complete the following details to create each profile:
+On the main Employees page, click the `+` button and then complete the following details to create a new employee profile:
 
-* **E-mail** - please note that only one employee profile can be linked with each valid e-mail address. 
-* **Title** - Choose the title that best fits this employee. 
-* **First Name** - Employee's given name
-* **Last Name** - Employee's surname. Please note that this field is required.
+* **E-mail** - Enter the employee's e-mail address. Please note that only one employee profile can be linked with each valid e-mail address. 
 * **Superior employee** - Here, you'll see a drop-down of other employees at your property. Choose the person that this new employee should report to. They will automatically be added to their proper place in the property's hierarchy, which is visible from the main Employees page.  
 
-Once created, the employee's name, e-mail address, and title will not be editable. If incorrect, you must fully delete the profile and create a new one with the correct details.
+Once created, the employee's e-mail address cannot be edited. If incorrect, you must fully delete the profile and create a new one with the correct details. When all fields are correctly completed, click the `Create` button**.**
 
-When all fields are correctly completed, click the `Create` button**.**
+Once the profile is created, a one-time activation an e-mail is sent to the employee, which allows users to sign in, set their password, and edit their profile details. Please note that it is the employee's responsibility to add their first and last name to their profile. 
 
-Once the profile is created, an e-mail is sent to the employee with a one-time token, allowing them to log in and set their password.
-
-For further information or to edit any profile, navigate to the main employees page and click on any person's name to make changes or see all additional details.
+To see more details or to edit a profile, navigate to the main Employees page and click on an employee's name.
 
 {% hint style="info" %}
 ### Mews Clues
@@ -57,33 +50,32 @@ Upon clicking the `Create` button, you will see these additional fields appear i
 
 The following fields must be completed in to assign proper user rights and privileges for each employee:
 
-* **Department** - Select that employee's [department ](https://mews-systems.gitbook.io/guide/commander/settings/users-settings/departments)to assign tasks or notifications to employees of that department only
-* **Enabled from** - Choose the date of this profile's activation. \(e.g. if you have new hires starting later, give them access starting on a certain date\)
-* **Enabled to** - Choose the date of this profile's deactivation. \(e.g. if you know an employee is leaving, use this to ensure you don't forget to restrict their system access\)
-* **Admin** - Select this option to give a user admin rights. Admin users will automatically be given all user rights available in the system. In addition to those privileges, admin employees will be able to modify the [Editable History Window \(EHW\)](https://mews-systems.gitbook.io/guide/commander/settings/finance-settings/accounting-configuration). If you select this option, the `Workplace privileges` selection will disappear, as all rights apply and it is no longer necessary. Please note that this privilege should be given sparingly and to your most trusted employees as it allows them to edit tax documents and important system data. 
-* **Receive customer messages** - Select this option if user should receive messages from customers using the Mews Navigator
+* **Department** - Select that employee's [department ](https://mews-systems.gitbook.io/guide/commander/settings/users-settings/departments)to assign tasks or notifications to employees of that department only.
+* **Enabled from** - Choose the date of this profile's activation. \(e.g. if you have new hires starting later, give them access starting on a certain date\).
+* **Enabled to** - Choose the date of this profile's deactivation. \(e.g. if you know an employee is leaving, use this to ensure you don't forget to restrict their system access\).
+* **Admin** - Select this option to give a user admin rights. Admin users will automatically be given all user rights available in the system. In addition to those privileges, admin employees will be able to modify the [editable history window \(EHW\)](https://mews-systems.gitbook.io/guide/commander/settings/finance-settings/accounting-configuration). If you select this option, the `Workplace privileges` selection will disappear, as all rights apply and it is no longer necessary. Please note that this privilege should be given sparingly and to your most trusted employees as it allows them to edit tax documents and important system data. 
+* **Receive customer messages** - Select this option if user should receive messages from customers using the Mews Navigator.
 * **Workplace privileges** - Choose any of the following privileges that this user should have.
-  * **Configure enterprise** - Access to change the general settings of the hotel \(e.g. e-mails, editable history window, etc.\)
+  * **Configure enterprise** - Access to change the general settings of the property \(e.g. e-mails, editable history window, etc.\).
   * **Configure services** - Employee can manage services and products**.**
-  * **Configure Spaces** - Employee can modify spaces and place rooms Out Of Order. Please note that placing rooms OOO has a direct impacts your property's room inventory, so this privilege should be given sparingly.
-  * **Issue Invoices** - Rights to create invoices with future payment date**.**
-  * **Manage Companies** - User can create and manage Company Profiles
-  * **Manage Customers** - User can create and manage Customer Profiles
-  * **Manage Reservations** - User can amend booking details.
-  * **Manage travel agency contracts** - User can create and manage Travel Agency Profiles
-  * **Overbook Services** - Rights to create additional bookings even if space type is fully booked.
-  * **Perform Housekeeping** - Rights to change room status 
-* **Cashiers** - Assign one or multiple cashiers to the user.
-* **Platform privileges**
+  * **Configure spaces** - Employee can modify spaces and place rooms Out Of Order. Please note that placing rooms OOO has a direct impacts your property's room inventory, so this privilege should be given sparingly.
+  * **Issue invoices** - Rights to create invoices with future payment date.
+  * **Manage companies** - User can create and manage Company Profiles.
+  * **Manage customers** - User can create and manage Customer Profiles.
   * **Manage employees** - Select this option if this employee should have access to create new employees. User will also be able to assign workplace privileges to the employee profiles that they create. This should be reserved only for senior management.
+  * **Manage reservations** - User can amend booking details.
+  * **Manage travel agency contracts** - User can create and manage travel agency profiles.
+  * **Overbook services** - Rights to create additional bookings even if space type is fully booked.
+  * **Perform housekeeping** - Rights to change room status. 
+* **Cashiers** - Assign one or multiple cashiers to the user.
 
-If an employee forgets their password, they can login to mews.li and use the password reset feature to have a link with instructions sent to their e-mail address.
+If an employee forgets their password, they can log in to `https://www.mews.li` and use the password reset feature to have a link with instructions sent to their e-mail address.
 
 ## Chain Access
 
 If you operate more than one property with Mews, one employee can be given access to all or some of your locations.
 
-To give one user access to multiple properties, you must **create a new employee in each hotel using the same name and e-mail address**. The system will recognize the duplicate information and will automatically merge the accounts.
+To give one user access to multiple properties, you must create a new employee in each hotel using the same name and e-mail address. The system will recognize the duplicate information and will automatically merge the accounts.
 
 When this user logs in, they can switch between the newly added properties using the user profile icon in their dashboard header.
 
@@ -97,11 +89,11 @@ If an employee forgets their password, they can use the password reset feature t
 
 ## Delete
 
-To delete a user, navigate to the main employee page, **click on the user profile, look for the trashcan icon in the top right-hand corner and click on it**.
+To delete a user, navigate to the main Employees page, select the user's name, and then click the `Trash can` icon.
 
-If an employee leaves the company, its highly recommended to delete their user profile immediately. As Mews is a Cloud solution, they can access the system from anywhere, so its of the utmost importance that you have a strict departure procedure in place that ensures that all employee profiles in the PMS are deleted.
+When an employee leaves his or her position at the property, it is important to delete their user profile as soon as possible. As Mews is a cloud-based solution, employees are able to sign in to the system even when they are not physically at the property. Having a strict departure procedure in place will ensure that all employee profiles are properly deleted in Commander when employees leave their positions at the company. 
 
-Please note that only superior employees have rights to delete users from the system.
+Please note that only superior employees have rights to delete users in the system.
 
 {% hint style="info" %}
 ### Mews Clues
@@ -111,7 +103,11 @@ If you are deleting an employee that is the manager of a team, you must first mi
 
 ## Two-Factor Authentication
 
-Within your user profile, users have the option to enable or disable two-factor authentication. If enabled, users must download an authentication application to their mobile device, which they will use to enter a unique code in addition to their chosen password each time that they log in to their user profiles.
+Every user has the option to enable or disable two-factor authentication \(2FA\). Before you can enable this feature in Commander, download an authentication app to your mobile device. 
 
-Users may also choose to generate 10 recovery codes for their account. These code can be used for logging into the system in case of broken or lost phone. Please note that these codes should be safely stored by user as they will only be displayed once.
+To enable two-factor authentication, click the user profile icon in the Dashboard header, select **Profile**, and then go to the `Security` tab. This feature will be disabled by default; to enable, click `Edit`, and follow the onscreen instructions. Please note that the pin number should be entered without any spaces. When you have completed all fields, click `Authenticate`. 
+
+The system will automatically generate ten recovery codes for your account, which can be used to sign in to the system if you are unable to retrieve the authenticator pin from your phone. Please note that these codes should be stored in a secure location as they will only be displayed on this page once
+
+Once two-factor authentication is enabled, you will need to enter a unique pin generated by your authenticator app each time you sign in to Mews. Please note that this pin should not include any spaces.
 
