@@ -91,8 +91,6 @@ If an employee forgets their password, they can use the password reset feature t
 
 To delete a user, navigate to the main Employees page, select the user's name, and then click the `Trash can` icon.
 
-When an employee leaves his or her position at the property, it is important to delete their user profile as soon as possible. As Mews is a cloud-based solution, employees are able to sign in to the system even when they are not physically at the property. Having a strict departure procedure in place will ensure that all employee profiles are properly deleted in Commander when employees leave their positions at the company. 
-
 Please note that only superior employees have rights to delete users in the system.
 
 {% hint style="info" %}
@@ -100,6 +98,12 @@ Please note that only superior employees have rights to delete users in the syst
 
 If you are deleting an employee that is the manager of a team, you must first migrate all of their subordinate profiles to a different superior employee before it will be possible to delete the user.
 {% endhint %}
+
+## Security
+
+When an employee leaves his or her position at the property, it is important to delete their user profile as soon as possible. As Mews is a cloud-based solution, employees are able to sign in to the system even when they are not physically at the property. 
+
+For this reason, it is critical for each property to implement a strict internal departure procedure, which will ensure that all employee profiles are properly deleted in Commander. This is urgently important for protecting your property data, and former staff would therefore not have any opportunities to perform malicious activity after they're no longer employed by the company. As long as employees have valid login details, they will still be able to access sensitive client personal data, edit reservations, and view hotel management details.
 
 ## Two-Factor Authentication
 
