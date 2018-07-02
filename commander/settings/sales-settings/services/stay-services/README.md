@@ -23,8 +23,8 @@ To make any changes to the stay settings found on this page, simply change the d
   * **Discrete** - Prevent overbookings from affecting the vacancy of any space categories that were not originally selected; in this case, properties must manually resolve overbookings and availability data for all non-selected categories will not be affected
 * **Check-in type** - This setting will determine which message will be displayed to guests at the end of online check-in, informing them how they will receive keys to their room.
   * **Classic** - Inform guests to pick up their key at reception when they arrive
-* **Kiosk** - Inform guests to pick up their key at a kiosk when they arrive
-* **Online** - Inform guests that they will receive further information about key retrieval 
+  * **Kiosk** - Inform guests to pick up their key at a kiosk when they arrive
+  * **Online** - Inform guests that they will receive further information about key retrieval 
 
 ## Options
 
