@@ -21,10 +21,10 @@ To create a new rate group, look for the `+ icon`, click on it, and complete the
   * **Create preauthorization** - Preauthorization will be created for the card on file at the time of settlement trigger, including any applicable offset. However, the card will not be charged until manually processed by an employee.
 * **Settlement trigger** - Select the time when the system should automatically charge accommodation cost. Please note that this field only applies to automatic settlements.
   * **Creation** - Time that booking is created.
-  * **End** - Date and time of customer's departure.
-  * **End date** - Date of departure at 00:00.
-  * **Start** - Date and time of customer's arrival.
-  * **Start date** - Date of arrival at 00:00.
+  * **End** - Date and time of customer's checkout, as specified by the [official departure time](https://mews-systems.gitbook.io/guide/commander/settings/sales-settings/services/stay-services#reception) in your stay settings.
+  * **End date** - Date of customer's departure, set at 00:00.
+  * **Start** - Date and time of customer's check-in, as specified by the [official arrival time](https://mews-systems.gitbook.io/guide/commander/settings/sales-settings/services/stay-services#reception) in your stay settings.  
+  * **Start date** - Date of customer's arrival, set at 00:00.
 * **Settlement offset** - Amount of time either subtracted from or added to the settlement trigger time, with negative values subtracting time and positive values adding time. Please note that `Settlement offset` only applies to automatic settlements. 
 * **Settlement value** - Percentage of the total booking value that will be charged at the time of `Settlement trigger` \(including `Offset`\). Please note that `Settlement value` only applies to automatic settlements. This value can be greater than 100% in the case that you would like to automatically create preauthorizations including an extra charge in case of damages. The property can then charge a lower amount than is preauthorized at the time of checkout, but cannot charge higher. 
 * **Maximum nights for settlement** - Select the maximum number of nights that should be charged automatically as part of automatic settlements. This value will apply only to rate groups with automatic settlements enabled. 
