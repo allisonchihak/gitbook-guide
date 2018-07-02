@@ -32,7 +32,7 @@ Operator supports Android 7.0 and later devices with a recommended screen size o
 
 Before you install Operator, please note that your tablet will need to be either new \(and not yet set up\) or factory reset. 
 
-If you wish to set up Operator on a brand-new device, follow the steps below the first time you turn it on. If it is not new, find instructions on how to factory reset your particular device \(instructions will differ from device to device\), perform the reset, and follow these steps: 
+If you wish to set up Operator on a brand-new device, follow the steps below the first time you turn it on. If it is not new, find instructions on how to factory reset your particular device \(instructions will differ for each model\), perform the reset, and follow these steps: 
 
 1. Choose your default language for the setup process. Do not press `Start`.
 2. Tap the “Welcome” message repeatedly until the QR code setup process begins.
@@ -46,9 +46,11 @@ Your Operator kiosk has now been successfully set up and is ready to be used by 
 {% hint style="info" %}
 ### Supported Countries
 
-Operator is currently available for properties in the following countries:
+Currently, Operator can only support one registration card per group of bookings and the following registration fields: 
 
-* Australia
-* Netherlands
+* First and last name
+* Date of birth
+* ID or passport information
+* Nationality
 {% endhint %}
 
