@@ -1,8 +1,17 @@
 # Cut Key Video
 
-## Create 
+## Create
 
-You will need to create an instructional video for Operator, which will play onscreen when it is time for guests to cut their keys. This video should display the actual, physical setup of your Operator kiosk and key cutter machine. Below is a list of supported video types, which can be played on any Android 5.0 or later device.
+You will need to create an instructional video for Operator, which will play onscreen when it is time for guests to cut their keys
+
+It is highly recommended that you create your own video, as it should display the actual, physical setup of your Operator kiosk and key cutter machine. However, if you are unable to create your own video, you can use one of the following videos created by Mews:
+
+* Video 1
+* Video 2
+* Video 3 
+* Video 4
+
+Below is a list of supported video types, which can be played on any Android 5.0 or later device.
 
 ### Format
 
