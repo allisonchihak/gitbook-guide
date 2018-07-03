@@ -218,11 +218,17 @@ If the occupancy of the room has changed, you can select here the new number of 
 
 ### Company
 
-If you wish to add an existing company to a booking, this will allow you to track the company production in reports. It also opens up the possibility in billing to open a bill to the company name/address.
+Add an existing company to a booking to track the company production in reports. It also opens up the possibility in billing to open a bill to the company name/address.
 
 ### Travel Agency
 
 If you wish to add an existing travel agent to the booking, this will allow you to track the travel agent production in reports. It also opens up the possibility in the billing to open a bill to the travel agent/address.
+
+#### Travel Agency Number
+
+This field will only appear when a travel agency is attached to the booking. If a travel agency was not attached to the booking [during the reservation creation](https://mews-systems.gitbook.io/guide/commander/reservations/create-a-reservation-nnrs#2-rates), you must add the appropriate TA using the field above and click `OK` to generate the `Travel agency number` field. 
+
+In this field, enter the reservation reference number from the TA and click `OK` to save. This number will then be displayed on invoices and in reservation details.
 
 {% hint style="info" %}
 ### Mews Clues
