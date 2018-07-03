@@ -15,7 +15,7 @@ Before you can begin using Operator at your property, the application must first
 
 Click the `+` button to create a new Operator kiosk. Please note that you must create a new kiosk in Operator Configurations for each device you want to install Operator on. Complete the following fields on the next screen:
 
-* **Add translation** - Select any languages you would like the key cutting instructions to be in. Selecting a language different from your property’s default language will automatically add a new text box next to the “Take key instructions” and “Cut key instructions” fields for you to complete.    
+* **Add translation** - Select a language that you would like the key cutting instructions to be in. Selecting a language different from your property’s default language will automatically add a new text box next to the “Take key instructions” and “Cut key instructions” fields for you to complete.    
 * **Name** - Enter a descriptive name to identify the kiosk \(for example, “Right Kiosk,” "Left Kiosk," etc.\).
 * **Connector integration** - Select the connector integration you would like to use. Please note that you must already have a connector integration set up. If you don't, contact our Integrations team at  [integrations@mewssystems.com](mailto:integrations@mewssystems.com) to get started. 
 * **Default language** - Select the default language you would like displayed in the Operator application.
