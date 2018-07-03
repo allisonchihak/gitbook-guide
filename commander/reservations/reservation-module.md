@@ -228,12 +228,12 @@ If you wish to add an existing travel agent to the booking, this will allow you 
 
 This field will only appear when a travel agency is attached to the booking. If a travel agency was not attached to the booking [during the reservation creation](https://mews-systems.gitbook.io/guide/commander/reservations/create-a-reservation-nnrs#2-rates), you must add the appropriate TA using the field above and click `OK` to generate the `Travel agency number` field. 
 
-In this field, enter the reservation reference number from the TA and click `OK` to save. This number will then be displayed on invoices and in reservation details.
+In this field, enter the reservation/confirmation number from the TA and click `OK` to save. This number will then be displayed on invoices and in reservation details.
 
 {% hint style="info" %}
 ### Mews Clues
 
-If you'd like to remove a Company or Travel Agency from a reservation, simply leave the field blank and click the `OK` button next to the Company or Travel Agency. After clicking `OK`, you should see that information leave the simple detail summary on the right-hand side of the properties screen.
+If you'd like to remove a company, travel agency, or travel agency number from a reservation, simply leave the field blank and click`OK`. The information will be removed from the reservation simple detail. 
 {% endhint %}
 
 ### Notes
