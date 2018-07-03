@@ -4,7 +4,7 @@ In Mews Commander, new reservations can be created at any time from any screen w
 
 Below, you can find a detailed description of the complete reservation-making process, which is divided into the three respective steps.
 
-**To create a reservation, look for the** `+` **button in the Mews header and click on it.**
+To create a reservation, look for the `+` button in the Mews header and click on it.
 
 ## 1 - Availability
 
@@ -44,8 +44,8 @@ In the next screen, you will see the three following sub-sections. Please note t
 
 * **Customer\***  - Search for the correct customer using first name, last name, or e-mail address; select `New customer` from the search field drop-down if you cannot find an existing customer profile
 * **Company** - If this is a business reservation, search for the company profile; select `New company` from the search field drop-down if you cannot find an the correct company; if you select a company, the system will automatically search through private rates that may be applicable
-* **Travel agency** - If reservation is affiliated with a travel agency, search for the correct travel agency profile using this field; if a travel agency is selected, you will see an additional field appear:
-  * **Number** - Use this field to specify a Channel confirmation ID if applicable; this number will then be displayed on invoices and in reservation details
+* **Travel agency** - If reservation is affiliated with a travel agency, search for the correct travel agency profile using this field. If a travel agency is selected, an additional field will appear:
+  * **Travel agency number** - Enter the channel confirmation ID if applicable; this number will then be displayed on invoices and in reservation details
 * **Segment** - Select the reason for booking from the drop-down list of segments according to your property settings
 * **Voucher** - Select the correct voucher code from the drop-down list of codes according to your property settings
 * **Products** - Select all desired stay products from the drop-down list of products according to your property settings
