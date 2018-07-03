@@ -42,18 +42,18 @@ In the moment that you click `Select`, you will be redirected to the next step i
 
 In the next screen, you will see the three following sub-sections. Please note that all required fields are marked with `*`. The first subsection, labeled `Options` includes the following fields to complete:
 
-* **Customer\***  - Search for the correct customer using first name, last name, or e-mail address; select `New customer` from the search field drop-down if you cannot find an existing customer profile
-* **Company** - If this is a business reservation, search for the company profile; select `New company` from the search field drop-down if you cannot find an the correct company; if you select a company, the system will automatically search through private rates that may be applicable
+* **Customer\***  - Search for the correct customer using first name, last name, or e-mail address, and then select `New customer` from the search field drop-down if you cannot find an existing customer profile.
+* **Company** - If this is a business reservation, search for the company profile, and then select `New company` from the search field drop-down if you cannot find an the correct company. If you select a company, the system will automatically search through private rates that may be applicable
 * **Travel agency** - If reservation is affiliated with a travel agency, search for the correct travel agency profile using this field. If a travel agency is selected, an additional field will appear:
-  * **Travel agency number** - Enter the channel confirmation ID if applicable; this number will then be displayed on invoices and in reservation details
-* **Segment** - Select the reason for booking from the drop-down list of segments according to your property settings
-* **Voucher** - Select the correct voucher code from the drop-down list of codes according to your property settings
-* **Products** - Select all desired stay products from the drop-down list of products according to your property settings
+  * **Travel agency number** - Enter the confirmation number from the travel agency, if applicable; this number will then be displayed on invoices and in reservation details.
+* **Segment** - Select the reason for booking from the drop-down list of segments according to your property settings.
+* **Voucher** - Select the correct voucher code from the drop-down list of codes according to your property settings.
+* **Products** - Select all desired stay products from the drop-down list of products according to your property settings.
 
-The next few fields, labeled `Occupancy`are dependent on your selections in the previous step and will be displayed :
+The next few fields, labeled `Occupancy`are dependent on your selections in the previous step and will be displayed:
 
-* **Space category** - This field will be labeled with the selected space type chosen in the first step; select the number of spaces that you'd like to reserve, based on the property's availability
-* **Person count per space** - For each chosen number of spaces, select the number of adults and children that will be staying in each; please note that this field will be pre-filled with the maximum number of individuals allowed per the selected space type
+* **Space category** - This field will be labeled with the selected space type chosen in the first step. Select the number of spaces that you'd like to reserve, based on the property's availability.
+* **Person count per space** - For each chosen number of spaces, select the number of adults and children that will be staying in each. Please note that this field will be pre-filled with the maximum number of individuals allowed per the selected space type.
 
 Next, under `Rate`, you will see all available rates for the chosen space type, listed with their price `per night` and also the `total amount` for stay.
 
