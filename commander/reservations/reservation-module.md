@@ -228,7 +228,7 @@ If you wish to add an existing travel agent to the booking, this will allow you 
 
 This field will only appear when a travel agency is attached to the booking. If a travel agency was not attached to the booking [during the reservation creation](https://mews-systems.gitbook.io/guide/commander/reservations/create-a-reservation-nnrs#2-rates), you must add the appropriate TA using the field above and click `OK` to generate the `Travel agency number` field. 
 
-In this field, enter the reservation/confirmation number from the TA and click `OK` to save. This number will then be displayed on invoices and in reservation details.
+In this field, enter the confirmation number from the TA and click `OK` to save. This number will then be displayed on invoices and in reservation details.
 
 {% hint style="info" %}
 ### Mews Clues
