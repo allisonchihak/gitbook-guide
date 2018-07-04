@@ -79,7 +79,7 @@ Keys are valid from the moment of cutting until the checkout time of the reserva
 
 ## Troubleshooting
 
-If you receive an error that Mews cannot communicate to the Kaba application, please restart the application and log your issue with Kaba .
+If you receive an error that Mews cannot communicate to the Kaba application, please restart the application and log your issue with Kaba.
 
  Should you encounter any issues with the integration, please contact [integrations@mewssystems.com](mailto:integrations@mewssystems.com) for further assistance.
 
