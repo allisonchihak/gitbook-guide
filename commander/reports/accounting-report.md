@@ -2,54 +2,80 @@
 
 The Accounting Report is an overview of all revenue posted in Mews Commander, which is divided and displayed by [accounting categories](https://mews-systems.gitbook.io/guide/commander/settings/finance-settings/accounting-categories). This report can be used to analyze your property's revenue and payments.
 
-Below, you'll find an overview of each filter and feature that is visible on this report:
+Below, you'll find an overview of each filter and feature that is visible on this report.
 
 ## Filters
 
 * **Type**
-  * **Closed** - All revenue that has been completely processed in the selected time period
+  * **Closed** - All revenue that has been completely processed in the selected time period.
   * **Consumed** - All revenue for items consumed in the selected time period. This may include items on open bills.
 * **Mode**
-  * **Detailed** - View each individual revenue item grouped by type
-  * **Grouped** - View revenue item totals grouped by category
-* **Start date & time** - Date and time that report data begins
-* **End date & time** - Date and time that report data ends
-* **Group by** - indicates in which order you'd like the report variables to appear
-  * **Accounting category** - Group by accounting categories used at your property
+  * **Detailed** - View each individual revenue item grouped by type.
+  * **Grouped** - View revenue item totals grouped by category.
+* **Start date & time** - Date and time that report data begins.
+* **End date & time** - Date and time that report data ends.
+* **Group by** - Indicates the order in which you'd like the report variables to appear.
+  * **Accounting category** - Group by accounting categories used at your property.
   * **Accounting category classification** - Group by accounting category classification. 
-  * **Bill** - Group by bills assigned to customers, companies, and those unassigned
-  * **Creator** - Group by the person who posted the items
-  * **Date** - Group by date
-  * **Group** - Group reservations sorted by group name
-  * **Order** - Group by each order
-  * **Service** - Group by service and subsequent products of each
-  * **Service order origin** - Group by the origin of each booking
-  * **Tax rate** - Group by each available tax rate
+  * **Bill** - Group by bills assigned to customers, companies, and those unassigned.
+  * **Creator** - Group by the person who posted the items.
+  * **Date** - Group by date.
+  * **Group** - Group reservations sorted by group name.
+  * **Order** - Group by each order.
+  * **Service** - Group by service and subsequent products of each.
+  * **Service order origin** - Group by the origin of each booking.
+  * **Tax rate** - Group by each available tax rate.
 * **Assignee** - View bill items assigned to company or customer.
-  * **Company** - view a line data representing each company
-  * **Customer** - view a line of data representing each customer
-* **Bill Counter** - Select a bill counter from the drop-down menu to see only bills and invoices closed through there
-* **Company** - View only items assigned to one particular company
-* **Service** - View only items from one particular service
+  * **Company** - View a line data representing each company.
+  * **Customer** - View a line of data representing each customer.
+* **Bill Counter** - Select a bill counter from the drop-down menu to see only bills and invoices closed through there.
+* **Company** - View only items assigned to one particular company.
+* **Service** - View only items from one particular service.
 
 The header of the report will always display the selected time period next to the title.
 
 ## Features
 
-Data in this report is split into two sections: Revenue and Payments.
+Data in this report is split into three sections: `Revenue`, `Payments`, and `Outlets`.
 
-Each section includes the same list of items, including totals for each column, which are represented in bold text as the last line for both sections.
+* **Revenue** - All reported revenue during the selected time period.
+* **Payments** - All payments received during the selected time period.
+* **Outlets** - All reported revenue from connected outlets during the selected time period. 
 
-**Revenue** - All reported revenue
+Each section of the report provides different details about the same revenue. 
 
-**Payments** - All payments received
+### Revenue
 
-* **Bill item** - Each field with a '+' sign indicates an expandable field. Each line is organized from general to specific. Please note that you may need to expand the field in order to see some of the information represented. 
-* **Count** - Number of items included in figure
-* **Tax rate** - Indicates which tax rate was used for this item
-* **Net** - Total excluding tax
-* **VAT** - Value Added Tax, excluding price of taxed item
-* **Value** - Total value of Net plus VAT
+This section of the report includes the following information:
+
+* **Bill item** - Click the `+` button to expand the field and see more information about the item. Each line is organized from general to specific. The information displayed in this column will vary depending on which `Group by` filter has been selected.
+* **Count** - The number of items. 
+* **Tax rate** - The tax rate applied to the item. 
+* **Net** - The total, excluding tax.
+* **VAT** - The value-added tax, excluding the pride of the taxed item. 
+* **Value** - The total value of the item \(net + VAT\).
+
+### Payments
+
+This section includes the following information: 
+
+* **Payment** - Click the `+` button to expand the field and see more information about the item. Each line is organized from general to specific. The information displayed in this column will vary depending on which `Group by` filter has been selected.
+* **Count** - The number of payments for this service. 
+* **Tax rate** - The tax rate applied to the item. 
+* **Net** - The total, excluding tax.
+* **VAT** - The value-added tax, excluding the pride of the taxed item. 
+* **Value** - The total value of the item \(net + VAT\).
+
+### Outlets
+
+This section includes the following information:
+
+* **Type** - Click the `+` button to expand the field and see more information about the item. Each line is organized from general to specific. The information displayed in this column will vary depending on which `Group by` filter has been selected.
+* **Count** - The number of items. 
+* **Tax rate** - The tax rate applied to the item. 
+* **Net** - The total, excluding tax.
+* **VAT** - The value-added tax, excluding the pride of the taxed item. 
+* **Value** - The total value of the item \(net + VAT\).
 
 {% hint style="info" %}
 ### Mews Clues
