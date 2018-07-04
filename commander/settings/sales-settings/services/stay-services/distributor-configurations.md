@@ -58,15 +58,9 @@ To specify the available space categories, you must add only the categories that
 To add a category mapping, click on the `+` button and you will see the following fields to complete:
 
 * **Category** - Select the correct category from the drop-down list of all categories created and available at your property.
-* **Ordering** - Choose in which order you'd like the rooms to be displayed, with lower numbers appearing first in the list. Please note that the default ordering for your space categories in Distributor will not match the ordering of [those in Commander](https://mews-systems.gitbook.io/guide/commander/settings/space-configuration-settings/room-categories) unless specified.
+* **Ordering** - Choose in which order you'd like the rooms to be displayed, with lower numbers appearing first in the list. Please note that if you would like your space categories in Distributor to be displayed in the same order they are displayed in Commander, it will not do so by default. Instead, when you create a category mapping for a space category, you must manually enter an ordering value that matches the ordering value given to the [space category](https://mews-systems.gitbook.io/guide/commander/settings/space-configuration-settings/room-categories) in Commander.
 
 When all details are correctly entered, click the `Create` button and when you return to the main `Category mappings` page, you will see a list of each category that has been added.
-
-{% hint style="info" %}
-### Mews Clues
-
-Please note that if you would like for your space categories in Distributor to be displayed in the same order they are displayed in Commander, it will not do so by default. Instead, when you create a category mapping for a space category, you must manually enter an ordering value that matches the ordering value given to the [space category](https://mews-systems.gitbook.io/guide/commander/settings/space-configuration-settings/room-categories) in Commander.
-{% endhint %}
 
 ## Preview
 
