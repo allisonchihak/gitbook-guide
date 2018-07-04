@@ -51,8 +51,6 @@ Upon clicking the `Create` button, you will see these additional fields appear i
 The following fields must be completed in to assign proper user rights and privileges for each employee:
 
 * **Department** - Select that employee's [department ](https://mews-systems.gitbook.io/guide/commander/settings/users-settings/departments)to assign tasks or notifications to employees of that department only.
-* **Enabled from** - Choose the date of this profile's activation. \(e.g. if you have new hires starting later, give them access starting on a certain date\).
-* **Enabled to** - Choose the date of this profile's deactivation. \(e.g. if you know an employee is leaving, use this to ensure you don't forget to restrict their system access\).
 * **Admin** - Select this option to give a user admin rights. Admin users will automatically be given all user rights available in the system. In addition to those privileges, admin employees will be able to modify the [editable history window \(EHW\)](https://mews-systems.gitbook.io/guide/commander/settings/finance-settings/accounting-configuration). If you select this option, the `Workplace privileges` selection will disappear, as all rights apply and it is no longer necessary. Please note that this privilege should be given sparingly and to your most trusted employees as it allows them to edit tax documents and important system data. 
 * **Receive customer messages** - Select this option if user should receive messages from customers using the Mews Navigator.
 * **Workplace privileges** - Choose any of the following privileges that this user should have.
