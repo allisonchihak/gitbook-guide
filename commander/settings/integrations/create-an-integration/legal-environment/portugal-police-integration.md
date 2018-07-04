@@ -25,7 +25,7 @@ Hotels can set up the integration by themselves following the points below:
 * **Name:** This field may remain blank 
 * **Property code:** Property code provided by the Portuguese police 
 * **Tax ID number:** Tax ID number of the hotel 
-* **To:** Email address where the export should be sent; you can enter multiple e-mails, which can be separated using either comaa or semicolons 
+* **To:** Email address where the export should be sent; you can enter multiple e-mails, which can be separated using either commas or semicolons 
 * **Daily report execution time:** Time when should the export be generated and sent. By default it is set up to 9:00AM but you may change it to any time of the day you wish \(the logic is that when you fill in 0 hours and 0 minutes it is generated at midnight. If you fill in 10 hours and 45 minutes it is generated at 10:45AM, etc.\).
 
 When all fields are correctly completed, click on the `Save` button and you'll see the additional field at the top:
