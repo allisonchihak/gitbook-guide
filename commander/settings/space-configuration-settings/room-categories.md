@@ -28,7 +28,7 @@ To create a new room category, look for the `+` button and click it. Complete th
 * **Name** - Name of the room category.
 * **Short name** - An abbreviated name. This is an important field because they will save space for reporting statistics. Short name is also displayed on the timeline & in the new reservation screen.
 * **Description** - This description will be shown in several parts of the system, including new reservation screen and Mews Distributor.
-* **Ordering** - The ordering is important if you want to show rooms in a particular order on the timeline \(e.g. the lowest category rooms at the bottom, and higher category rooms above\). Ordering starts at 0.
+* **Ordering** - Choose in which order you'd like the rooms to be displayed, with lower numbers appearing first in the list; ordering is important if you want to show rooms in a particular order on the timeline. Please note that if you would like your space categories in Distributor to be displayed in the same order they are displayed in Commander, it will not do so by default. Instead, when you create a category mapping for a space category, you must manually enter an ordering value that matches the ordering value given to the [space category](https://mews-systems.gitbook.io/guide/commander/settings/space-configuration-settings/room-categories) in Commander.
 * **Capacity** - Standard number people that can stay in this space; by default, this will be the maximum adult count available for selection
 * **Extra capacity** - Indicates how many extra people could be added to a reservation. Please note that adding extra people will affect the price.
 * **Housekeeping interval** - Period of time after which the spaces in this category will automatically change to `Dirty`. \(e.g. A housekeeping interval of one day will reset room status to `Dirty` every day overnight\). If you leave this field blank, your default housekeeping interval will apply. 
@@ -62,8 +62,6 @@ To create a new room category, look for the `+` button and click it. Complete th
 ### Mews Clues
 
 In Distributor, occupied space categories are displayed to guests in grayscale and placed at the bottom of the screen to distinguish them from categories that can be selected.
-
-Please note that if you would like for your space categories in Distributor to be displayed in the same order they are displayed in Commander, it will not do so by default. Instead, when you create a [category mapping](https://mews-systems.gitbook.io/guide/commander/settings/sales-settings/services/stay-services/distributor-configurations#category-mappings) for a space category in the Distributor settings, you must manually enter an ordering value that matches the ordering value given to the space category here.
 {% endhint %}
 
 ## Delete
