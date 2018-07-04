@@ -60,7 +60,7 @@ To add a key cutter mapping, navigate back to the main Key Cutter Integration sc
 * **Room** - Select from a drop-down menu of all room numbers created in Mews
 * **Lock identifier** - Enter the corresponding room number as it is identified in VisiOnline
 
-When both fields are correctly entered, click `Create`. When you navigate back to the main Key Cutter Mapping screen, where you will see a list of all mappings created for your property. Add all mappings that you would like to implement, using the same steps as described above for each one.
+When both fields are correctly entered, click `Create`. When you navigate back to the main Key Cutter Mapping screen, you will see a list of all mappings created for your property. Add all mappings that you would like to implement, using the same steps as described above for each one.
 
 Once you have completed all of the steps above, please contact [integrations@mewssystems.com](mailto:integrations@mewssystems.com) and we will activate the key cutters for your integration.
 
