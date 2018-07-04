@@ -127,6 +127,7 @@
     * [Navigator Settings](commander/settings/navigator-settings/README.md)
       * [Places](commander/settings/navigator-settings/places.md)
       * [Guides](commander/settings/navigator-settings/guides.md)
+    * [Outlets](commander/settings/outlets.md)
     * [Integrations](commander/settings/integrations/README.md)
       * [Create an Integration](commander/settings/integrations/create-an-integration/README.md)
         * [Accounting](commander/settings/integrations/create-an-integration/accounting/README.md)
