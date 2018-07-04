@@ -23,6 +23,8 @@ Click the `+` button to create a new Operator kiosk. Please note that you must c
 * **Take key instructions** - Enter the instructions you would like displayed on the left side of the screen. This should describe the first step in creating a key \(for example, “Please take a key from the stack.”\).
 * **Cut key instructions** - Enter the instructions you would like displayed on the right side of the screen. This should describe the second step in creating a key \(for example, “Place the key on the key cutter.”\).
 * **Cut key video URL** - Enter the web address for the instructional key cutting video that you would like displayed onscreen. Please note that it must be a complete address and must link directly to an MP4 file; for example, `https://exampleurl.com/video.mp4`. Do not link to a video on a video-sharing website, such as YouTube. For more information on creating and uploading a video, see [Cut Key Video](https://mews-systems.gitbook.io/guide/operator/setup/cut-key-video). 
+* **Options** 
+  * **Space selection enabled** - Select this checkbox to enable the space selection screen, which gives guests the ability to change their assigned room number. 
 
 After you have completed all fields, click `Create`. The system will automatically generate a QR code, which you will need when setting up Operator on your device.
 
