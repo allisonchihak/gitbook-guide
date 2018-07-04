@@ -12,7 +12,7 @@ If you have already installed Mews Connector, please proceed with the instructio
 
 ## Integration
 
-To create a new key cutter integration, navigate to the Integrations screen using the following path:
+To create a new key cutter integration, navigate to the `Integrations` screen using the following path:
 
 * **`Main Menu > Settings > Integrations`**
 

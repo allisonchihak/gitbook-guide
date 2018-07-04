@@ -7,7 +7,7 @@ If you are interested in integrating Hotek key encoders with your Mews PMS,  ple
 {% hint style="info" %}
 ### Mews Clues
 
-Please note that your property will require a Hotek license that supports PMS connections. In the Hotek application, choose **System** &gt; **License**. If you have a license with PMS support, you should see "Fidelio Interface" or "PMS Interface" under the **Type** column. See [here](https://github.com/MewsSystems/gitbook-guide/blob/master/assets/image001.png?raw=true) for an example. If you don't have a PMS license, contact [support@hotek.nl](mailto:support@hotek.nl) to request a software upgrade.
+Please note that your property will require a Hotek license that supports PMS connections. In the Hotek application, choose **System** &gt; **License**. If you have a license with PMS support, you should see `Fidelio Interface` or `PMS Interface` under the **Type** column. See [here](https://github.com/MewsSystems/gitbook-guide/blob/master/assets/image001.png?raw=true) for an example. If you don't have a PMS license, contact [support@hotek.nl](mailto:support@hotek.nl) to request a software upgrade.
 {% endhint %}
 
 ## Mews Connector
@@ -18,28 +18,28 @@ If you have already installed Mews Connector, please proceed with the instructio
 
 ## Integration
 
-To create a new `Key cutter integration`, navigate to the main integrations page using the following path:
+To create a new key cutter integration, navigate to the main `Integrations` screen using the following path:
 
 * **`Main Menu > Settings > Integrations`**
 
-Look for the `+` icon and click it. Next, look for the **Facility management** section, click **key cutter integration**, and complete the following fields:
+Look for the `+` icon and click it. Next, look for the `Facility management` section, click **Key cutter integration**, and complete the following fields:
 
 * **Name** - Hotek
 * **API URL** - This field consists of three parts. You can use the image just below for reference:
-  * Add `http://`
+  * Add `http://`.
   * Following this, enter the local IP address of the computer where the Hotek Interface System \(Client & Server\) application is running. For more information about finding your local IP address, [click here](https://support.microsoft.com/en-us/help/15291/windows-find-pc-ip-address). 
   * Lastly, enter the interface port, which you can find in the `Hotek Interface System (Server)`. Be sure to include a `:` between your IP address and interface port. See [here](https://github.com/MewsSystems/gitbook-guide/blob/master/assets/HotekPhoto1.png?raw=true) for an example.
   * In your settings, please make sure that `Show message at client` is enabled and in the `Interface type` field, select`TCP/IP`.
-  * Please note that you should not add any spaces between these three pieces of data. When completed, your API URL will look something like this: `http://127.0.0.1:10003`
-* **Username** - Leave this field blank; used only for VisiOnline integration
-* **Password** - Leave this field blank; used only for VisiOnline integration
-* **Notes** - Add any additional notes or information that you'd like to include
+  * Please note that you should not add any spaces between these three pieces of data. When completed, your API URL will look something like this: `http://127.0.0.1:10003`.
+* **Username** - Leave this field blank; used only for VisiOnline integration.
+* **Password** - Leave this field blank; used only for VisiOnline integration.
+* **Notes** - Add any additional notes or information that you'd like to include.
 
 When all information is correctly entered, click `Create` and you will see the following additional fields:
 
-* **Enabled** - Select this box to enable this integration
-* **Created \(UTC\)** - Date and time that this integration was created
-* **Updated \(UTC\)** - Date and time that integration settings were most recently updated
+* **Enabled** - Select this box to enable this integration.
+* **Created \(UTC\)** - Date and time that this integration was created.
+* **Updated \(UTC\)** - Date and time that integration settings were most recently updated.
 
 After selecting the `Enabled` option, don't forget to click `Save`.
 
@@ -49,24 +49,24 @@ After selecting the `Enabled` option, don't forget to click `Save`.
 
 Look for the `+` button and click on it. You will see the following fields to complete:
 
-* **Name** - Name each key cutter based on where the device is located or what will be easily understandable for your staff
-* **Identifier** - Navigate to your `Hotek Interface System (Server)` application. Click on the `Client` tab and copy the number found under the `No.` column, next to the name of your device
-* **Data JSON** - Complete this field with `{ "Type": "HotekKeyCutter" }`
+* **Name** - Name each key cutter based on where the device is located or what will be easily understandable for your staff.
+* **Identifier** - Navigate to your `Hotek Interface System (Server)` application. Click on the `Client` tab and copy the number found under the `No.` column, next to the name of your device.
+* **Data JSON** - Complete this field with `{ "Type": "HotekKeyCutter" }`.
 
 When all details are correctly entered, click `Create` and look for the green success message.
 
-Navigate back to the main Key Cutters screen, where you will see a list of active key cutters in your property’s system. Add all key cutters that you would like to implement, using the same steps as described above for each one.
+Navigate back to the main `Key cutters` screen, where you will see a list of active key cutters in your property’s system. Add all key cutters that you would like to implement, using the same steps as described above for each one.
 
 ## Key Cutter Mapping
 
 If your room numbers in Mews do not match the room numbers listed in Hotek, you will need to set up a key cutter mapping for each space to communicate the name difference between the two systems. If these two sets of data are already matching, you may not need to set up mappings.
 
-To add a key cutter mapping, navigate back to the main Key Cutter Integration screen and look for the **Key cutter mapping** link. Click it to be redirected to a second page, and then click the `+` button. You will see the following fields to complete:
+To add a key cutter mapping, navigate back to the main `Key cutter integration` screen and look for the **Key cutter mapping** link. Click it to be redirected to a second page, and then click the `+` button. You will see the following fields to complete:
 
 * **Room** - Select from a drop-down menu of all room numbers created in Mews
 * **Lock identifier** - Enter the corresponding room number as it is identified in Hotek
 
-When both fields are correctly entered, click `Create`. When you navigate back to the main Key Cutter Mapping screen, where you will see a list of all mappings created for your property. Add all mappings that you would like to implement, using the same steps as described above for each one.
+When both fields are correctly entered, click `Create`. When you navigate back to the main `Key cutter mapping` screen, where you will see a list of all mappings created for your property. Add all mappings that you would like to implement, using the same steps as described above for each one.
 
 Once you have completed all of the steps above, please contact [integrations@mewssystems.com](mailto:integrations@mewssystems.com) and we will activate the key cutters for your integration.
 

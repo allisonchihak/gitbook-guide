@@ -12,28 +12,28 @@ If you have already installed Mews Connector, please proceed with the instructio
 
 ## Integration
 
-To create a new key cutter integration, navigate to the Integrations screen using the following path:
+To create a new key cutter integration, navigate to the `Integrations` screen using the following path:
 
 * **`Main Menu > Settings > Integrations`**
 
-Look for the `+` icon and click it. Next, in the **Facility management** section, click **key cutter integration**, and complete the following fields:
+Look for the `+` icon and click it. Next, in the `Facility management` section, click **Key cutter integration**, and complete the following fields:
 
 * **Name** - VisiOnline
 * **API URL** - This field consists of three parts. You can use the image just below for reference:
-  * Add `http://`
+  * Add `http://`.
   * Following this, enter the local IP address of the computer where the VisiOnline Interface System \(Client & Server\) application is running. For more information about finding your local IP address, [click here](https://support.microsoft.com/en-us/help/15291/windows-find-pc-ip-address). 
   * Next, enter the interface Port, which you can find in the `VisiOnline Interface System (Server)`. Be sure to include a `:` between your IP address and interface port.
   * Lastly, enter `/api/v1/`.
-  * Please note that you should not add any spaces between these three pieces of data. When completed, your API URL will look something like this: `http://127.0.0.1:10003/api/v1/`
+  * Please note that you should not add any spaces between these three pieces of data. When completed, your API URL will look something like this: `http://127.0.0.1:10003/api/v1/`.
 * **Username** - Username of the client in Visionline. \(It is recommended to create a new user and password in Visionline integration for the connection with Mews\).
 * **Password** - Password of the client in Visionline. \(It is recommended to create a new user and password in Visionline integration for the connection with Mews\).
-* **Notes** - Add any additional notes or information that you'd like to include
+* **Notes** - Add any additional notes or information that you'd like to include.
 
 When all information is correctly entered, click `Create` and you will see the following additional fields:
 
-* **Enabled** - Select this box to enable this integration
-* **Created \(UTC\)** - Date and time that this integration was created
-* **Updated \(UTC\)** - Date and time that integration settings were most recently updated
+* **Enabled** - Select this box to enable this integration.
+* **Created \(UTC\)** - Date and time that this integration was created.
+* **Updated \(UTC\)** - Date and time that integration settings were most recently updated.
 
 After selecting the `Enabled` option, don't forget to click `Save`.
 
@@ -49,18 +49,18 @@ Click the `+` button, and complete the following fields:
 
 When all details are correctly entered, click `Create` and look for the green success message.
 
-Navigate back to the main Key Cutters screen, where you will see a list of active key cutters in your property’s system. Add all key cutters that you would like to implement, using the same steps as described above for each one.
+Navigate back to the main `Key cutters` screen, where you will see a list of active key cutters in your property’s system. Add all key cutters that you would like to implement, using the same steps as described above for each one.
 
 ## Key Cutter Mapping
 
 If your room numbers in Mews do not match the room numbers listed in VisiOnline, you will need to set up a key cutter mapping for each space to communicate the name difference between the two systems. If these two sets of data are already matching, you may not need to set up mappings.
 
-To add a key cutter mapping, navigate back to the main Key Cutter Integration screen and look for the **Key cutter mapping** link. Click it to be redirected to a second page, and then click the `+` button. You will see the following fields to complete:
+To add a key cutter mapping, navigate back to the main `Key cutter integration` screen and look for the **Key cutter mapping** link. Click it to be redirected to a second page, and then click the `+` button. You will see the following fields to complete:
 
 * **Room** - Select from a drop-down menu of all room numbers created in Mews
 * **Lock identifier** - Enter the corresponding room number as it is identified in VisiOnline
 
-When both fields are correctly entered, click `Create`. When you navigate back to the main Key Cutter Mapping screen, you will see a list of all mappings created for your property. Add all mappings that you would like to implement, using the same steps as described above for each one.
+When both fields are correctly entered, click `Create`. When you navigate back to the main `Key cutter mapping` screen, you will see a list of all mappings created for your property. Add all mappings that you would like to implement, using the same steps as described above for each one.
 
 Once you have completed all of the steps above, please contact [integrations@mewssystems.com](mailto:integrations@mewssystems.com) and we will activate the key cutters for your integration.
 
