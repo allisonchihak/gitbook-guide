@@ -11,7 +11,7 @@ To create a Spanish Police Integration, you must first navigate to the Mews Inte
 Look for the `+` icon and click on it. The next page contains a list of all integrations that you can create in Mews. Under the `Legal environment` section, look for the `Spanish Police Integration` and click on it. You will see the following fields to complete:
 
 * **Name** - This field is optional
-* **Hotel code** - Hotel establishment code provided by the Spanish police.
+* **Hotel code** - Hotel establishment code provided by the Portuguese police.
 * **To** - E-mail address where the export should be sent. Include multiple e-mail addresses using either commas or semicolons
 * **Daily report execution time** - Time when should the export be generated and sent. By default it is set up to 9:00AM but you may change it to any time of the day you wish \(the logic is that when you fill in 0 hours and 0 minutes it is generated at midnight. If you fill in 10 hours and 45 minutes it is generated at 10:45AM, etc.\).
 * **Notes**
@@ -22,7 +22,11 @@ Once all details are properly completed click the button `Create` and select the
 
 Hotels can set up the integration by themselves following the points below:
 
-**Name:** This field may remain blank **Property code:** Property code provided by the Portuguese police **Tax ID number:** Tax ID number of the hotel **To:** Email address where the export should be sent; you can enter multiple e-mails, which can be separated using either comaa or semicolons **Daily report execution time:** Time when should the export be generated and sent. By default it is set up to 9:00AM but you may change it to any time of the day you wish \(the logic is that when you fill in 0 hours and 0 minutes it is generated at midnight. If you fill in 10 hours and 45 minutes it is generated at 10:45AM, etc.\).
+* **Name:** This field may remain blank 
+* **Property code:** Property code provided by the Portuguese police 
+* **Tax ID number:** Tax ID number of the hotel 
+* **To:** Email address where the export should be sent; you can enter multiple e-mails, which can be separated using either comaa or semicolons 
+* **Daily report execution time:** Time when should the export be generated and sent. By default it is set up to 9:00AM but you may change it to any time of the day you wish \(the logic is that when you fill in 0 hours and 0 minutes it is generated at midnight. If you fill in 10 hours and 45 minutes it is generated at 10:45AM, etc.\).
 
 When all fields are correctly completed, click on the `Save` button and you'll see the additional field at the top:
 
