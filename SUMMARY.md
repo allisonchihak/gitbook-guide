@@ -157,6 +157,7 @@
           * [Passport Scanner Integration\*](commander/settings/integrations/create-an-integration/facility-management/passport-scanner-integration.md)
           * [Key Cutter Integration](commander/settings/integrations/create-an-integration/facility-management/key-cutter-integration/README.md)
             * [Hotek](commander/settings/integrations/create-an-integration/facility-management/key-cutter-integration/hotek.md)
+            * [Kaba Saflok](commander/settings/integrations/create-an-integration/facility-management/key-cutter-integration/kaba-saflok.md)
             * [Messerschmitt](commander/settings/integrations/create-an-integration/facility-management/key-cutter-integration/messerschmitt.md)
             * [Salto](commander/settings/integrations/create-an-integration/facility-management/key-cutter-integration/salto.md)
             * [Onity](commander/settings/integrations/create-an-integration/facility-management/key-cutter-integration/onity.md)
