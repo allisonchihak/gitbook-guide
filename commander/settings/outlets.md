@@ -1,6 +1,6 @@
 # Outlets
 
-For properties with external revenue sources—such as a restaurant or spa—setting up outlets in Commander can help you track revenue sources and view specific outlet performance in the [Accounting Report](https://mews-systems.gitbook.io/guide/commander/reports/accounting-report) and [Manager Report](https://mews-systems.gitbook.io/guide/commander/reports/manager-report). 
+For properties with external revenue sources—such as a restaurant or spa—setting up outlets in Commander can help you track that revenue and view your outlet performance in the [Accounting Report](https://mews-systems.gitbook.io/guide/commander/reports/accounting-report) and [Manager Report](https://mews-systems.gitbook.io/guide/commander/reports/manager-report). 
 
 Navigate to the main `Outlets` screen using the following path:
 
