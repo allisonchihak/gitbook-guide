@@ -36,10 +36,10 @@ Before you install Operator, please note that your tablet will need to be either
 
 If you wish to set up Operator on a brand-new device, follow the steps below the first time you turn it on. If it is not new, find instructions on how to factory reset your particular device \(instructions will differ for each model\), perform the reset, and follow these steps: 
 
-1. Do not press the `Start` button at any point during the setup process.
+1. The setup process will automatically begin on the Welcome screen; do not press `Start` at any point.
 2. Select your preferred language. 
 3. Tap the “Welcome” message repeatedly until the QR code setup process begins.
-4. Select Next and connect to a Wi-Fi network. The device will automatically begin installing a QR reader application.
+4. Select `Next` and connect to a Wi-Fi network. The device will automatically begin installing a QR reader application.
 5. When the QR reader installation is complete, the device will automatically open the camera. In Commander, navigate to `Operator Configurations`, click on the kiosk you have just created, and scan the QR code by pointing your device's camera at it.
 6. Agree to all terms and conditions to begin the installation process.
 7. When the installation is complete, your device will automatically open the Operator app.
